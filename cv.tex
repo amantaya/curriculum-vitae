@@ -1,0 +1,147 @@
+\documentclass[skipsamekey,11pt,english]{curve}
+
+\PassOptionsToPackage{backend=biber,
+style=apa,
+labeldate=year,
+sorting=ndymdt,
+uniquename=init,
+defernumbers=true}{biblatex}
+
+% Most commands and style definitions are in settings.sty.
+\usepackage{settings}
+
+% Package to display your ORCID id
+\usepackage{orcidlink}
+
+% Package for fancy headers and footers
+\usepackage{fancyhdr}
+
+% Packages to use icons 
+\usepackage{academicons}
+\usepackage{graphicx} % required for scalebox
+
+% Package for date time
+\usepackage{datetime2}
+\DTMsetdatestyle{iso}
+%\DTMdefzonemap{-7}{0}{}
+
+% Package to show a frame around the body of the doc
+% Usefule for visualizing the margins of the doc
+% comment out or delete after using
+%\usepackage{showframe}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\geometry{includefoot}
+
+\makeatletter
+\renewcommand{\@evenfoot}{\hfill\thepage\hfill}
+\renewcommand{\@oddfoot}{\hfill\thepage\hfill}
+\makeatother
+
+%\makeatletter
+%\renewcommand{\@oddfoot}{\hfill\color{gray}\tiny\texttt{Last Updated: \DTMnow}}
+%\makeatother
+
+\setlength{\footskip}{20pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% If you need to further customise your biblatex setup e.g. with \DeclareFieldFormat etc please add them here AFTER loading settings.sty. For example, to remove the default "[Online] Available:" prefix before URLs when using the IEEE style:
+\DefineBibliographyStrings{english}{url={\textsc{url}}}
+
+% Define a custom bibliography style for the @unpublished entry in the .bib
+% @unpublished refers to presentations/meetings/workshops in Zotero
+% I wanted to display the date of the workshop as well as where it was held 
+% Which by the apa style does not do by default in biblatex 
+\DeclareBibliographyDriver{unpublished}{%
+  \printnames{author}%
+  \newunit\newblock
+  {\setunit{\addspace\bibopenparen}}{\usebibmacro{date}\bibcloseparen}%
+  \newunit\newblock
+  \printfield{title}%
+  \newunit\newblock
+  \printfield{type}
+  \newunit\newblock
+  \usebibmacro{event+venue+date}%
+  \finentry}
+
+%% Only needed if you want a Publication List
+\addbibresource{my-pubs.bib}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\mynames{Antaya/Andrew,
+Antaya/Andrew\bibnamedelima M.}
+%% MAKE SURE THERE IS NO SPACE AFTER THE FINAL NAME IN YOUR \mynames LIST
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Change the fonts if you want
+\ifxetexorluatex % If you're using XeLaTeX or LuaLaTeX
+  \usepackage{fontspec} 
+  %% You can use \setmainfont etc; I'm just using these font packages here because they provide OpenType fonts for use by XeLaTeX/LuaLaTeX anyway
+  \usepackage[p,osf,swashQ]{cochineal}
+  \usepackage[medium,bold]{cabin}
+  \usepackage[varqu,varl,scale=0.9]{zi4}
+\else % If you're using pdfLaTeX or latex
+  \usepackage[T1]{fontenc}
+  \usepackage[p,osf,swashQ]{cochineal}
+  \usepackage{cabin}
+  \usepackage[varqu,varl,scale=0.9]{zi4}
+\fi
+
+% Change the page margins if you want
+% \geometry{left=1cm,right=1cm,top=1.5cm,bottom=1.5cm}
+
+% Change the colours if you want
+% \definecolor{SwishLineColour}{HTML}{00FFFF}
+% \definecolor{MarkerColour}{HTML}{0000CC}
+
+% Change the item prefix marker if you want
+% \prefixmarker{$\diamond$}
+
+%% Photo is only shown if "fullonly" is included
+%% \includecomment{fullonly}
+\excludecomment{fullonly}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\leftheader{%
+  {\LARGE\bfseries\sffamily Andrew M. Antaya, M.S. \orcidlink{0000-0002-6067-9807}}
+  
+  \vspace{1em}
+  \makefield{\faEnvelope[regular]}{\href{mailto:aantaya@arizona.edu}{\texttt{aantaya@arizona.edu}}}
+%
+  \makefield{\faTwitter}{\href{https://twitter.com/andrew_antaya}{\texttt{@andrew\_antaya}}}
+%  
+  \makefield{\faGithub}{\href{https://github.com/amantaya}{\texttt{amantaya}}}
+%  
+  \makefield{\faGlobe}{\url{https://andrewantaya.com/}}
+  % You can use a tabular here if you want to line up the fields.
+}
+
+\rightheader{~}
+\begin{fullonly}
+\photo[r]{photo}
+\photoscale{0.13}
+\end{fullonly}
+
+\title{Curriculum Vitae}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\makeheaders[c]
+\makerubric{education}
+\makerubric{employment}
+
+% If you're not a researcher nor an academic, you probably don't have any publications; delete this line.
+%% Sometimes when a section can't be nicely modelled with the \entry[]... mechanism; hack our own and use \input NOT \makerubric
+\input{publications}
+
+\makerubric{skills}
+\makerubric{service}
+
+\makerubric{referee}
+% \input{referee-full}
+
+{\vfill\hfill\color{gray}\tiny\texttt{Last Updated: \DTMNow}}
+
+\end{document}

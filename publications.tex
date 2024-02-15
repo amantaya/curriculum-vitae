@@ -1,0 +1,18 @@
+%% Sometimes when a section can't be nicely modelled with the \entry[]... mechanism; hack our own
+\makerubrichead{Publications}
+
+%% Assuming you've already given \addbibresource{own-bib.bib} in the main doc. Right? Right???
+\nocite{*}
+
+%% If you just want everything in one list
+% \printbibliography[heading={none}]
+
+\printbibliography[heading={subbibliography},title={Journal Articles - Peer Reviewed},type=article]
+
+\printbibliography[heading={subbibliography},title={Extension Publications - Peer Reviewed},type=misc]
+
+\printbibliography[heading={subbibliography},title={Scientific Reports - Not Peer Reviewed},type=report]
+
+\printbibliography[heading={subbibliography},title={Presentations, Workshops, Posters},type=unpublished]
+
+\printbibliography[heading={subbibliography},title={Scientific Software},type=software]
