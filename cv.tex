@@ -1,4 +1,4 @@
-\documentclass[skipsamekey,11pt,english]{curve}
+\documentclass[11pt,english]{curve}
 
 \PassOptionsToPackage{backend=biber,
 style=apa,
@@ -12,9 +12,6 @@ defernumbers=true}{biblatex}
 
 % Package to display your ORCID id
 \usepackage{orcidlink}
-
-% Package for fancy headers and footers
-\usepackage{fancyhdr}
 
 % Packages to use icons 
 \usepackage{academicons}
@@ -132,17 +129,16 @@ Antaya/Andrew\bibnamedelima M.}
 \makeheaders[c]
 \makerubric{education}
 \makerubric{employment}
-
-% If you're not a researcher nor an academic, you probably don't have any publications; delete this line.
-%% Sometimes when a section can't be nicely modelled with the \entry[]... mechanism; hack our own and use \input NOT \makerubric
 \input{publications}
-
+\newpage
 \makerubric{skills}
 \makerubric{service}
-
 \makerubric{referee}
 % \input{referee-full}
 
+% add a small gray timestamp to the lower right corner
+% this will help tell when the document was last updated
+% and help with managing versions of the document
 {\vfill\hfill\color{gray}\tiny\texttt{Last Updated: \DTMNow}}
 
 \end{document}
