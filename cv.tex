@@ -13,7 +13,7 @@ defernumbers=true}{biblatex}
 % Package to display your ORCID id
 \usepackage{orcidlink}
 
-% Packages to use icons 
+% Packages to use icons
 \usepackage{academicons}
 \usepackage{graphicx} % required for scalebox
 
@@ -47,8 +47,8 @@ defernumbers=true}{biblatex}
 
 % Define a custom bibliography style for the @unpublished entry in the .bib
 % @unpublished refers to presentations/meetings/workshops in Zotero
-% I wanted to display the date of the workshop as well as where it was held 
-% Which by the apa style does not do by default in biblatex 
+% I wanted to display the date of the workshop as well as where it was held
+% Which by the apa style does not do by default in biblatex
 \DeclareBibliographyDriver{unpublished}{%
   \printnames{author}%
   \newunit\newblock
@@ -59,6 +59,20 @@ defernumbers=true}{biblatex}
   \printfield{type}
   \newunit\newblock
   \usebibmacro{event+venue+date}%
+  \finentry}
+
+\DeclareBibliographyDriver{software}{%
+  \printnames{author}%
+  \newunit\newblock
+  \printfield{title}%
+  \newunit\newblock
+  \printfield{version}%
+  \newunit\newblock
+  \printfield{organization}%
+  \newunit\newblock
+  \printfield{date}%
+  \newunit\newblock
+  \printfield{url}%
   \finentry}
 
 %% Only needed if you want a Publication List
@@ -73,7 +87,7 @@ Antaya/Andrew\bibnamedelima M.}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Change the fonts if you want
 \ifxetexorluatex % If you're using XeLaTeX or LuaLaTeX
-  \usepackage{fontspec} 
+  \usepackage{fontspec}
   %% You can use \setmainfont etc; I'm just using these font packages here because they provide OpenType fonts for use by XeLaTeX/LuaLaTeX anyway
   \usepackage[p,osf,swashQ]{cochineal}
   \usepackage[medium,bold]{cabin}
@@ -102,14 +116,14 @@ Antaya/Andrew\bibnamedelima M.}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \leftheader{%
   {\LARGE\bfseries\sffamily Andrew M. Antaya, M.S. \orcidlink{0000-0002-6067-9807}}
-  
+
   \vspace{1em}
   \makefield{\faEnvelope[regular]}{\href{mailto:aantaya@arizona.edu}{\texttt{aantaya@arizona.edu}}}
 %
   \makefield{\faTwitter}{\href{https://twitter.com/andrew_antaya}{\texttt{@andrew\_antaya}}}
-%  
+%
   \makefield{\faGithub}{\href{https://github.com/amantaya}{\texttt{amantaya}}}
-%  
+%
   \makefield{\faGlobe}{\url{https://andrewantaya.com/}}
   % You can use a tabular here if you want to line up the fields.
 }
