@@ -6,8 +6,6 @@ Welcome to my CV repository! You can view my CV by clicking the link below:
 
 Feel free to explore and reach out if you have any questions or opportunities.
 
-## How I Build My CV
-
 ## Contact
 
 - **Email:** [andrew.antaya@sdstate.edu](mailto:your-email@example.com)
