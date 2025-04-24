@@ -9,6 +9,7 @@ Feel free to explore and reach out if you have any questions or opportunities.
 ## Contact
 
 - **Email:** [andrew.antaya@sdstate.edu](mailto:your-email@example.com)
+- **Google Scholar:** [Andrew Antaya](https://scholar.google.com/citations?hl=en&user=mO05f8IAAAAJ)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile) # TODO - what is my LinkedIn?
 - **GitHub:** [@amantaya](https://github.com/amantaya)
 - **Twitter:** [@andrew_antaya](https://x.com/andrew_antaya)
