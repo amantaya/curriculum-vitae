@@ -113,6 +113,14 @@ Antaya/Andrew\bibnamedelima M.}
 %% \includecomment{fullonly}
 \excludecomment{fullonly}
 
+% create a filter for teaching experience
+% the filters are used in the publications.tex file
+\defbibfilter{teaching}{type=unpublished and keyword={lecture}}
+
+% create a filter for presentations, posters, workshops experience
+% the filters are used in the publications.tex file
+\defbibfilter{presentations}{type=unpublished and not keyword={lecture}}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \leftheader{%
   {\LARGE\bfseries\sffamily Andrew M. Antaya, M.S. \orcidlink{0000-0002-6067-9807}}
@@ -147,7 +155,6 @@ Antaya/Andrew\bibnamedelima M.}
 \makerubric{education}
 \makerubric{employment}
 \input{publications}
-\newpage
 \makerubric{skills}
 \makerubric{service}
 \makerubric{referee}
