@@ -19,6 +19,42 @@
 
 \refsection{0}
   \datalist[entry]{ndymdt/apasortcite//global/global}
+    \entry{Antaya2025}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{7}
+      \field{eventtitle}{Spring {{Seminar Series}}, {{South Dakota State University}}}
+      \field{month}{4}
+      \field{title}{Putting {{FAIR}} and {{CARE Data Principles}} into {{Practice}}}
+      \field{type}{Guest Lecture}
+      \field{venue}{Rapid City, SD, USA}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/3N63SA9S/Putting-FAIR-Data-into-Practice.pptx
+      \endverb
+      \keyw{✅,CARE-data,FAIR-data,lecture}
+    \endentry
     \entry{DuvalEtAl2025a}{report}{}
       \name{author}{8}{ul=6}{%
         {{un=0,uniquepart=base,hash=51ee409abfa56fac0e9978d204a688af}{%
@@ -510,6 +546,77 @@
       \endverb
       \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
+    \entry{Antaya2024a}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{During this lecture, we discussed how to use ArcGIS Pro 10, including how to add shapefiles, load basemaps, create a map layout, and export the layout to JPG and TIFF.}
+      \field{annotation}{Guest Lecture}
+      \field{day}{10}
+      \field{eventtitle}{South {{Dakota State University}}}
+      \field{month}{12}
+      \field{title}{Introduction to {{ArcGIS}}}
+      \field{type}{Guest Lecture}
+      \field{venue}{Rapid City, SD, USA}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{✅,ArcGIS,GIS,lecture}
+    \endentry
+    \entry{Antaya2024b}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{During this lecture, we discussed how to load CSV data into R and how to do summary statistics (e.g., mean, min, max) on example GreenFeed data.}
+      \field{day}{3}
+      \field{eventtitle}{South {{Dakota State University}}}
+      \field{month}{12}
+      \field{title}{Introduction to {{R Programming}}}
+      \field{type}{Guest Lecture}
+      \field{venue}{Rapid City, SD, USA}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{✅,lecture,R,R-programming}
+    \endentry
     \entry{AntayaEtAl2024b}{report}{}
       \name{author}{10}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
@@ -613,6 +720,43 @@
       \verb https://extension.arizona.edu/sites/default/files/2024-11/az2095-2024.pdf
       \endverb
       \keyw{✅,VF,virtual-fence,virtual-fencing}
+    \endentry
+    \entry{Antaya2024}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{eventtitle}{Martin/{{Short Lab Meeting}}, {{South Dakota State University}}}
+      \field{month}{10}
+      \field{title}{Putting {{FAIR Data Principles}} into {{Practice}}}
+      \field{type}{Guest Lecture}
+      \field{venue}{Rapid City, SD, USA}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/5KDBHEAV/Putting-FAIR-Data-into-Practice.pptx
+      \endverb
+      \keyw{✅,data,FAIR-data,lecture}
     \endentry
     \entry{MayerEtAl2024}{report}{}
       \name{author}{8}{ul=5}{%
@@ -1585,7 +1729,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{1}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1813,7 +1957,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{2}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2527,7 +2671,7 @@
       \strng{authorbibnamehash}{16c1275565488fe936703d1ab690c410}
       \strng{authornamehash}{16c1275565488fe936703d1ab690c410}
       \strng{authorfullhash}{16c1275565488fe936703d1ab690c410}
-      \field{extraname}{3}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2603,6 +2747,42 @@
     \endentry
   \enddatalist
   \datalist[entry]{ndymdt/global//global/global}
+    \entry{Antaya2025}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{7}
+      \field{eventtitle}{Spring {{Seminar Series}}, {{South Dakota State University}}}
+      \field{month}{4}
+      \field{title}{Putting {{FAIR}} and {{CARE Data Principles}} into {{Practice}}}
+      \field{type}{Guest Lecture}
+      \field{venue}{Rapid City, SD, USA}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/3N63SA9S/Putting-FAIR-Data-into-Practice.pptx
+      \endverb
+      \keyw{✅,CARE-data,FAIR-data,lecture}
+    \endentry
     \entry{DuvalEtAl2025a}{report}{}
       \name{author}{8}{ul=6}{%
         {{un=0,uniquepart=base,hash=51ee409abfa56fac0e9978d204a688af}{%
@@ -3094,6 +3274,77 @@
       \endverb
       \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
+    \entry{Antaya2024a}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{During this lecture, we discussed how to use ArcGIS Pro 10, including how to add shapefiles, load basemaps, create a map layout, and export the layout to JPG and TIFF.}
+      \field{annotation}{Guest Lecture}
+      \field{day}{10}
+      \field{eventtitle}{South {{Dakota State University}}}
+      \field{month}{12}
+      \field{title}{Introduction to {{ArcGIS}}}
+      \field{type}{Guest Lecture}
+      \field{venue}{Rapid City, SD, USA}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{✅,ArcGIS,GIS,lecture}
+    \endentry
+    \entry{Antaya2024b}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{During this lecture, we discussed how to load CSV data into R and how to do summary statistics (e.g., mean, min, max) on example GreenFeed data.}
+      \field{day}{3}
+      \field{eventtitle}{South {{Dakota State University}}}
+      \field{month}{12}
+      \field{title}{Introduction to {{R Programming}}}
+      \field{type}{Guest Lecture}
+      \field{venue}{Rapid City, SD, USA}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{✅,lecture,R,R-programming}
+    \endentry
     \entry{AntayaEtAl2024b}{report}{}
       \name{author}{10}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
@@ -3197,6 +3448,43 @@
       \verb https://extension.arizona.edu/sites/default/files/2024-11/az2095-2024.pdf
       \endverb
       \keyw{✅,VF,virtual-fence,virtual-fencing}
+    \endentry
+    \entry{Antaya2024}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{eventtitle}{Martin/{{Short Lab Meeting}}, {{South Dakota State University}}}
+      \field{month}{10}
+      \field{title}{Putting {{FAIR Data Principles}} into {{Practice}}}
+      \field{type}{Guest Lecture}
+      \field{venue}{Rapid City, SD, USA}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/5KDBHEAV/Putting-FAIR-Data-into-Practice.pptx
+      \endverb
+      \keyw{✅,data,FAIR-data,lecture}
     \endentry
     \entry{MayerEtAl2024}{report}{}
       \name{author}{8}{ul=5}{%
@@ -4169,7 +4457,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{1}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -4397,7 +4685,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{2}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -5111,7 +5399,7 @@
       \strng{authorbibnamehash}{16c1275565488fe936703d1ab690c410}
       \strng{authornamehash}{16c1275565488fe936703d1ab690c410}
       \strng{authorfullhash}{16c1275565488fe936703d1ab690c410}
-      \field{extraname}{3}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
