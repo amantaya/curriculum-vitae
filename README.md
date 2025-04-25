@@ -12,7 +12,7 @@ Feel free to explore and reach out if you have any questions or opportunities.
 
 - **Email:** [andrew.antaya@sdstate.edu](mailto:your-email@example.com)
 - **Google Scholar:** [Andrew Antaya](https://scholar.google.com/citations?hl=en&user=mO05f8IAAAAJ)
-- **LinkedIn:** [Andrew Antaya](www.linkedin.com/in/andrew-antaya-b9920a362)
 - **GitHub:** [@amantaya](https://github.com/amantaya)
+- **LinkedIn:** [Andrew Antaya](www.linkedin.com/in/andrew-antaya-b9920a362)
 - **Twitter:** [@andrew_antaya](https://x.com/andrew_antaya)
 - **Personal Website:** [andrewantaya.com](https://andrewantaya.com)
