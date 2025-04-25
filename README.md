@@ -1,5 +1,7 @@
 # Curriculum Vitae
 
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green?logo=orcid)](https://orcid.org/0000-0002-1825-0097)[![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue?logo=google-scholar)](https://scholar.google.com/citations?hl=en&user=mO05f8IAAAAJ)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/andrew-antaya-b9920a362)[![GitHub Achievements](https://img.shields.io/badge/GitHub-Achievements-blue?logo=github)](https://github.com/amantaya?tab=achievements)
+
 Welcome to my CV repository! You can view my CV by clicking the link below:
 
 [View My CV](./Andrew-Antaya-CV-April-2025.pdf)
