@@ -4,7 +4,7 @@
 
 Welcome to my CV repository! You can view my CV by clicking the link below:
 
-[View My CV](./Andrew-Antaya-CV-April-2025.pdf)
+[View My CV](./cv.pdf)
 
 Feel free to explore and reach out if you have any questions or opportunities.
 
