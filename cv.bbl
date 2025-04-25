@@ -315,7 +315,7 @@
       \endverb
       \keyw{✅,adaptive management,desert Southwest,precision livestock technology,virtual-fence}
     \endentry
-    \entry{MayerEtAl2024a}{report}{}
+    \entry{MayerEtAl2024}{report}{}
       \name{author}{10}{ul=5}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
@@ -416,7 +416,7 @@
       \endverb
       \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{AntayaEtAl2024b}{report}{}
+    \entry{AntayaEtAl2024}{report}{}
       \name{author}{10}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -520,7 +520,7 @@
       \endverb
       \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{MayerEtAl2024}{report}{}
+    \entry{MayerEtAl2024a}{report}{}
       \name{author}{8}{ul=5}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
@@ -591,7 +591,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{In Arizona and other western states, ranchers and land managers rely on thousands of miles of permanent wire fencing to manage livestock on extensive rangelands (Hayter 1939; Netz 2004). This type of fencing has improved rangeland conditions in many places by aiding in the application of grazing systems (Holecheck et al. 2011). However, wire fencing can fragment landscape connectivity, pose a risk to wildlife, and is a major financial investment. Moreover, it offers limited flexibility in adjusting pasture size, actively manipulating grazing distribution, or avoiding high-use areas or sensitive habitats within a pasture (Jakes et al. 2018).}
-      \field{annotation}{Accepted: 2024-07-20T02:52:55Z}
       \field{langid}{english}
       \field{month}{7}
       \field{number}{az2088}
@@ -607,10 +606,10 @@
       \verb /home/andrew/Zotero/storage/E5ERPMPE/Mayer et al_2024_Foundations of Virtual Fencing.pdf
       \endverb
       \verb{urlraw}
-      \verb https://repository.arizona.edu/handle/10150/672954
+      \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2088-2024.pdf
       \endverb
       \verb{url}
-      \verb https://repository.arizona.edu/handle/10150/672954
+      \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2088-2024.pdf
       \endverb
       \keyw{✅,animal-welfare,conditioning,training,VF,virtual-fence}
     \endentry
@@ -672,7 +671,7 @@
            givenun=0}}%
       }
       \list{institution}{1}{%
-        {University of Arizona Extension Publication az2087}%
+        {University of Arizona}%
       }
       \list{location}{1}{%
         {Tucson, Arizona, USA}%
@@ -693,23 +692,24 @@
       \field{month}{7}
       \field{number}{az2087}
       \field{title}{Foundations of {{Virtual Fencing}}: {{The Vital Role}} of {{High-Quality GIS Data}}}
+      \field{type}{Extension Publication}
       \field{year}{2024}
       \field{dateera}{ce}
       \true{nocite}
       \field{pages}{6}
       \range{pages}{1}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/E72F7IYS/Antaya et al. - Foundations of virtual fencing the vital role of .pdf
+      \verb /home/andrew/Zotero/storage/KBKSYW5A/Antaya et al. - 2024 - Foundations of Virtual Fencing The Vital Role of High-Quality GIS Data.pdf
       \endverb
       \verb{urlraw}
-      \verb https://extension.arizona.edu/pubs/foundations-virtual-fencing-vital-role-high-quality-gis-data
+      \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2087-2024.pdf
       \endverb
       \verb{url}
-      \verb https://extension.arizona.edu/pubs/foundations-virtual-fencing-vital-role-high-quality-gis-data
+      \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2087-2024.pdf
       \endverb
-      \keyw{✅,📎}
+      \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{AntayaEtAl2024}{report}{}
+    \entry{AntayaEtAl2024b}{report}{}
       \name{author}{8}{ul=4}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -792,14 +792,14 @@
       \verb /home/andrew/Zotero/storage/66SN6A2A/Antaya et al. - 2024 - What is Virtual Fence Basics of a Virtual Fencing.pdf
       \endverb
       \verb{urlraw}
-      \verb https://extension.arizona.edu/pubs/what-virtual-fence-basics-virtual-fencing-system
+      \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2079-2024.pdf
       \endverb
       \verb{url}
-      \verb https://extension.arizona.edu/pubs/what-virtual-fence-basics-virtual-fencing-system
+      \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2079-2024.pdf
       \endverb
-      \keyw{✅}
+      \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{AntayaEtAl2023d}{unpublished}{}
+    \entry{AntayaEtAl2023a}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -943,7 +943,7 @@
       \endverb
       \keyw{✅,API,application-programming-interface}
     \endentry
-    \entry{AntayaEtAl2023a}{unpublished}{}
+    \entry{AntayaEtAl2023b}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1085,7 +1085,7 @@
       \endverb
       \keyw{✅}
     \endentry
-    \entry{AntayaEtAl2023}{unpublished}{}
+    \entry{AntayaEtAl2023d}{unpublished}{}
       \name{author}{3}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1179,7 +1179,7 @@
       \endverb
       \keyw{✅,base station,GitHub,Python,virtual-fence}
     \endentry
-    \entry{Antaya2023b}{software}{}
+    \entry{Antaya2023}{software}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -1314,7 +1314,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2023b}{unpublished}{}
+    \entry{AntayaEtAl2023c}{unpublished}{}
       \name{author}{5}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -1402,7 +1402,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2023c}{unpublished}{}
+    \entry{AntayaEtAl2023}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1476,7 +1476,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{Antaya2023}{unpublished}{}
+    \entry{Antaya2023b}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1741,7 +1741,7 @@
       \endverb
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022a}{unpublished}{}
+    \entry{AntayaEtAl2022c}{unpublished}{}
       \name{author}{5}{ul=3}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -1828,7 +1828,7 @@
       \endverb
       \keyw{✅,mypub,public land,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2022}{unpublished}{}
+    \entry{AntayaEtAl2022b}{unpublished}{}
       \name{author}{5}{ul=3}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -2054,7 +2054,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022b}{unpublished}{}
+    \entry{AntayaEtAl2022}{unpublished}{}
       \name{author}{5}{ul=4}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -2110,7 +2110,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022c}{misc}{}
+    \entry{AntayaEtAl2022a}{misc}{}
       \name{author}{4}{ul=4}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -2805,7 +2805,7 @@
       \endverb
       \keyw{✅,adaptive management,desert Southwest,precision livestock technology,virtual-fence}
     \endentry
-    \entry{MayerEtAl2024a}{report}{}
+    \entry{MayerEtAl2024}{report}{}
       \name{author}{10}{ul=5}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
@@ -2906,7 +2906,7 @@
       \endverb
       \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{AntayaEtAl2024b}{report}{}
+    \entry{AntayaEtAl2024}{report}{}
       \name{author}{10}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -3010,7 +3010,7 @@
       \endverb
       \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{MayerEtAl2024}{report}{}
+    \entry{MayerEtAl2024a}{report}{}
       \name{author}{8}{ul=5}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
@@ -3081,7 +3081,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{In Arizona and other western states, ranchers and land managers rely on thousands of miles of permanent wire fencing to manage livestock on extensive rangelands (Hayter 1939; Netz 2004). This type of fencing has improved rangeland conditions in many places by aiding in the application of grazing systems (Holecheck et al. 2011). However, wire fencing can fragment landscape connectivity, pose a risk to wildlife, and is a major financial investment. Moreover, it offers limited flexibility in adjusting pasture size, actively manipulating grazing distribution, or avoiding high-use areas or sensitive habitats within a pasture (Jakes et al. 2018).}
-      \field{annotation}{Accepted: 2024-07-20T02:52:55Z}
       \field{langid}{english}
       \field{month}{7}
       \field{number}{az2088}
@@ -3097,10 +3096,10 @@
       \verb /home/andrew/Zotero/storage/E5ERPMPE/Mayer et al_2024_Foundations of Virtual Fencing.pdf
       \endverb
       \verb{urlraw}
-      \verb https://repository.arizona.edu/handle/10150/672954
+      \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2088-2024.pdf
       \endverb
       \verb{url}
-      \verb https://repository.arizona.edu/handle/10150/672954
+      \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2088-2024.pdf
       \endverb
       \keyw{✅,animal-welfare,conditioning,training,VF,virtual-fence}
     \endentry
@@ -3162,7 +3161,7 @@
            givenun=0}}%
       }
       \list{institution}{1}{%
-        {University of Arizona Extension Publication az2087}%
+        {University of Arizona}%
       }
       \list{location}{1}{%
         {Tucson, Arizona, USA}%
@@ -3183,23 +3182,24 @@
       \field{month}{7}
       \field{number}{az2087}
       \field{title}{Foundations of {{Virtual Fencing}}: {{The Vital Role}} of {{High-Quality GIS Data}}}
+      \field{type}{Extension Publication}
       \field{year}{2024}
       \field{dateera}{ce}
       \true{nocite}
       \field{pages}{6}
       \range{pages}{1}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/E72F7IYS/Antaya et al. - Foundations of virtual fencing the vital role of .pdf
+      \verb /home/andrew/Zotero/storage/KBKSYW5A/Antaya et al. - 2024 - Foundations of Virtual Fencing The Vital Role of High-Quality GIS Data.pdf
       \endverb
       \verb{urlraw}
-      \verb https://extension.arizona.edu/pubs/foundations-virtual-fencing-vital-role-high-quality-gis-data
+      \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2087-2024.pdf
       \endverb
       \verb{url}
-      \verb https://extension.arizona.edu/pubs/foundations-virtual-fencing-vital-role-high-quality-gis-data
+      \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2087-2024.pdf
       \endverb
-      \keyw{✅,📎}
+      \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{AntayaEtAl2024}{report}{}
+    \entry{AntayaEtAl2024b}{report}{}
       \name{author}{8}{ul=4}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3282,14 +3282,14 @@
       \verb /home/andrew/Zotero/storage/66SN6A2A/Antaya et al. - 2024 - What is Virtual Fence Basics of a Virtual Fencing.pdf
       \endverb
       \verb{urlraw}
-      \verb https://extension.arizona.edu/pubs/what-virtual-fence-basics-virtual-fencing-system
+      \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2079-2024.pdf
       \endverb
       \verb{url}
-      \verb https://extension.arizona.edu/pubs/what-virtual-fence-basics-virtual-fencing-system
+      \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2079-2024.pdf
       \endverb
-      \keyw{✅}
+      \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{AntayaEtAl2023d}{unpublished}{}
+    \entry{AntayaEtAl2023a}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3433,7 +3433,7 @@
       \endverb
       \keyw{✅,API,application-programming-interface}
     \endentry
-    \entry{AntayaEtAl2023a}{unpublished}{}
+    \entry{AntayaEtAl2023b}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3575,7 +3575,7 @@
       \endverb
       \keyw{✅}
     \endentry
-    \entry{AntayaEtAl2023}{unpublished}{}
+    \entry{AntayaEtAl2023d}{unpublished}{}
       \name{author}{3}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3669,7 +3669,7 @@
       \endverb
       \keyw{✅,base station,GitHub,Python,virtual-fence}
     \endentry
-    \entry{Antaya2023b}{software}{}
+    \entry{Antaya2023}{software}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -3804,7 +3804,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2023b}{unpublished}{}
+    \entry{AntayaEtAl2023c}{unpublished}{}
       \name{author}{5}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -3892,7 +3892,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2023c}{unpublished}{}
+    \entry{AntayaEtAl2023}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3966,7 +3966,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{Antaya2023}{unpublished}{}
+    \entry{Antaya2023b}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -4231,7 +4231,7 @@
       \endverb
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022a}{unpublished}{}
+    \entry{AntayaEtAl2022c}{unpublished}{}
       \name{author}{5}{ul=3}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -4318,7 +4318,7 @@
       \endverb
       \keyw{✅,mypub,public land,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2022}{unpublished}{}
+    \entry{AntayaEtAl2022b}{unpublished}{}
       \name{author}{5}{ul=3}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -4544,7 +4544,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022b}{unpublished}{}
+    \entry{AntayaEtAl2022}{unpublished}{}
       \name{author}{5}{ul=4}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -4600,7 +4600,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022c}{misc}{}
+    \entry{AntayaEtAl2022a}{misc}{}
       \name{author}{4}{ul=4}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
