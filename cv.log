@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.4.24)  25 APR 2025 11:53
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.4.24)  12 MAY 2025 11:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1457,6 +1457,10 @@ Package hyperref Info: Link coloring ON on input line 152.
 \openout6 = `cv.out'.
 
 
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
@@ -1513,7 +1517,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/Cabin(0)/b/n on input line 152.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/zi4/b/n on input line 152.
- (/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
+(/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
 )
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
@@ -1638,10 +1642,10 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49474 strings out of 474878
- 1053706 string characters out of 5762516
- 1965040 words of memory out of 5000000
- 70777 multiletter control sequences out of 15000+600000
+ 49477 strings out of 474878
+ 1053774 string characters out of 5762516
+ 1965027 words of memory out of 5000000
+ 70780 multiletter control sequences out of 15000+600000
  562298 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  100i,9n,128p,2052b,5260s stack positions out of 10000i,1000n,20000p,200000b,200000s
