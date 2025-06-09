@@ -19,6 +19,114 @@
 
 \refsection{0}
   \datalist[entry]{ndymdt/apasortcite//global/global}
+    \entry{AudoinEtAl2025}{report}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=2ad085d00b8a688e65a471693db6b512}{%
+           family={Audoin},
+           familyi={A\bibinitperiod},
+           given={Flavie},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b9977f743cec09600ca3df62d284f3c}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91d091814794d1eef6078ec2acbbb168}{%
+           family={May},
+           familyi={M\bibinitperiod},
+           given={Tegan},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96b8d40c3152d1292158dd950db99046}{%
+           family={Burnidge},
+           familyi={B\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={Brandon},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7a2b08c07fc3942d596fccceda14bed}{%
+           family={Noelle},
+           familyi={N\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea8a36c77ae427393fdf7e4de277a5e3}{%
+           family={Blum},
+           familyi={B\bibinitperiod},
+           given={Brett},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cab943dc199fd74d0dd7d129b121bd8e}{%
+           family={Blouin},
+           familyi={B\bibinitperiod},
+           given={Carter},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
+           family={Lien},
+           familyi={L\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c3cbdc39a2859a73c1f5c4a2fdd54d6}{%
+           family={Dalke},
+           familyi={D\bibinitperiod},
+           given={Amber},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of Arizona}%
+      }
+      \list{location}{1}{%
+        {Tucson, Arizona, USA}%
+      }
+      \strng{namehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{fullhash}{48e89497d12e5e951d87a1b40fe35848}
+      \strng{bibnamehash}{48e89497d12e5e951d87a1b40fe35848}
+      \strng{authorbibnamehash}{48e89497d12e5e951d87a1b40fe35848}
+      \strng{authornamehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{authorfullhash}{48e89497d12e5e951d87a1b40fe35848}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{VF systems have the potential to improve livestock and rangeland management on expansive rangelands, but they also require careful management of VF collars to achieve the greatest benefit. Best practices for collar deployment include labeling all collars with a unique number and pairing that number with an individual animal’s identification ear tag number. Without this, specific animals cannot be properly identified and managed in the VF system’s software. Best practices for managing collars in the VF system’s software include organizing individual animals with functioning collars into a “managed” virtual herd based on the paired collar and ear tag number, and organizing collars into virtual herds based on the function or status of the collar as individual collars are lost or stop functioning. Doing so will improve the visualization of VF collars in the system’s software.}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{az2124}
+      \field{title}{Foundations of {{Virtual Fencing}}: {{Collar Deployment Basics}}}
+      \field{type}{Extension Publication}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{6}
+      \range{pages}{1}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/XA3GKC5U/Audoin et al. - 2024 - Foundations of Virtual Fencing Collar Deployment Basics.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://extension.arizona.edu/sites/default/files/2025-06/az2124_Foundations-of-Virtual-Fencing_Collar-Deployment-Basics.pdf
+      \endverb
+      \verb{url}
+      \verb https://extension.arizona.edu/sites/default/files/2025-06/az2124_Foundations-of-Virtual-Fencing_Collar-Deployment-Basics.pdf
+      \endverb
+      \keyw{✅,VF,virtual-fence,virtual-fencing}
+    \endentry
     \entry{Antaya2025}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
@@ -445,7 +553,7 @@
       \endverb
       \keyw{✅,cattle-ranching,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{MayerEtAl2024a}{report}{}
+    \entry{MayerEtAl2024}{report}{}
       \name{author}{10}{ul=5}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
@@ -546,7 +654,7 @@
       \endverb
       \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{Antaya2024a}{unpublished}{}
+    \entry{Antaya2024}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -582,7 +690,7 @@
       \true{nocite}
       \keyw{✅,ArcGIS,GIS,lecture}
     \endentry
-    \entry{Antaya2024b}{unpublished}{}
+    \entry{Antaya2024a}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -617,7 +725,7 @@
       \true{nocite}
       \keyw{✅,lecture,R,R-programming}
     \endentry
-    \entry{AntayaEtAl2024b}{report}{}
+    \entry{AntayaEtAl2024}{report}{}
       \name{author}{10}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -721,7 +829,7 @@
       \endverb
       \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{Antaya2024}{unpublished}{}
+    \entry{Antaya2024b}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -758,7 +866,7 @@
       \endverb
       \keyw{✅,data,FAIR-data,lecture}
     \endentry
-    \entry{MayerEtAl2024}{report}{}
+    \entry{MayerEtAl2024a}{report}{}
       \name{author}{8}{ul=5}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
@@ -851,7 +959,7 @@
       \endverb
       \keyw{✅,animal-welfare,conditioning,training,VF,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2024}{report}{}
+    \entry{AntayaEtAl2024b}{report}{}
       \name{author}{9}{ul=4}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1037,7 +1145,7 @@
       \endverb
       \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{AntayaEtAl2023c}{unpublished}{}
+    \entry{AntayaEtAl2023d}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1134,7 +1242,7 @@
       \endverb
       \keyw{✅}
     \endentry
-    \entry{AntayaBrennan2023}{software}{}
+    \entry{AntayaBrennan2023a}{software}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -1181,7 +1289,7 @@
       \endverb
       \keyw{✅,API,application-programming-interface}
     \endentry
-    \entry{AntayaEtAl2023b}{unpublished}{}
+    \entry{AntayaEtAl2023a}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1275,7 +1383,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaBrennan2023a}{software}{}
+    \entry{AntayaBrennan2023}{software}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1552,7 +1660,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2023d}{unpublished}{}
+    \entry{AntayaEtAl2023b}{unpublished}{}
       \name{author}{5}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -1640,7 +1748,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2023a}{unpublished}{}
+    \entry{AntayaEtAl2023c}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1942,7 +2050,7 @@
       \endverb
       \keyw{✅,API,application-programming-interface}
     \endentry
-    \entry{Antaya2022a}{software}{}
+    \entry{Antaya2022}{software}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1979,7 +2087,7 @@
       \endverb
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022b}{unpublished}{}
+    \entry{AntayaEtAl2022a}{unpublished}{}
       \name{author}{5}{ul=3}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -2066,7 +2174,7 @@
       \endverb
       \keyw{✅,mypub,public land,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2022a}{unpublished}{}
+    \entry{AntayaEtAl2022}{unpublished}{}
       \name{author}{5}{ul=3}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -2153,7 +2261,7 @@
       \endverb
       \keyw{✅,mypub,public land,virtual-fence}
     \endentry
-    \entry{Antaya2022}{software}{}
+    \entry{Antaya2022a}{software}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -2292,7 +2400,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022c}{unpublished}{}
+    \entry{AntayaEtAl2022b}{unpublished}{}
       \name{author}{5}{ul=4}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -2348,7 +2456,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022}{misc}{}
+    \entry{AntayaEtAl2022d}{misc}{}
       \name{author}{4}{ul=4}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -2747,6 +2855,114 @@
     \endentry
   \enddatalist
   \datalist[entry]{ndymdt/global//global/global}
+    \entry{AudoinEtAl2025}{report}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=2ad085d00b8a688e65a471693db6b512}{%
+           family={Audoin},
+           familyi={A\bibinitperiod},
+           given={Flavie},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b9977f743cec09600ca3df62d284f3c}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91d091814794d1eef6078ec2acbbb168}{%
+           family={May},
+           familyi={M\bibinitperiod},
+           given={Tegan},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96b8d40c3152d1292158dd950db99046}{%
+           family={Burnidge},
+           familyi={B\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={Brandon},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7a2b08c07fc3942d596fccceda14bed}{%
+           family={Noelle},
+           familyi={N\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea8a36c77ae427393fdf7e4de277a5e3}{%
+           family={Blum},
+           familyi={B\bibinitperiod},
+           given={Brett},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cab943dc199fd74d0dd7d129b121bd8e}{%
+           family={Blouin},
+           familyi={B\bibinitperiod},
+           given={Carter},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
+           family={Lien},
+           familyi={L\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c3cbdc39a2859a73c1f5c4a2fdd54d6}{%
+           family={Dalke},
+           familyi={D\bibinitperiod},
+           given={Amber},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of Arizona}%
+      }
+      \list{location}{1}{%
+        {Tucson, Arizona, USA}%
+      }
+      \strng{namehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{fullhash}{48e89497d12e5e951d87a1b40fe35848}
+      \strng{bibnamehash}{48e89497d12e5e951d87a1b40fe35848}
+      \strng{authorbibnamehash}{48e89497d12e5e951d87a1b40fe35848}
+      \strng{authornamehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{authorfullhash}{48e89497d12e5e951d87a1b40fe35848}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{VF systems have the potential to improve livestock and rangeland management on expansive rangelands, but they also require careful management of VF collars to achieve the greatest benefit. Best practices for collar deployment include labeling all collars with a unique number and pairing that number with an individual animal’s identification ear tag number. Without this, specific animals cannot be properly identified and managed in the VF system’s software. Best practices for managing collars in the VF system’s software include organizing individual animals with functioning collars into a “managed” virtual herd based on the paired collar and ear tag number, and organizing collars into virtual herds based on the function or status of the collar as individual collars are lost or stop functioning. Doing so will improve the visualization of VF collars in the system’s software.}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{az2124}
+      \field{title}{Foundations of {{Virtual Fencing}}: {{Collar Deployment Basics}}}
+      \field{type}{Extension Publication}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{6}
+      \range{pages}{1}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/XA3GKC5U/Audoin et al. - 2024 - Foundations of Virtual Fencing Collar Deployment Basics.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://extension.arizona.edu/sites/default/files/2025-06/az2124_Foundations-of-Virtual-Fencing_Collar-Deployment-Basics.pdf
+      \endverb
+      \verb{url}
+      \verb https://extension.arizona.edu/sites/default/files/2025-06/az2124_Foundations-of-Virtual-Fencing_Collar-Deployment-Basics.pdf
+      \endverb
+      \keyw{✅,VF,virtual-fence,virtual-fencing}
+    \endentry
     \entry{Antaya2025}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
@@ -3173,7 +3389,7 @@
       \endverb
       \keyw{✅,cattle-ranching,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{MayerEtAl2024a}{report}{}
+    \entry{MayerEtAl2024}{report}{}
       \name{author}{10}{ul=5}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
@@ -3274,7 +3490,7 @@
       \endverb
       \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{Antaya2024a}{unpublished}{}
+    \entry{Antaya2024}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3310,7 +3526,7 @@
       \true{nocite}
       \keyw{✅,ArcGIS,GIS,lecture}
     \endentry
-    \entry{Antaya2024b}{unpublished}{}
+    \entry{Antaya2024a}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3345,7 +3561,7 @@
       \true{nocite}
       \keyw{✅,lecture,R,R-programming}
     \endentry
-    \entry{AntayaEtAl2024b}{report}{}
+    \entry{AntayaEtAl2024}{report}{}
       \name{author}{10}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -3449,7 +3665,7 @@
       \endverb
       \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{Antaya2024}{unpublished}{}
+    \entry{Antaya2024b}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3486,7 +3702,7 @@
       \endverb
       \keyw{✅,data,FAIR-data,lecture}
     \endentry
-    \entry{MayerEtAl2024}{report}{}
+    \entry{MayerEtAl2024a}{report}{}
       \name{author}{8}{ul=5}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
@@ -3579,7 +3795,7 @@
       \endverb
       \keyw{✅,animal-welfare,conditioning,training,VF,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2024}{report}{}
+    \entry{AntayaEtAl2024b}{report}{}
       \name{author}{9}{ul=4}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3765,7 +3981,7 @@
       \endverb
       \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{AntayaEtAl2023c}{unpublished}{}
+    \entry{AntayaEtAl2023d}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3862,7 +4078,7 @@
       \endverb
       \keyw{✅}
     \endentry
-    \entry{AntayaBrennan2023}{software}{}
+    \entry{AntayaBrennan2023a}{software}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -3909,7 +4125,7 @@
       \endverb
       \keyw{✅,API,application-programming-interface}
     \endentry
-    \entry{AntayaEtAl2023b}{unpublished}{}
+    \entry{AntayaEtAl2023a}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -4003,7 +4219,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaBrennan2023a}{software}{}
+    \entry{AntayaBrennan2023}{software}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -4280,7 +4496,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2023d}{unpublished}{}
+    \entry{AntayaEtAl2023b}{unpublished}{}
       \name{author}{5}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -4368,7 +4584,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2023a}{unpublished}{}
+    \entry{AntayaEtAl2023c}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -4670,7 +4886,7 @@
       \endverb
       \keyw{✅,API,application-programming-interface}
     \endentry
-    \entry{Antaya2022a}{software}{}
+    \entry{Antaya2022}{software}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -4707,7 +4923,7 @@
       \endverb
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022b}{unpublished}{}
+    \entry{AntayaEtAl2022a}{unpublished}{}
       \name{author}{5}{ul=3}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -4794,7 +5010,7 @@
       \endverb
       \keyw{✅,mypub,public land,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2022a}{unpublished}{}
+    \entry{AntayaEtAl2022}{unpublished}{}
       \name{author}{5}{ul=3}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -4881,7 +5097,7 @@
       \endverb
       \keyw{✅,mypub,public land,virtual-fence}
     \endentry
-    \entry{Antaya2022}{software}{}
+    \entry{Antaya2022a}{software}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -5020,7 +5236,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022c}{unpublished}{}
+    \entry{AntayaEtAl2022b}{unpublished}{}
       \name{author}{5}{ul=4}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -5076,7 +5292,7 @@
       \true{nocite}
       \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022}{misc}{}
+    \entry{AntayaEtAl2022d}{misc}{}
       \name{author}{4}{ul=4}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
