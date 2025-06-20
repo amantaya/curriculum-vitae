@@ -4,7 +4,7 @@
 
 Welcome to my CV repository! You can view and download my CV by clicking the link below:
 
-[View My CV](./cv.pdf)
+[View My CV](./latex/cv.pdf)
 
 Feel free to explore and reach out if you have any questions or opportunities.
 
