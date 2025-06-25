@@ -19,6 +19,96 @@
 
 \refsection{0}
   \datalist[entry]{ndymdt/apasortcite//global/global}
+    \entry{Antaya2025a}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \name{namea}{8}{}{%
+        {{hash=478805c35ba405a2ad4368309d185bdb}{%
+           family={Lopez},
+           familyi={L\bibinitperiod},
+           given={P.\bibnamedelimi Guarnido},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=df6289d77688579f8165b08b1ab15654}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=60cc51bdcc32c4cb917ebfacdd4b2d39}{%
+           family={Tedeschi},
+           familyi={T\bibinitperiod},
+           given={L.\bibnamedelimi O.},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=2967cdb1e858cf6ee89736e506c0799d}{%
+           family={Husmann},
+           familyi={H\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c7384bdfd2f43c5eb295e5459cfc9db9}{%
+           family={Feist},
+           familyi={F\bibinitperiod},
+           given={H.\bibnamedelimi K.},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=1ef9449f33c4a71dd4d95e522ecc62b9}{%
+           family={Parsons},
+           familyi={P\bibinitperiod},
+           given={I.\bibnamedelimi L.},
+           giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=e08d9a4fc73b20565133b841e058578a}{%
+           family={Zuidema},
+           familyi={Z\bibinitperiod},
+           given={D.\bibnamedelimi M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=1a2dc145fc91da5823d7c2f2a19ee7e4}{%
+           family={Menendez\bibnamedelima III},
+           familyi={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={H.\bibnamedelimi M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{nameabibnamehash}{26e07e0a1f51fff76db929426366ca2b}
+      \strng{nameanamehash}{7940658aaf26160279595ee83cefd2d7}
+      \strng{nameafullhash}{26e07e0a1f51fff76db929426366ca2b}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Precision livestock technologies generate vast amounts of real-time data, which can be challenging to manage. Our study aimed to develop a robust relational database system for integrating data across different grazing beef cattle farms with electronic devices like GreenFeed machines to integrate enteric emissions data with animal parameters (e.g., sex, age, body weight). We demonstrate using analytics to identify high- and low-emitting individuals in the herd, which can inform "climate smart" beef premiums. Our example data pipeline can be integrated with other precision technologies to add value, providing insights into livestock production systems and potentially increasing sustainability and operational efficiency.}
+      \field{day}{3}
+      \field{eventtitle}{U.{{S}}. {{Precision Livestock Farming}}}
+      \field{month}{6}
+      \field{nameatype}{collaborator}
+      \field{title}{Application of {{Data Engineering Techniques}} to {{Manage Big Data}} in {{Precision Livestock Farming}}}
+      \field{type}{Conference}
+      \field{venue}{Lincoln, Nebraska}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/KNVGT2GB/USPLF-2025-Antaya-et-al-Managing-Big-Data-PLF-v2.pptx;/home/andrew/Zotero/storage/YEUNVLYQ/063_122.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://usplf2025.exordo.com/files/papers/122/final_draft/063_122.pdf
+      \endverb
+      \verb{url}
+      \verb https://usplf2025.exordo.com/files/papers/122/final_draft/063_122.pdf
+      \endverb
+      \keyw{✅,big-data,bison,cattle,data-engineering,data-management,enteric-emissions,precision-livestock-farming}
+    \endentry
     \entry{AudoinEtAl2025}{report}{}
       \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=2ad085d00b8a688e65a471693db6b512}{%
@@ -138,9 +228,10 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -665,7 +756,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -701,7 +792,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -840,7 +931,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{3}
@@ -1833,7 +1924,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2061,7 +2152,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2775,7 +2866,7 @@
       \strng{authorbibnamehash}{16c1275565488fe936703d1ab690c410}
       \strng{authornamehash}{16c1275565488fe936703d1ab690c410}
       \strng{authorfullhash}{16c1275565488fe936703d1ab690c410}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2851,6 +2942,96 @@
     \endentry
   \enddatalist
   \datalist[entry]{ndymdt/global//global/global}
+    \entry{Antaya2025a}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \name{namea}{8}{}{%
+        {{hash=478805c35ba405a2ad4368309d185bdb}{%
+           family={Lopez},
+           familyi={L\bibinitperiod},
+           given={P.\bibnamedelimi Guarnido},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=df6289d77688579f8165b08b1ab15654}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=60cc51bdcc32c4cb917ebfacdd4b2d39}{%
+           family={Tedeschi},
+           familyi={T\bibinitperiod},
+           given={L.\bibnamedelimi O.},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=2967cdb1e858cf6ee89736e506c0799d}{%
+           family={Husmann},
+           familyi={H\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c7384bdfd2f43c5eb295e5459cfc9db9}{%
+           family={Feist},
+           familyi={F\bibinitperiod},
+           given={H.\bibnamedelimi K.},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=1ef9449f33c4a71dd4d95e522ecc62b9}{%
+           family={Parsons},
+           familyi={P\bibinitperiod},
+           given={I.\bibnamedelimi L.},
+           giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=e08d9a4fc73b20565133b841e058578a}{%
+           family={Zuidema},
+           familyi={Z\bibinitperiod},
+           given={D.\bibnamedelimi M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=1a2dc145fc91da5823d7c2f2a19ee7e4}{%
+           family={Menendez\bibnamedelima III},
+           familyi={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={H.\bibnamedelimi M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{nameabibnamehash}{26e07e0a1f51fff76db929426366ca2b}
+      \strng{nameanamehash}{7940658aaf26160279595ee83cefd2d7}
+      \strng{nameafullhash}{26e07e0a1f51fff76db929426366ca2b}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Precision livestock technologies generate vast amounts of real-time data, which can be challenging to manage. Our study aimed to develop a robust relational database system for integrating data across different grazing beef cattle farms with electronic devices like GreenFeed machines to integrate enteric emissions data with animal parameters (e.g., sex, age, body weight). We demonstrate using analytics to identify high- and low-emitting individuals in the herd, which can inform "climate smart" beef premiums. Our example data pipeline can be integrated with other precision technologies to add value, providing insights into livestock production systems and potentially increasing sustainability and operational efficiency.}
+      \field{day}{3}
+      \field{eventtitle}{U.{{S}}. {{Precision Livestock Farming}}}
+      \field{month}{6}
+      \field{nameatype}{collaborator}
+      \field{title}{Application of {{Data Engineering Techniques}} to {{Manage Big Data}} in {{Precision Livestock Farming}}}
+      \field{type}{Conference}
+      \field{venue}{Lincoln, Nebraska}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/KNVGT2GB/USPLF-2025-Antaya-et-al-Managing-Big-Data-PLF-v2.pptx;/home/andrew/Zotero/storage/YEUNVLYQ/063_122.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://usplf2025.exordo.com/files/papers/122/final_draft/063_122.pdf
+      \endverb
+      \verb{url}
+      \verb https://usplf2025.exordo.com/files/papers/122/final_draft/063_122.pdf
+      \endverb
+      \keyw{✅,big-data,bison,cattle,data-engineering,data-management,enteric-emissions,precision-livestock-farming}
+    \endentry
     \entry{AudoinEtAl2025}{report}{}
       \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=2ad085d00b8a688e65a471693db6b512}{%
@@ -2970,9 +3151,10 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -3497,7 +3679,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -3533,7 +3715,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -3672,7 +3854,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{3}
@@ -4665,7 +4847,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -4893,7 +5075,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -5607,7 +5789,7 @@
       \strng{authorbibnamehash}{16c1275565488fe936703d1ab690c410}
       \strng{authornamehash}{16c1275565488fe936703d1ab690c410}
       \strng{authorfullhash}{16c1275565488fe936703d1ab690c410}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
