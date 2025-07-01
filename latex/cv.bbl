@@ -91,7 +91,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Precision livestock technologies generate vast amounts of real-time data, which can be challenging to manage. Our study aimed to develop a robust relational database system for integrating data across different grazing beef cattle farms with electronic devices like GreenFeed machines to integrate enteric emissions data with animal parameters (e.g., sex, age, body weight). We demonstrate using analytics to identify high- and low-emitting individuals in the herd, which can inform "climate smart" beef premiums. Our example data pipeline can be integrated with other precision technologies to add value, providing insights into livestock production systems and potentially increasing sustainability and operational efficiency.}
       \field{day}{3}
-      \field{eventtitle}{U.{{S}}. {{Precision Livestock Farming}}}
+      \field{eventtitle}{U.{{S}}. {{Precision Livestock Farming}} 2025 {{Conference}}}
       \field{month}{6}
       \field{title}{Application of {{Data Engineering Techniques}} to {{Manage Big Data}} in {{Precision Livestock Farming}}}
       \field{type}{Oral Presentation}
@@ -3072,7 +3072,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Precision livestock technologies generate vast amounts of real-time data, which can be challenging to manage. Our study aimed to develop a robust relational database system for integrating data across different grazing beef cattle farms with electronic devices like GreenFeed machines to integrate enteric emissions data with animal parameters (e.g., sex, age, body weight). We demonstrate using analytics to identify high- and low-emitting individuals in the herd, which can inform "climate smart" beef premiums. Our example data pipeline can be integrated with other precision technologies to add value, providing insights into livestock production systems and potentially increasing sustainability and operational efficiency.}
       \field{day}{3}
-      \field{eventtitle}{U.{{S}}. {{Precision Livestock Farming}}}
+      \field{eventtitle}{U.{{S}}. {{Precision Livestock Farming}} 2025 {{Conference}}}
       \field{month}{6}
       \field{title}{Application of {{Data Engineering Techniques}} to {{Manage Big Data}} in {{Precision Livestock Farming}}}
       \field{type}{Oral Presentation}
