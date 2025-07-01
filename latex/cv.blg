@@ -1,19 +1,5 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'latex/cv.blg'
-[40] biber:340> INFO - === Wed Jun 25, 2025, 08:11:47
-[49] Biber.pm:419> INFO - Reading 'latex/cv.bcf'
-[85] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[94] Biber.pm:4419> INFO - Processing section 0
-[99] Biber.pm:4610> INFO - Looking for bibtex file 'my-pubs.bib' for section 0
-[101] bibtex.pm:1713> INFO - LaTeX decoding ...
-[125] bibtex.pm:1519> INFO - Found BibTeX data source 'my-pubs.bib'
-[386] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[386] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[386] Biber.pm:4239> INFO - Sorting list 'ndymdt/apasortcite//global/global' of type 'entry' with template 'ndymdt' and locale 'en-US'
-[386] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[442] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[443] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[443] Biber.pm:4239> INFO - Sorting list 'ndymdt/global//global/global' of type 'entry' with template 'ndymdt' and locale 'en-US'
-[443] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[469] bbl.pm:660> INFO - Writing 'latex/cv.bbl' with encoding 'UTF-8'
-[501] bbl.pm:763> INFO - Output to latex/cv.bbl
+[0] Config.pm:310> INFO - Logfile is 'cv.blg'
+[42] biber:340> INFO - === Tue Jul  1, 2025, 15:29:29
+[129] Utils.pm:399> ERROR - Cannot find 'cv.bcf'!
+[129] Biber.pm:136> INFO - ERRORS: 1
