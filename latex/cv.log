@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.4.24)  1 JUL 2025 16:20
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.4.24)  3 JUL 2025 10:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1619,10 +1619,10 @@ Requested font "[Cabin-Bold.otf]/OT:script=latn;language=dflt;mapping=tex-text;"
  -> /usr/share/texlive/texmf-dist/fonts/opentype/impallari/cabin/Cabin-Bold.otf
  [1
 
-] [2] [3]) (./skills.tex) (./skills.tex) (./skills.tex) (./skills.tex [4]) (./service.tex) (./service.tex) (./service.tex) (./service.tex) (./referee.tex) (./referee.tex) (./referee.tex) (./referee.tex)
+] [2] [3]) (./skills.tex) (./skills.tex) (./skills.tex) (./skills.tex [4]) (./service.tex) (./service.tex) (./service.tex) (./service.tex) (./referee.tex) (./referee.tex) (./referee.tex) (./referee.tex [5])
 Requested font "[lmroman6-regular]:mapping=tex-text;" at 6.0pt
  -> /usr/share/texmf/fonts/opentype/public/lm/lmroman6-regular.otf
- [5] (./cv.aux)
+ [6] (./cv.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -1640,10 +1640,10 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 Here is how much of TeX's memory you used:
  49495 strings out of 474878
  1054676 string characters out of 5762516
- 1965243 words of memory out of 5000000
+ 1966242 words of memory out of 5000000
  70798 multiletter control sequences out of 15000+600000
  562298 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  100i,9n,128p,2058b,5263s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on cv.pdf (5 pages).
+Output written on cv.pdf (6 pages).
