@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.4.24)  7 JUL 2025 09:56
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.4.24)  7 JUL 2025 10:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1619,7 +1619,12 @@ Requested font "[Cabin-Bold.otf]/OT:script=latn;language=dflt;mapping=tex-text;"
  -> /usr/share/texlive/texmf-dist/fonts/opentype/impallari/cabin/Cabin-Bold.otf
  [1
 
-] [2] [3]) (./skills.tex) (./skills.tex) (./skills.tex) (./skills.tex [4]) (./service.tex) (./service.tex) (./service.tex) (./service.tex) (./referee.tex) (./referee.tex) (./referee.tex) (./referee.tex [5])
+] [2] [3]) (./skills.tex) (./skills.tex) (./skills.tex) (./skills.tex [4]) (./service.tex) (./service.tex) (./service.tex) (./service.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+[]|\TU/LinLibertine(0)/m/n/10.95 Arizona Section Society for Range Management
+ []
+
+[5]) (./referee.tex) (./referee.tex) (./referee.tex) (./referee.tex)
 Requested font "[lmroman6-regular]:mapping=tex-text;" at 6.0pt
  -> /usr/share/texmf/fonts/opentype/public/lm/lmroman6-regular.otf
  [6] (./cv.aux)
@@ -1640,7 +1645,7 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 Here is how much of TeX's memory you used:
  49495 strings out of 474878
  1054676 string characters out of 5762516
- 1966242 words of memory out of 5000000
+ 1966243 words of memory out of 5000000
  70798 multiletter control sequences out of 15000+600000
  562298 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

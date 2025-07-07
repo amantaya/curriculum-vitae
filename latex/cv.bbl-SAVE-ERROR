@@ -19,7 +19,238 @@
 
 \refsection{0}
   \datalist[entry]{ndymdt/apasortcite//global/global}
-    \entry{DuvalEtAl2025}{report}{}
+    \entry{AntayaEtAl2025b}{unpublished}{}
+      \name{author}{9}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=478805c35ba405a2ad4368309d185bdb}{%
+           family={Lopez},
+           familyi={L\bibinitperiod},
+           given={P.\bibnamedelimi Guarnido},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df6289d77688579f8165b08b1ab15654}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60cc51bdcc32c4cb917ebfacdd4b2d39}{%
+           family={Tedeschi},
+           familyi={T\bibinitperiod},
+           given={L.\bibnamedelimi O.},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2967cdb1e858cf6ee89736e506c0799d}{%
+           family={Husmann},
+           familyi={H\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7384bdfd2f43c5eb295e5459cfc9db9}{%
+           family={Feist},
+           familyi={F\bibinitperiod},
+           given={H.\bibnamedelimi K.},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ef9449f33c4a71dd4d95e522ecc62b9}{%
+           family={Parsons},
+           familyi={P\bibinitperiod},
+           given={I.\bibnamedelimi L.},
+           giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e08d9a4fc73b20565133b841e058578a}{%
+           family={Zuidema},
+           familyi={Z\bibinitperiod},
+           given={D.\bibnamedelimi M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a2dc145fc91da5823d7c2f2a19ee7e4}{%
+           family={Menendez\bibnamedelima III},
+           familyi={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={H.\bibnamedelimi M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7225a1d16f7787359c62433fa29b6c00}
+      \strng{fullhash}{6df06ed1152690e1f02d030e196de41b}
+      \strng{bibnamehash}{6df06ed1152690e1f02d030e196de41b}
+      \strng{authorbibnamehash}{6df06ed1152690e1f02d030e196de41b}
+      \strng{authornamehash}{7225a1d16f7787359c62433fa29b6c00}
+      \strng{authorfullhash}{6df06ed1152690e1f02d030e196de41b}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Precision livestock technologies generate vast amounts of real-time data, which can be challenging to manage. Our study aimed to develop a robust relational database system for integrating data across different grazing beef cattle farms with electronic devices like GreenFeed machines to integrate enteric emissions data with animal parameters (e.g., sex, age, body weight). We demonstrate using analytics to identify high- and low-emitting individuals in the herd, which can inform "climate smart" beef premiums. Our example data pipeline can be integrated with other precision technologies to add value, providing insights into livestock production systems and potentially increasing sustainability and operational efficiency.}
+      \field{day}{3}
+      \field{eventtitle}{U.{{S}}. {{Precision Livestock Farming}} 2025 {{Conference}}}
+      \field{month}{6}
+      \field{title}{Application of {{Data Engineering Techniques}} to {{Manage Big Data}} in {{Precision Livestock Farming}}}
+      \field{type}{Oral Presentation}
+      \field{venue}{Lincoln, Nebraska, USA}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/KNVGT2GB/USPLF-2025-Antaya-et-al-Managing-Big-Data-PLF-v2.pptx;/home/andrew/Zotero/storage/YEUNVLYQ/063_122.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://usplf2025.exordo.com/files/papers/122/final_draft/063_122.pdf
+      \endverb
+      \verb{url}
+      \verb https://usplf2025.exordo.com/files/papers/122/final_draft/063_122.pdf
+      \endverb
+      \keyw{,big-data,bison,cattle,data-engineering,data-management,enteric-emissions,precision-livestock-farming}
+    \endentry
+    \entry{AudoinEtAl2025}{report}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=2ad085d00b8a688e65a471693db6b512}{%
+           family={Audoin},
+           familyi={A\bibinitperiod},
+           given={Flavie},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b9977f743cec09600ca3df62d284f3c}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91d091814794d1eef6078ec2acbbb168}{%
+           family={May},
+           familyi={M\bibinitperiod},
+           given={Tegan},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96b8d40c3152d1292158dd950db99046}{%
+           family={Burnidge},
+           familyi={B\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={Brandon},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7a2b08c07fc3942d596fccceda14bed}{%
+           family={Noelle},
+           familyi={N\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea8a36c77ae427393fdf7e4de277a5e3}{%
+           family={Blum},
+           familyi={B\bibinitperiod},
+           given={Brett},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cab943dc199fd74d0dd7d129b121bd8e}{%
+           family={Blouin},
+           familyi={B\bibinitperiod},
+           given={Carter},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
+           family={Lien},
+           familyi={L\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c3cbdc39a2859a73c1f5c4a2fdd54d6}{%
+           family={Dalke},
+           familyi={D\bibinitperiod},
+           given={Amber},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of Arizona}%
+      }
+      \list{location}{1}{%
+        {Tucson, Arizona, USA}%
+      }
+      \strng{namehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{fullhash}{48e89497d12e5e951d87a1b40fe35848}
+      \strng{bibnamehash}{48e89497d12e5e951d87a1b40fe35848}
+      \strng{authorbibnamehash}{48e89497d12e5e951d87a1b40fe35848}
+      \strng{authornamehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{authorfullhash}{48e89497d12e5e951d87a1b40fe35848}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{VF systems have the potential to improve livestock and rangeland management on expansive rangelands, but they also require careful management of VF collars to achieve the greatest benefit. Best practices for collar deployment include labeling all collars with a unique number and pairing that number with an individual animal's identification ear tag number. Without this, specific animals cannot be properly identified and managed in the VF system's software. Best practices for managing collars in the VF system's software include organizing individual animals with functioning collars into a ``managed'' virtual herd based on the paired collar and ear tag number, and organizing collars into virtual herds based on the function or status of the collar as individual collars are lost or stop functioning. Doing so will improve the visualization of VF collars in the system's software.}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{az2124}
+      \field{title}{Foundations of {{Virtual Fencing}}: {{Collar Deployment Basics}}}
+      \field{type}{Extension Publication}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{6}
+      \range{pages}{1}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/XA3GKC5U/Audoin et al. - 2024 - Foundations of Virtual Fencing Collar Deployment Basics.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://extension.arizona.edu/sites/default/files/2025-06/az2124_Foundations-of-Virtual-Fencing_Collar-Deployment-Basics.pdf
+      \endverb
+      \verb{url}
+      \verb https://extension.arizona.edu/sites/default/files/2025-06/az2124_Foundations-of-Virtual-Fencing_Collar-Deployment-Basics.pdf
+      \endverb
+      \keyw{,VF,virtual-fence,virtual-fencing}
+    \endentry
+    \entry{Antaya2025}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{7}
+      \field{eventtitle}{Spring {{Seminar Series}}, {{South Dakota State University}}}
+      \field{month}{4}
+      \field{title}{Putting {{FAIR}} and {{CARE Data Principles}} into {{Practice}}}
+      \field{type}{Guest Lecture}
+      \field{venue}{Rapid City, SD, USA}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/3N63SA9S/Putting-FAIR-Data-into-Practice.pptx
+      \endverb
+      \keyw{,CARE-data,FAIR-data,lecture}
+    \endentry
+    \entry{DuvalEtAl2025a}{report}{}
       \name{author}{8}{ul=6}{%
         {{un=0,uniquepart=base,hash=51ee409abfa56fac0e9978d204a688af}{%
            family={Duval},
@@ -108,9 +339,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/default/files/2025-03/az2117-2025.pdf
       \endverb
-      \keyw{✅,economics,VF,virtual-fence}
+      \keyw{,economics,VF,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2025}{article}{}
+    \entry{AntayaEtAl2025a}{unpublished}{}
       \name{author}{9}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -176,6 +407,92 @@
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{eventtitle}{The {{Society}} for {{Range Management Annual Meeting}}}
+      \field{month}{2}
+      \field{title}{Challenges with {{Virtual Fence Data}}}
+      \field{type}{Oral Presentation}
+      \field{venue}{Spokane, Washington, USA}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/T8I9UJDK/Antaya-et-al-Challenges-VF-Data-SRM25.pptx
+      \endverb
+      \keyw{,data-management,VF,virtual-fence}
+    \endentry
+    \entry{AntayaEtAl2025}{article}{}
+      \name{author}{9}{}{%
+        {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=4c3cbdc39a2859a73c1f5c4a2fdd54d6}{%
+           family={Dalke},
+           familyi={D\bibinitperiod},
+           given={Amber},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={Brandon},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cab943dc199fd74d0dd7d129b121bd8e}{%
+           family={Blouin},
+           familyi={B\bibinitperiod},
+           given={Carter},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7a2b08c07fc3942d596fccceda14bed}{%
+           family={Noelle},
+           familyi={N\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea8a36c77ae427393fdf7e4de277a5e3}{%
+           family={Blum},
+           familyi={B\bibinitperiod},
+           given={Brett},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f15f89ae44dfcda6b002fac5971ee6fe}{%
+           family={Beard},
+           familyi={B\bibinitperiod},
+           given={Joslyn\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47db4a34954063f871f5e6b7808e8a9c}{%
+           family={Ruyle},
+           familyi={R\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
+           family={Lien},
+           familyi={L\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2aa6d2de5c268f4b79e44ebb056cbc5a}
+      \strng{fullhash}{d0279a60496c672109ec308bd2ebbbbe}
+      \strng{bibnamehash}{d0279a60496c672109ec308bd2ebbbbe}
+      \strng{authorbibnamehash}{d0279a60496c672109ec308bd2ebbbbe}
+      \strng{authornamehash}{2aa6d2de5c268f4b79e44ebb056cbc5a}
+      \strng{authorfullhash}{d0279a60496c672109ec308bd2ebbbbe}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -210,7 +527,7 @@
       \verb{url}
       \verb https://www.sciencedirect.com/science/article/pii/S0190052824000361
       \endverb
-      \keyw{✅,cattle,Global Positioning System,GPS tracking,precision livestock management,virtual-fence}
+      \keyw{,cattle,Global Positioning System,GPS tracking,precision livestock management,virtual-fence}
     \endentry
     \entry{MayerEtAl2025}{article}{}
       \name{author}{9}{}{%
@@ -313,9 +630,9 @@
       \verb{url}
       \verb https://www.sciencedirect.com/science/article/pii/S0190052824000348
       \endverb
-      \keyw{✅,adaptive management,desert Southwest,precision livestock technology,virtual-fence}
+      \keyw{,adaptive management,desert Southwest,precision livestock technology,virtual-fence}
     \endentry
-    \entry{DuvalEtAl2025a}{report}{}
+    \entry{DuvalEtAl2025}{report}{}
       \name{author}{8}{ul=6}{%
         {{un=0,uniquepart=base,hash=51ee409abfa56fac0e9978d204a688af}{%
            family={Duval},
@@ -385,7 +702,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Virtual fencing (VF) is tool for livestock management that uses collars and a radio or cellular system to influence the movement of livestock using auditory and electrical cues. Users program the system to establish invisible barriers on a landscape. The system detects the location of animals and if animals approach or cross a “virtual” fence, they receive an auditory or electrical cue encouraging them to move away from the barrier. VF systems have the potential to offset physical fencing costs, enable adoption of adaptive management practices, and save ranchers time in locating animals, among other benefits. Meanwhile, commercial VF systems have different fee structures and require labor to operate. This analysis explores economic considerations of investment in virtual fence (VF) systems, examining its application for representative cow-calf operations in Arizona.}
+      \field{abstract}{Virtual fencing (VF) is tool for livestock management that uses collars and a radio or cellular system to influence the movement of livestock using auditory and electrical cues. Users program the system to establish invisible barriers on a landscape. The system detects the location of animals and if animals approach or cross a ``virtual'' fence, they receive an auditory or electrical cue encouraging them to move away from the barrier. VF systems have the potential to offset physical fencing costs, enable adoption of adaptive management practices, and save ranchers time in locating animals, among other benefits. Meanwhile, commercial VF systems have different fee structures and require labor to operate. This analysis explores economic considerations of investment in virtual fence (VF) systems, examining its application for representative cow-calf operations in Arizona.}
       \field{day}{20}
       \field{langid}{english}
       \field{month}{1}
@@ -407,7 +724,7 @@
       \verb{url}
       \verb https://papers.ssrn.com/abstract=5136551
       \endverb
-      \keyw{✅,cattle-ranching,VF,virtual-fence,virtual-fencing}
+      \keyw{,cattle-ranching,VF,virtual-fence,virtual-fencing}
     \endentry
     \entry{MayerEtAl2024}{report}{}
       \name{author}{10}{ul=5}{%
@@ -508,7 +825,78 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/default/files/2024-12/az2089-2024.pdf
       \endverb
-      \keyw{✅,VF,virtual-fence,virtual-fencing}
+      \keyw{,VF,virtual-fence,virtual-fencing}
+    \endentry
+    \entry{Antaya2024}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{During this lecture, we discussed how to use ArcGIS Pro 10, including how to add shapefiles, load basemaps, create a map layout, and export the layout to JPG and TIFF.}
+      \field{annotation}{Guest Lecture}
+      \field{day}{10}
+      \field{eventtitle}{South {{Dakota State University}}}
+      \field{month}{12}
+      \field{title}{Introduction to {{ArcGIS}}}
+      \field{type}{Guest Lecture}
+      \field{venue}{Rapid City, SD, USA}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{,ArcGIS,GIS,lecture}
+    \endentry
+    \entry{Antaya2024a}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{During this lecture, we discussed how to load CSV data into R and how to do summary statistics (e.g., mean, min, max) on example GreenFeed data.}
+      \field{day}{3}
+      \field{eventtitle}{South {{Dakota State University}}}
+      \field{month}{12}
+      \field{title}{Introduction to {{R Programming}}}
+      \field{type}{Guest Lecture}
+      \field{venue}{Rapid City, SD, USA}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{,lecture,R,R-programming}
     \endentry
     \entry{AntayaEtAl2024}{report}{}
       \name{author}{10}{}{%
@@ -585,14 +973,14 @@
       \strng{authorbibnamehash}{b267c45418970c9c670977eb0ab2b373}
       \strng{authornamehash}{2aa6d2de5c268f4b79e44ebb056cbc5a}
       \strng{authorfullhash}{b267c45418970c9c670977eb0ab2b373}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{VF systems have the potential to improve livestock and rangeland management on expansive rangelands, but they also require careful management of VF collars to achieve the greatest benefit. Best practices for collar deployment include labeling all collars with a unique number and pairing that number with an individual animal’s identification ear tag number. Without this, specific animals cannot be properly identified and managed in the VF system’s software. Best practices for managing collars in the VF system’s software include organizing individual animals with functioning collars into a “managed” virtual herd based on the paired collar and ear tag number, and organizing collars into virtual herds based on the function or status of the collar as individual collars are lost or stop functioning. Doing so will improve the visualization of VF collars in the system’s software.}
+      \field{abstract}{VF systems have the potential to improve livestock and rangeland management on expansive rangelands, but they also require careful management of VF collars to achieve the greatest benefit. Best practices for collar deployment include labeling all collars with a unique number and pairing that number with an individual animal's identification ear tag number. Without this, specific animals cannot be properly identified and managed in the VF system's software. Best practices for managing collars in the VF system's software include organizing individual animals with functioning collars into a ``managed'' virtual herd based on the paired collar and ear tag number, and organizing collars into virtual herds based on the function or status of the collar as individual collars are lost or stop functioning. Doing so will improve the visualization of VF collars in the system's software.}
       \field{langid}{english}
       \field{month}{10}
       \field{number}{az2095}
@@ -612,7 +1000,44 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/default/files/2024-11/az2095-2024.pdf
       \endverb
-      \keyw{✅,VF,virtual-fence,virtual-fencing}
+      \keyw{,VF,virtual-fence,virtual-fencing}
+    \endentry
+    \entry{Antaya2024b}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{eventtitle}{Martin/{{Short Lab Meeting}}, {{South Dakota State University}}}
+      \field{month}{10}
+      \field{title}{Putting {{FAIR Data Principles}} into {{Practice}}}
+      \field{type}{Guest Lecture}
+      \field{venue}{Rapid City, SD, USA}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/5KDBHEAV/Putting-FAIR-Data-into-Practice.pptx
+      \endverb
+      \keyw{,data,FAIR-data,lecture}
     \endentry
     \entry{MayerEtAl2024a}{report}{}
       \name{author}{8}{ul=5}{%
@@ -705,9 +1130,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2088-2024.pdf
       \endverb
-      \keyw{✅,animal-welfare,conditioning,training,VF,virtual-fence}
+      \keyw{,animal-welfare,conditioning,training,VF,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2024a}{report}{}
+    \entry{AntayaEtAl2024b}{report}{}
       \name{author}{9}{ul=4}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -801,9 +1226,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2087-2024.pdf
       \endverb
-      \keyw{✅,VF,virtual-fence,virtual-fencing}
+      \keyw{,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{AntayaEtAl2024b}{report}{}
+    \entry{AntayaEtAl2024a}{report}{}
       \name{author}{8}{ul=4}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -891,9 +1316,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2079-2024.pdf
       \endverb
-      \keyw{✅,VF,virtual-fence,virtual-fencing}
+      \keyw{,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{AntayaEtAl2023a}{unpublished}{}
+    \entry{AntayaEtAl2023d}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -980,7 +1405,7 @@
       \field{eventtitle}{Research {{Insights}} in {{Semi-Arid Ecosystems}}}
       \field{month}{10}
       \field{title}{Evaluating {{Virtual Fence Technology}} to {{Improve Rangeland Condition}}, {{Enhance Animal Management}}, and {{Assess Economic Feasibility}}}
-      \field{type}{Conference}
+      \field{type}{Poster}
       \field{venue}{University of Arizona, Tucson, Arizona, USA}
       \field{year}{2023}
       \field{dateera}{ce}
@@ -988,7 +1413,6 @@
       \verb{file}
       \verb /home/andrew/Zotero/storage/38C34TPL/Antaya et al_2023_Evaluating Virtual Fence Technology to Improve Rangeland Condition, Enhance.pdf
       \endverb
-      \keyw{✅}
     \endentry
     \entry{AntayaBrennan2023a}{software}{}
       \name{author}{2}{}{%
@@ -1035,9 +1459,9 @@
       \verb{url}
       \verb https://github.com/amantaya/Vence-API
       \endverb
-      \keyw{✅,API,application-programming-interface}
+      \keyw{,API,application-programming-interface}
     \endentry
-    \entry{AntayaEtAl2023b}{unpublished}{}
+    \entry{AntayaEtAl2023a}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1124,12 +1548,11 @@
       \field{eventtitle}{Southern {{Arizona Cattleman}}'s {{Protective Association}}}
       \field{month}{8}
       \field{title}{Virtual {{Fence Applications}} on the {{Santa Rita Experimental Range}}}
-      \field{type}{Meeting}
+      \field{type}{Oral Presentation}
       \field{venue}{Santa Rita Ranch, Green Valley, Arizona, USA}
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
     \entry{AntayaBrennan2023}{software}{}
       \name{author}{2}{}{%
@@ -1177,9 +1600,8 @@
       \verb{url}
       \verb https://github.com/amantaya/vf-workshop
       \endverb
-      \keyw{✅}
     \endentry
-    \entry{AntayaEtAl2023d}{unpublished}{}
+    \entry{AntayaEtAl2023}{unpublished}{}
       \name{author}{3}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1224,7 +1646,6 @@
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
     \entry{McMullenAntaya2023}{software}{}
       \name{author}{2}{}{%
@@ -1271,9 +1692,9 @@
       \verb{url}
       \verb https://github.com/lilymcmullen/OptimalVisibilityTool
       \endverb
-      \keyw{✅,base station,GitHub,Python,virtual-fence}
+      \keyw{,base station,GitHub,Python,virtual-fence}
     \endentry
-    \entry{Antaya2023}{software}{}
+    \entry{Antaya2023b}{software}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -1317,10 +1738,10 @@
       \verb{url}
       \verb https://github.com/amantaya/grazing-interaction
       \endverb
-      \keyw{✅,R}
+      \keyw{,R}
     \endentry
     \entry{MayerEtAl2023}{unpublished}{}
-      \name{author}{5}{}{%
+      \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
            familyi={M\bibinitperiod},
@@ -1351,43 +1772,43 @@
            given={Brett},
            giveni={B\bibinitperiod},
            givenun=0}}%
-      }
-      \name{namea}{5}{}{%
-        {{hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
+        {{un=0,uniquepart=base,hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
            family={Lien},
            familyi={L\bibinitperiod},
            given={Aaron},
-           giveni={A\bibinitperiod}}}%
-        {{hash=f15f89ae44dfcda6b002fac5971ee6fe}{%
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f15f89ae44dfcda6b002fac5971ee6fe}{%
            family={Beard},
            familyi={B\bibinitperiod},
            given={Joslyn\bibnamedelima K.},
-           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=398df46594dafa893868925578424941}{%
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=398df46594dafa893868925578424941}{%
            family={Soto},
            familyi={S\bibinitperiod},
            given={Jose},
-           giveni={J\bibinitperiod}}}%
-        {{hash=1b2100d2053ebdbdc73f48bad47630c6}{%
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b2100d2053ebdbdc73f48bad47630c6}{%
            family={Justiniani},
            familyi={J\bibinitperiod},
            given={Hector\bibnamedelima Elias},
-           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=47db4a34954063f871f5e6b7808e8a9c}{%
+           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47db4a34954063f871f5e6b7808e8a9c}{%
            family={Ruyle},
            familyi={R\bibinitperiod},
            given={George},
-           giveni={G\bibinitperiod}}}%
+           giveni={G\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{94126826ef044162673821718b02bf16}
-      \strng{fullhash}{3003c74677502f4b60b78aaf3af1dd32}
-      \strng{bibnamehash}{3003c74677502f4b60b78aaf3af1dd32}
-      \strng{authorbibnamehash}{3003c74677502f4b60b78aaf3af1dd32}
+      \strng{fullhash}{2fe8f60d530765bd9218756003292edd}
+      \strng{bibnamehash}{2fe8f60d530765bd9218756003292edd}
+      \strng{authorbibnamehash}{2fe8f60d530765bd9218756003292edd}
       \strng{authornamehash}{94126826ef044162673821718b02bf16}
-      \strng{authorfullhash}{3003c74677502f4b60b78aaf3af1dd32}
-      \strng{nameabibnamehash}{3f9dd5df7a71a9c7771e9b60803548c8}
-      \strng{nameanamehash}{bbe365dcb4d71fdcc43448eb8ff92506}
-      \strng{nameafullhash}{3f9dd5df7a71a9c7771e9b60803548c8}
+      \strng{authorfullhash}{2fe8f60d530765bd9218756003292edd}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1399,17 +1820,15 @@
       \field{day}{13}
       \field{eventtitle}{Northeast {{Regional Range Livestock Workshop}}}
       \field{month}{4}
-      \field{nameatype}{collaborator}
-      \field{title}{Virtual {{Fence Technology}} for {{Rangeland Livestock}} – {{What}}, {{How}}, {{Why}} and {{Should}}?}
+      \field{title}{Virtual {{Fence Technology}} for {{Rangeland Livestock}} -- {{What}}, {{How}}, {{Why}} and {{Should}}?}
       \field{type}{Workshop}
       \field{venue}{Holbrook, Arizona, USA}
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2023c}{unpublished}{}
-      \name{author}{5}{}{%
+    \entry{AntayaEtAl2023b}{unpublished}{}
+      \name{author}{10}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
            familyi={A\bibinitperiod},
@@ -1440,44 +1859,44 @@
            given={Brett},
            giveni={B\bibinitperiod},
            givenun=0}}%
-      }
-      \name{namea}{5}{}{%
-        {{hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
+        {{un=0,uniquepart=base,hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
            family={Lien},
            familyi={L\bibinitperiod},
            given={Aaron},
-           giveni={A\bibinitperiod}}}%
-        {{hash=f15f89ae44dfcda6b002fac5971ee6fe}{%
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f15f89ae44dfcda6b002fac5971ee6fe}{%
            family={Beard},
            familyi={B\bibinitperiod},
            given={Joslyn\bibnamedelima K.},
-           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=398df46594dafa893868925578424941}{%
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=398df46594dafa893868925578424941}{%
            family={Soto},
            familyi={S\bibinitperiod},
            given={Jose},
-           giveni={J\bibinitperiod}}}%
-        {{hash=1b2100d2053ebdbdc73f48bad47630c6}{%
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b2100d2053ebdbdc73f48bad47630c6}{%
            family={Justiniani},
            familyi={J\bibinitperiod},
            given={Hector\bibnamedelima Elias},
-           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=47db4a34954063f871f5e6b7808e8a9c}{%
+           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47db4a34954063f871f5e6b7808e8a9c}{%
            family={Ruyle},
            familyi={R\bibinitperiod},
            given={George},
-           giveni={G\bibinitperiod}}}%
+           giveni={G\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{2aa6d2de5c268f4b79e44ebb056cbc5a}
-      \strng{fullhash}{c0a03a27802fdde1955fffde0a0a886d}
-      \strng{bibnamehash}{c0a03a27802fdde1955fffde0a0a886d}
-      \strng{authorbibnamehash}{c0a03a27802fdde1955fffde0a0a886d}
+      \strng{fullhash}{d059d0cb9660ef920a28c4048209bed1}
+      \strng{bibnamehash}{d059d0cb9660ef920a28c4048209bed1}
+      \strng{authorbibnamehash}{d059d0cb9660ef920a28c4048209bed1}
       \strng{authornamehash}{2aa6d2de5c268f4b79e44ebb056cbc5a}
-      \strng{authorfullhash}{c0a03a27802fdde1955fffde0a0a886d}
-      \strng{nameabibnamehash}{3f9dd5df7a71a9c7771e9b60803548c8}
-      \strng{nameanamehash}{bbe365dcb4d71fdcc43448eb8ff92506}
-      \strng{nameafullhash}{3f9dd5df7a71a9c7771e9b60803548c8}
-      \field{extraname}{3}
+      \strng{authorfullhash}{d059d0cb9660ef920a28c4048209bed1}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1487,16 +1906,14 @@
       \field{day}{31}
       \field{eventtitle}{Southeast {{Regional Range Livestock Workshop}}}
       \field{month}{3}
-      \field{nameatype}{collaborator}
-      \field{title}{Virtual {{Fence Technology}} for {{Rangeland Livestock}} – {{What}}, {{How}}, {{Why}} and {{Should}}?}
-      \field{type}{Workshop}
+      \field{title}{Virtual {{Fence Technology}} for {{Rangeland Livestock}} -- {{What}}, {{How}}, {{Why}} and {{Should}}?}
+      \field{type}{Oral Presentation}
       \field{venue}{Wilcox, Arizona, USA}
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2023}{unpublished}{}
+    \entry{AntayaEtAl2023c}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1568,9 +1985,8 @@
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
-    \entry{Antaya2023b}{unpublished}{}
+    \entry{Antaya2023}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1585,7 +2001,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{1}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1596,12 +2012,11 @@
       \field{eventtitle}{Virtual {{Fence In-Service Conference}}}
       \field{month}{2}
       \field{title}{Invited {{Speaker Virtual Fence Data Workshop}}}
-      \field{type}{Workshop}
+      \field{type}{Oral Presentation}
       \field{venue}{Boise, Idaho, USA}
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
     \entry{NoelleEtAl2023}{unpublished}{}
       \name{author}{5}{}{%
@@ -1653,15 +2068,14 @@
       \field{eventtitle}{Virtual {{Fence In-Service Conference}}}
       \field{month}{2}
       \field{title}{Reflections on {{Virtual Fencing}}: {{Refining}} a {{Revolution}} in {{Rangelands}}}
-      \field{type}{Meeting}
+      \field{type}{Oral Presentation}
       \field{venue}{Boise, Idaho, USA}
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
     \entry{BlumEtAl2023}{unpublished}{}
-      \name{author}{5}{}{%
+      \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=ea8a36c77ae427393fdf7e4de277a5e3}{%
            family={Blum},
            familyi={B\bibinitperiod},
@@ -1692,43 +2106,43 @@
            given={Sarah},
            giveni={S\bibinitperiod},
            givenun=0}}%
-      }
-      \name{namea}{5}{}{%
-        {{hash=4c3cbdc39a2859a73c1f5c4a2fdd54d6}{%
+        {{un=0,uniquepart=base,hash=4c3cbdc39a2859a73c1f5c4a2fdd54d6}{%
            family={Dalke},
            familyi={D\bibinitperiod},
            given={Amber},
-           giveni={A\bibinitperiod}}}%
-        {{hash=01d9d64e6c43e33d86aae7d6ef41cb43}{%
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01d9d64e6c43e33d86aae7d6ef41cb43}{%
            family={Beard},
            familyi={B\bibinitperiod},
            given={Joslyn},
-           giveni={J\bibinitperiod}}}%
-        {{hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
            family={Lien},
            familyi={L\bibinitperiod},
            given={Aaron},
-           giveni={A\bibinitperiod}}}%
-        {{hash=2b0e4c640b8f45ff0213dce7292034a2}{%
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b0e4c640b8f45ff0213dce7292034a2}{%
            family={McClaran},
            familyi={M\bibinitperiod},
            given={Mitch},
-           giveni={M\bibinitperiod}}}%
-        {{hash=47db4a34954063f871f5e6b7808e8a9c}{%
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47db4a34954063f871f5e6b7808e8a9c}{%
            family={Ruyle},
            familyi={R\bibinitperiod},
            given={George},
-           giveni={G\bibinitperiod}}}%
+           giveni={G\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{714441d72e645bdd9cd78b437f51f031}
-      \strng{fullhash}{dd82345af69272303592efb56c3aba75}
-      \strng{bibnamehash}{dd82345af69272303592efb56c3aba75}
-      \strng{authorbibnamehash}{dd82345af69272303592efb56c3aba75}
+      \strng{fullhash}{4fbc6e66d18c2a842c34c0c6ce474a54}
+      \strng{bibnamehash}{4fbc6e66d18c2a842c34c0c6ce474a54}
+      \strng{authorbibnamehash}{4fbc6e66d18c2a842c34c0c6ce474a54}
       \strng{authornamehash}{714441d72e645bdd9cd78b437f51f031}
-      \strng{authorfullhash}{dd82345af69272303592efb56c3aba75}
-      \strng{nameabibnamehash}{68cea50d8c87aa3dbc665a8374b18dea}
-      \strng{nameanamehash}{bbd5c72f16f3866b9583463a8a4b96ad}
-      \strng{nameafullhash}{68cea50d8c87aa3dbc665a8374b18dea}
+      \strng{authorfullhash}{4fbc6e66d18c2a842c34c0c6ce474a54}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1740,14 +2154,13 @@
       \field{day}{6}
       \field{eventtitle}{Arizona {{Section Society}} for {{Range Management Winter Meeting}}}
       \field{month}{2}
-      \field{nameatype}{collaborator}
       \field{title}{Applications in {{Virtual Fencing}}}
-      \field{type}{Conference}
+      \field{type}{Oral Presentation}
       \field{venue}{Maricopa Agricultural Experiment Station, Maricopa, Arizona, USA}
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎,mypub,public land,virtual-fence}
+      \keyw{,mypub,public land,virtual-fence}
     \endentry
     \entry{Antaya2023a}{software}{}
       \name{author}{1}{}{%
@@ -1796,7 +2209,7 @@
       \verb{url}
       \verb https://github.com/amantaya/Vence-API
       \endverb
-      \keyw{✅,API,application-programming-interface}
+      \keyw{,API,application-programming-interface}
     \endentry
     \entry{Antaya2022}{software}{}
       \name{author}{1}{}{%
@@ -1813,7 +2226,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{2}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1833,10 +2246,9 @@
       \verb{url}
       \verb https://amantaya.github.io/RangelandsLiteratureMap/
       \endverb
-      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022c}{unpublished}{}
-      \name{author}{5}{ul=3}{%
+    \entry{AntayaEtAl2022a}{unpublished}{}
+      \name{author}{9}{ul=3}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
            familyi={A\bibinitperiod},
@@ -1867,38 +2279,37 @@
            given={Brett},
            giveni={B\bibinitperiod},
            givenun=0}}%
-      }
-      \name{namea}{4}{}{%
-        {{hash=4c3cbdc39a2859a73c1f5c4a2fdd54d6}{%
+        {{un=0,uniquepart=base,hash=4c3cbdc39a2859a73c1f5c4a2fdd54d6}{%
            family={Dalke},
            familyi={D\bibinitperiod},
            given={Amber},
-           giveni={A\bibinitperiod}}}%
-        {{hash=01d9d64e6c43e33d86aae7d6ef41cb43}{%
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01d9d64e6c43e33d86aae7d6ef41cb43}{%
            family={Beard},
            familyi={B\bibinitperiod},
            given={Joslyn},
-           giveni={J\bibinitperiod}}}%
-        {{hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
            family={Lien},
            familyi={L\bibinitperiod},
            given={Aaron},
-           giveni={A\bibinitperiod}}}%
-        {{hash=47db4a34954063f871f5e6b7808e8a9c}{%
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47db4a34954063f871f5e6b7808e8a9c}{%
            family={Ruyle},
            familyi={R\bibinitperiod},
            given={George},
-           giveni={G\bibinitperiod}}}%
+           giveni={G\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{b168d5d788f355e6b37c90ed42b400c6}
-      \strng{fullhash}{325fa504add355f11c5780918a531002}
-      \strng{bibnamehash}{325fa504add355f11c5780918a531002}
-      \strng{authorbibnamehash}{325fa504add355f11c5780918a531002}
+      \strng{fullhash}{353dc039b91b1511cfe823e543446c4e}
+      \strng{bibnamehash}{353dc039b91b1511cfe823e543446c4e}
+      \strng{authorbibnamehash}{353dc039b91b1511cfe823e543446c4e}
       \strng{authornamehash}{b168d5d788f355e6b37c90ed42b400c6}
-      \strng{authorfullhash}{325fa504add355f11c5780918a531002}
-      \strng{nameabibnamehash}{8dc394b9a1e45b400e222cad625ad8c3}
-      \strng{nameanamehash}{bbd5c72f16f3866b9583463a8a4b96ad}
-      \strng{nameafullhash}{8dc394b9a1e45b400e222cad625ad8c3}
+      \strng{authorfullhash}{353dc039b91b1511cfe823e543446c4e}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1910,7 +2321,6 @@
       \field{day}{7}
       \field{eventtitle}{{{USDA Geofencing Summit Webinar}}}
       \field{month}{12}
-      \field{nameatype}{collaborator}
       \field{title}{Virtual {{Fence Applications}} and {{Considerations}} for {{Public Land Managers}}}
       \field{type}{Webinar}
       \field{venue}{Virtual}
@@ -1920,10 +2330,10 @@
       \verb{file}
       \verb /home/andrew/Zotero/storage/HJH6XYH7/Antaya_2022_Virtual Fence Applications and Considerations for Public Land Managers.pdf
       \endverb
-      \keyw{✅,mypub,public land,virtual-fence}
+      \keyw{,mypub,public land,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2022b}{unpublished}{}
-      \name{author}{5}{ul=3}{%
+    \entry{AntayaEtAl2022}{unpublished}{}
+      \name{author}{9}{ul=3}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
            familyi={A\bibinitperiod},
@@ -1954,38 +2364,37 @@
            given={Brett},
            giveni={B\bibinitperiod},
            givenun=0}}%
-      }
-      \name{namea}{4}{}{%
-        {{hash=4c3cbdc39a2859a73c1f5c4a2fdd54d6}{%
+        {{un=0,uniquepart=base,hash=4c3cbdc39a2859a73c1f5c4a2fdd54d6}{%
            family={Dalke},
            familyi={D\bibinitperiod},
            given={Amber},
-           giveni={A\bibinitperiod}}}%
-        {{hash=01d9d64e6c43e33d86aae7d6ef41cb43}{%
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01d9d64e6c43e33d86aae7d6ef41cb43}{%
            family={Beard},
            familyi={B\bibinitperiod},
            given={Joslyn},
-           giveni={J\bibinitperiod}}}%
-        {{hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
            family={Lien},
            familyi={L\bibinitperiod},
            given={Aaron},
-           giveni={A\bibinitperiod}}}%
-        {{hash=47db4a34954063f871f5e6b7808e8a9c}{%
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47db4a34954063f871f5e6b7808e8a9c}{%
            family={Ruyle},
            familyi={R\bibinitperiod},
            given={George},
-           giveni={G\bibinitperiod}}}%
+           giveni={G\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{b168d5d788f355e6b37c90ed42b400c6}
-      \strng{fullhash}{325fa504add355f11c5780918a531002}
-      \strng{bibnamehash}{325fa504add355f11c5780918a531002}
-      \strng{authorbibnamehash}{325fa504add355f11c5780918a531002}
+      \strng{fullhash}{353dc039b91b1511cfe823e543446c4e}
+      \strng{bibnamehash}{353dc039b91b1511cfe823e543446c4e}
+      \strng{authorbibnamehash}{353dc039b91b1511cfe823e543446c4e}
       \strng{authornamehash}{b168d5d788f355e6b37c90ed42b400c6}
-      \strng{authorfullhash}{325fa504add355f11c5780918a531002}
-      \strng{nameabibnamehash}{8dc394b9a1e45b400e222cad625ad8c3}
-      \strng{nameanamehash}{bbd5c72f16f3866b9583463a8a4b96ad}
-      \strng{nameafullhash}{8dc394b9a1e45b400e222cad625ad8c3}
+      \strng{authorfullhash}{353dc039b91b1511cfe823e543446c4e}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1997,7 +2406,6 @@
       \field{day}{6}
       \field{eventtitle}{Kaibab {{National Forest Range Management Staff}}}
       \field{month}{12}
-      \field{nameatype}{collaborator}
       \field{title}{Virtual {{Fence Applications}} and {{Considerations}} for {{Public Land Managers}}}
       \field{type}{Webinar}
       \field{venue}{Virtual}
@@ -2007,7 +2415,7 @@
       \verb{file}
       \verb /home/andrew/Zotero/storage/F3GJLR9W/Antaya_2022_Virtual Fence Applications and Considerations for Public Land Managers.pdf
       \endverb
-      \keyw{✅,mypub,public land,virtual-fence}
+      \keyw{,mypub,public land,virtual-fence}
     \endentry
     \entry{Antaya2022a}{software}{}
       \name{author}{1}{}{%
@@ -2052,7 +2460,6 @@
       \verb{url}
       \verb https://github.com/amantaya/grazeR
       \endverb
-      \keyw{✅}
     \endentry
     \entry{MayerEtAl2022}{unpublished}{}
       \name{author}{11}{}{%
@@ -2141,14 +2548,13 @@
       \field{eventtitle}{Research {{Insights}} in {{Semi-Arid Ecosystems}}}
       \field{month}{11}
       \field{title}{Reflections on {{Virtual Fencing}}: {{Refining}} a {{Revolution}} in {{Rangelands}}.}
-      \field{type}{Conference}
+      \field{type}{Oral Presentation}
       \field{venue}{University of Arizona, Tucson, Arizona, USA}
       \field{year}{2022}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022}{unpublished}{}
+    \entry{AntayaEtAl2022b}{unpublished}{}
       \name{author}{5}{ul=4}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -2197,14 +2603,13 @@
       \field{eventtitle}{Ranching {{Heritage Alliance}}}
       \field{month}{4}
       \field{title}{Heber {{Wild Horse Territory}}: {{Examining Use}} of {{Forage Resources}}}
-      \field{type}{Meeting}
+      \field{type}{Oral Presentation}
       \field{venue}{X Diamond Ranch, Eager, Arizona, USA}
       \field{year}{2022}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022a}{misc}{}
+    \entry{AntayaEtAl2022d}{misc}{}
       \name{author}{4}{ul=4}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -2255,7 +2660,6 @@
       \verb{file}
       \verb /home/andrew/Zotero/storage/S6MP4UIV/Antaya et al. - 2022 - Examination of Site Use by Grazing Animals and Eff.pdf
       \endverb
-      \keyw{✅}
     \endentry
     \entry{AntayaRuyle2020a}{unpublished}{}
       \name{author}{2}{}{%
@@ -2290,12 +2694,11 @@
       \field{eventtitle}{Summer {{Meeting}} of the {{Arizona Section Society}} for {{Range Management}}}
       \field{month}{9}
       \field{title}{Range Riders as Citizen Scientists}
-      \field{type}{Conference}
+      \field{type}{Oral Presentation}
       \field{venue}{Virtual}
       \field{year}{2020}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
     \entry{AntayaEtAl2020}{misc}{}
       \name{author}{4}{}{%
@@ -2333,7 +2736,7 @@
       \strng{authorbibnamehash}{40d1f291825eacaff6e8f64ecdd9df08}
       \strng{authornamehash}{2aa6d2de5c268f4b79e44ebb056cbc5a}
       \strng{authorfullhash}{40d1f291825eacaff6e8f64ecdd9df08}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2349,7 +2752,6 @@
       \verb{file}
       \verb /home/andrew/Zotero/storage/KGE663LA/Antaya et al_2020_Examination of the Ecological Interactions of Free-Roaming Horses on Montane.pdf
       \endverb
-      \keyw{✅}
     \endentry
     \entry{AntayaRuyle2020}{unpublished}{}
       \name{author}{2}{}{%
@@ -2384,12 +2786,11 @@
       \field{eventtitle}{Winter {{Meeting}} of the {{Arizona Section Society}} for {{Range Management}}}
       \field{month}{1}
       \field{title}{Adding Value to Range Rider Programs through Low-Cost, Scalable Citizen Science.}
-      \field{type}{Conference}
+      \field{type}{Oral Presentation}
       \field{venue}{Wickenburg, Arizona, USA}
       \field{year}{2020}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
     \entry{BlumEtAl2019}{misc}{}
       \name{author}{5}{}{%
@@ -2450,7 +2851,6 @@
       \verb{file}
       \verb /home/andrew/Zotero/storage/YIXSZBY2/Blum et al. - Examination of Behavioral Variation, Site Use and .pdf
       \endverb
-      \keyw{✅}
     \endentry
     \entry{AntayaEtAl2019}{unpublished}{}
       \name{author}{5}{}{%
@@ -2491,7 +2891,7 @@
       \strng{authorbibnamehash}{934c1e9d387e92a74ff4808d74a4f9e6}
       \strng{authornamehash}{7225a1d16f7787359c62433fa29b6c00}
       \strng{authorfullhash}{934c1e9d387e92a74ff4808d74a4f9e6}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2502,12 +2902,11 @@
       \field{eventtitle}{The {{Society}} for {{Range Management Annual Meeting}}}
       \field{month}{2}
       \field{title}{Free-Roaming Horses in Montane Riparian Areas of {{Arizona}}: Examining Use of Forage Resources.}
-      \field{type}{Conference}
+      \field{type}{Oral Presentation}
       \field{venue}{Minneapolis, Minnesota, USA}
       \field{year}{2019}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
     \entry{Antaya2018}{thesis}{}
       \name{author}{1}{}{%
@@ -2527,7 +2926,7 @@
       \strng{authorbibnamehash}{16c1275565488fe936703d1ab690c410}
       \strng{authornamehash}{16c1275565488fe936703d1ab690c410}
       \strng{authorfullhash}{16c1275565488fe936703d1ab690c410}
-      \field{extraname}{3}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2554,7 +2953,6 @@
       \verb{url}
       \verb https://repository.arizona.edu/handle/10150/628159
       \endverb
-      \keyw{✅}
     \endentry
     \entry{AntayaEtAl2017}{unpublished}{}
       \name{author}{3}{}{%
@@ -2583,7 +2981,7 @@
       \strng{authorbibnamehash}{cfb3916058434bab5cf2aa6f10495552}
       \strng{authornamehash}{7225a1d16f7787359c62433fa29b6c00}
       \strng{authorfullhash}{cfb3916058434bab5cf2aa6f10495552}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2599,11 +2997,241 @@
       \field{year}{2017}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
   \enddatalist
   \datalist[entry]{ndymdt/global//global/global}
-    \entry{DuvalEtAl2025}{report}{}
+    \entry{AntayaEtAl2025b}{unpublished}{}
+      \name{author}{9}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=478805c35ba405a2ad4368309d185bdb}{%
+           family={Lopez},
+           familyi={L\bibinitperiod},
+           given={P.\bibnamedelimi Guarnido},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df6289d77688579f8165b08b1ab15654}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60cc51bdcc32c4cb917ebfacdd4b2d39}{%
+           family={Tedeschi},
+           familyi={T\bibinitperiod},
+           given={L.\bibnamedelimi O.},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2967cdb1e858cf6ee89736e506c0799d}{%
+           family={Husmann},
+           familyi={H\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7384bdfd2f43c5eb295e5459cfc9db9}{%
+           family={Feist},
+           familyi={F\bibinitperiod},
+           given={H.\bibnamedelimi K.},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ef9449f33c4a71dd4d95e522ecc62b9}{%
+           family={Parsons},
+           familyi={P\bibinitperiod},
+           given={I.\bibnamedelimi L.},
+           giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e08d9a4fc73b20565133b841e058578a}{%
+           family={Zuidema},
+           familyi={Z\bibinitperiod},
+           given={D.\bibnamedelimi M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a2dc145fc91da5823d7c2f2a19ee7e4}{%
+           family={Menendez\bibnamedelima III},
+           familyi={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={H.\bibnamedelimi M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7225a1d16f7787359c62433fa29b6c00}
+      \strng{fullhash}{6df06ed1152690e1f02d030e196de41b}
+      \strng{bibnamehash}{6df06ed1152690e1f02d030e196de41b}
+      \strng{authorbibnamehash}{6df06ed1152690e1f02d030e196de41b}
+      \strng{authornamehash}{7225a1d16f7787359c62433fa29b6c00}
+      \strng{authorfullhash}{6df06ed1152690e1f02d030e196de41b}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Precision livestock technologies generate vast amounts of real-time data, which can be challenging to manage. Our study aimed to develop a robust relational database system for integrating data across different grazing beef cattle farms with electronic devices like GreenFeed machines to integrate enteric emissions data with animal parameters (e.g., sex, age, body weight). We demonstrate using analytics to identify high- and low-emitting individuals in the herd, which can inform "climate smart" beef premiums. Our example data pipeline can be integrated with other precision technologies to add value, providing insights into livestock production systems and potentially increasing sustainability and operational efficiency.}
+      \field{day}{3}
+      \field{eventtitle}{U.{{S}}. {{Precision Livestock Farming}} 2025 {{Conference}}}
+      \field{month}{6}
+      \field{title}{Application of {{Data Engineering Techniques}} to {{Manage Big Data}} in {{Precision Livestock Farming}}}
+      \field{type}{Oral Presentation}
+      \field{venue}{Lincoln, Nebraska, USA}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/KNVGT2GB/USPLF-2025-Antaya-et-al-Managing-Big-Data-PLF-v2.pptx;/home/andrew/Zotero/storage/YEUNVLYQ/063_122.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://usplf2025.exordo.com/files/papers/122/final_draft/063_122.pdf
+      \endverb
+      \verb{url}
+      \verb https://usplf2025.exordo.com/files/papers/122/final_draft/063_122.pdf
+      \endverb
+      \keyw{,big-data,bison,cattle,data-engineering,data-management,enteric-emissions,precision-livestock-farming}
+    \endentry
+    \entry{AudoinEtAl2025}{report}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=2ad085d00b8a688e65a471693db6b512}{%
+           family={Audoin},
+           familyi={A\bibinitperiod},
+           given={Flavie},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b9977f743cec09600ca3df62d284f3c}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91d091814794d1eef6078ec2acbbb168}{%
+           family={May},
+           familyi={M\bibinitperiod},
+           given={Tegan},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96b8d40c3152d1292158dd950db99046}{%
+           family={Burnidge},
+           familyi={B\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={Brandon},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7a2b08c07fc3942d596fccceda14bed}{%
+           family={Noelle},
+           familyi={N\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea8a36c77ae427393fdf7e4de277a5e3}{%
+           family={Blum},
+           familyi={B\bibinitperiod},
+           given={Brett},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cab943dc199fd74d0dd7d129b121bd8e}{%
+           family={Blouin},
+           familyi={B\bibinitperiod},
+           given={Carter},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
+           family={Lien},
+           familyi={L\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c3cbdc39a2859a73c1f5c4a2fdd54d6}{%
+           family={Dalke},
+           familyi={D\bibinitperiod},
+           given={Amber},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of Arizona}%
+      }
+      \list{location}{1}{%
+        {Tucson, Arizona, USA}%
+      }
+      \strng{namehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{fullhash}{48e89497d12e5e951d87a1b40fe35848}
+      \strng{bibnamehash}{48e89497d12e5e951d87a1b40fe35848}
+      \strng{authorbibnamehash}{48e89497d12e5e951d87a1b40fe35848}
+      \strng{authornamehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{authorfullhash}{48e89497d12e5e951d87a1b40fe35848}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{VF systems have the potential to improve livestock and rangeland management on expansive rangelands, but they also require careful management of VF collars to achieve the greatest benefit. Best practices for collar deployment include labeling all collars with a unique number and pairing that number with an individual animal's identification ear tag number. Without this, specific animals cannot be properly identified and managed in the VF system's software. Best practices for managing collars in the VF system's software include organizing individual animals with functioning collars into a ``managed'' virtual herd based on the paired collar and ear tag number, and organizing collars into virtual herds based on the function or status of the collar as individual collars are lost or stop functioning. Doing so will improve the visualization of VF collars in the system's software.}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{az2124}
+      \field{title}{Foundations of {{Virtual Fencing}}: {{Collar Deployment Basics}}}
+      \field{type}{Extension Publication}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{6}
+      \range{pages}{1}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/XA3GKC5U/Audoin et al. - 2024 - Foundations of Virtual Fencing Collar Deployment Basics.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://extension.arizona.edu/sites/default/files/2025-06/az2124_Foundations-of-Virtual-Fencing_Collar-Deployment-Basics.pdf
+      \endverb
+      \verb{url}
+      \verb https://extension.arizona.edu/sites/default/files/2025-06/az2124_Foundations-of-Virtual-Fencing_Collar-Deployment-Basics.pdf
+      \endverb
+      \keyw{,VF,virtual-fence,virtual-fencing}
+    \endentry
+    \entry{Antaya2025}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{7}
+      \field{eventtitle}{Spring {{Seminar Series}}, {{South Dakota State University}}}
+      \field{month}{4}
+      \field{title}{Putting {{FAIR}} and {{CARE Data Principles}} into {{Practice}}}
+      \field{type}{Guest Lecture}
+      \field{venue}{Rapid City, SD, USA}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/3N63SA9S/Putting-FAIR-Data-into-Practice.pptx
+      \endverb
+      \keyw{,CARE-data,FAIR-data,lecture}
+    \endentry
+    \entry{DuvalEtAl2025a}{report}{}
       \name{author}{8}{ul=6}{%
         {{un=0,uniquepart=base,hash=51ee409abfa56fac0e9978d204a688af}{%
            family={Duval},
@@ -2692,9 +3320,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/default/files/2025-03/az2117-2025.pdf
       \endverb
-      \keyw{✅,economics,VF,virtual-fence}
+      \keyw{,economics,VF,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2025}{article}{}
+    \entry{AntayaEtAl2025a}{unpublished}{}
       \name{author}{9}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -2760,6 +3388,92 @@
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{eventtitle}{The {{Society}} for {{Range Management Annual Meeting}}}
+      \field{month}{2}
+      \field{title}{Challenges with {{Virtual Fence Data}}}
+      \field{type}{Oral Presentation}
+      \field{venue}{Spokane, Washington, USA}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/T8I9UJDK/Antaya-et-al-Challenges-VF-Data-SRM25.pptx
+      \endverb
+      \keyw{,data-management,VF,virtual-fence}
+    \endentry
+    \entry{AntayaEtAl2025}{article}{}
+      \name{author}{9}{}{%
+        {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=4c3cbdc39a2859a73c1f5c4a2fdd54d6}{%
+           family={Dalke},
+           familyi={D\bibinitperiod},
+           given={Amber},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={Brandon},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cab943dc199fd74d0dd7d129b121bd8e}{%
+           family={Blouin},
+           familyi={B\bibinitperiod},
+           given={Carter},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7a2b08c07fc3942d596fccceda14bed}{%
+           family={Noelle},
+           familyi={N\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea8a36c77ae427393fdf7e4de277a5e3}{%
+           family={Blum},
+           familyi={B\bibinitperiod},
+           given={Brett},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f15f89ae44dfcda6b002fac5971ee6fe}{%
+           family={Beard},
+           familyi={B\bibinitperiod},
+           given={Joslyn\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47db4a34954063f871f5e6b7808e8a9c}{%
+           family={Ruyle},
+           familyi={R\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
+           family={Lien},
+           familyi={L\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2aa6d2de5c268f4b79e44ebb056cbc5a}
+      \strng{fullhash}{d0279a60496c672109ec308bd2ebbbbe}
+      \strng{bibnamehash}{d0279a60496c672109ec308bd2ebbbbe}
+      \strng{authorbibnamehash}{d0279a60496c672109ec308bd2ebbbbe}
+      \strng{authornamehash}{2aa6d2de5c268f4b79e44ebb056cbc5a}
+      \strng{authorfullhash}{d0279a60496c672109ec308bd2ebbbbe}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -2794,7 +3508,7 @@
       \verb{url}
       \verb https://www.sciencedirect.com/science/article/pii/S0190052824000361
       \endverb
-      \keyw{✅,cattle,Global Positioning System,GPS tracking,precision livestock management,virtual-fence}
+      \keyw{,cattle,Global Positioning System,GPS tracking,precision livestock management,virtual-fence}
     \endentry
     \entry{MayerEtAl2025}{article}{}
       \name{author}{9}{}{%
@@ -2897,9 +3611,9 @@
       \verb{url}
       \verb https://www.sciencedirect.com/science/article/pii/S0190052824000348
       \endverb
-      \keyw{✅,adaptive management,desert Southwest,precision livestock technology,virtual-fence}
+      \keyw{,adaptive management,desert Southwest,precision livestock technology,virtual-fence}
     \endentry
-    \entry{DuvalEtAl2025a}{report}{}
+    \entry{DuvalEtAl2025}{report}{}
       \name{author}{8}{ul=6}{%
         {{un=0,uniquepart=base,hash=51ee409abfa56fac0e9978d204a688af}{%
            family={Duval},
@@ -2969,7 +3683,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Virtual fencing (VF) is tool for livestock management that uses collars and a radio or cellular system to influence the movement of livestock using auditory and electrical cues. Users program the system to establish invisible barriers on a landscape. The system detects the location of animals and if animals approach or cross a “virtual” fence, they receive an auditory or electrical cue encouraging them to move away from the barrier. VF systems have the potential to offset physical fencing costs, enable adoption of adaptive management practices, and save ranchers time in locating animals, among other benefits. Meanwhile, commercial VF systems have different fee structures and require labor to operate. This analysis explores economic considerations of investment in virtual fence (VF) systems, examining its application for representative cow-calf operations in Arizona.}
+      \field{abstract}{Virtual fencing (VF) is tool for livestock management that uses collars and a radio or cellular system to influence the movement of livestock using auditory and electrical cues. Users program the system to establish invisible barriers on a landscape. The system detects the location of animals and if animals approach or cross a ``virtual'' fence, they receive an auditory or electrical cue encouraging them to move away from the barrier. VF systems have the potential to offset physical fencing costs, enable adoption of adaptive management practices, and save ranchers time in locating animals, among other benefits. Meanwhile, commercial VF systems have different fee structures and require labor to operate. This analysis explores economic considerations of investment in virtual fence (VF) systems, examining its application for representative cow-calf operations in Arizona.}
       \field{day}{20}
       \field{langid}{english}
       \field{month}{1}
@@ -2991,7 +3705,7 @@
       \verb{url}
       \verb https://papers.ssrn.com/abstract=5136551
       \endverb
-      \keyw{✅,cattle-ranching,VF,virtual-fence,virtual-fencing}
+      \keyw{,cattle-ranching,VF,virtual-fence,virtual-fencing}
     \endentry
     \entry{MayerEtAl2024}{report}{}
       \name{author}{10}{ul=5}{%
@@ -3092,7 +3806,78 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/default/files/2024-12/az2089-2024.pdf
       \endverb
-      \keyw{✅,VF,virtual-fence,virtual-fencing}
+      \keyw{,VF,virtual-fence,virtual-fencing}
+    \endentry
+    \entry{Antaya2024}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{During this lecture, we discussed how to use ArcGIS Pro 10, including how to add shapefiles, load basemaps, create a map layout, and export the layout to JPG and TIFF.}
+      \field{annotation}{Guest Lecture}
+      \field{day}{10}
+      \field{eventtitle}{South {{Dakota State University}}}
+      \field{month}{12}
+      \field{title}{Introduction to {{ArcGIS}}}
+      \field{type}{Guest Lecture}
+      \field{venue}{Rapid City, SD, USA}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{,ArcGIS,GIS,lecture}
+    \endentry
+    \entry{Antaya2024a}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{During this lecture, we discussed how to load CSV data into R and how to do summary statistics (e.g., mean, min, max) on example GreenFeed data.}
+      \field{day}{3}
+      \field{eventtitle}{South {{Dakota State University}}}
+      \field{month}{12}
+      \field{title}{Introduction to {{R Programming}}}
+      \field{type}{Guest Lecture}
+      \field{venue}{Rapid City, SD, USA}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{,lecture,R,R-programming}
     \endentry
     \entry{AntayaEtAl2024}{report}{}
       \name{author}{10}{}{%
@@ -3169,14 +3954,14 @@
       \strng{authorbibnamehash}{b267c45418970c9c670977eb0ab2b373}
       \strng{authornamehash}{2aa6d2de5c268f4b79e44ebb056cbc5a}
       \strng{authorfullhash}{b267c45418970c9c670977eb0ab2b373}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{VF systems have the potential to improve livestock and rangeland management on expansive rangelands, but they also require careful management of VF collars to achieve the greatest benefit. Best practices for collar deployment include labeling all collars with a unique number and pairing that number with an individual animal’s identification ear tag number. Without this, specific animals cannot be properly identified and managed in the VF system’s software. Best practices for managing collars in the VF system’s software include organizing individual animals with functioning collars into a “managed” virtual herd based on the paired collar and ear tag number, and organizing collars into virtual herds based on the function or status of the collar as individual collars are lost or stop functioning. Doing so will improve the visualization of VF collars in the system’s software.}
+      \field{abstract}{VF systems have the potential to improve livestock and rangeland management on expansive rangelands, but they also require careful management of VF collars to achieve the greatest benefit. Best practices for collar deployment include labeling all collars with a unique number and pairing that number with an individual animal's identification ear tag number. Without this, specific animals cannot be properly identified and managed in the VF system's software. Best practices for managing collars in the VF system's software include organizing individual animals with functioning collars into a ``managed'' virtual herd based on the paired collar and ear tag number, and organizing collars into virtual herds based on the function or status of the collar as individual collars are lost or stop functioning. Doing so will improve the visualization of VF collars in the system's software.}
       \field{langid}{english}
       \field{month}{10}
       \field{number}{az2095}
@@ -3196,7 +3981,44 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/default/files/2024-11/az2095-2024.pdf
       \endverb
-      \keyw{✅,VF,virtual-fence,virtual-fencing}
+      \keyw{,VF,virtual-fence,virtual-fencing}
+    \endentry
+    \entry{Antaya2024b}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{eventtitle}{Martin/{{Short Lab Meeting}}, {{South Dakota State University}}}
+      \field{month}{10}
+      \field{title}{Putting {{FAIR Data Principles}} into {{Practice}}}
+      \field{type}{Guest Lecture}
+      \field{venue}{Rapid City, SD, USA}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/5KDBHEAV/Putting-FAIR-Data-into-Practice.pptx
+      \endverb
+      \keyw{,data,FAIR-data,lecture}
     \endentry
     \entry{MayerEtAl2024a}{report}{}
       \name{author}{8}{ul=5}{%
@@ -3289,9 +4111,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2088-2024.pdf
       \endverb
-      \keyw{✅,animal-welfare,conditioning,training,VF,virtual-fence}
+      \keyw{,animal-welfare,conditioning,training,VF,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2024a}{report}{}
+    \entry{AntayaEtAl2024b}{report}{}
       \name{author}{9}{ul=4}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3385,9 +4207,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2087-2024.pdf
       \endverb
-      \keyw{✅,VF,virtual-fence,virtual-fencing}
+      \keyw{,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{AntayaEtAl2024b}{report}{}
+    \entry{AntayaEtAl2024a}{report}{}
       \name{author}{8}{ul=4}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3475,9 +4297,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2079-2024.pdf
       \endverb
-      \keyw{✅,VF,virtual-fence,virtual-fencing}
+      \keyw{,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{AntayaEtAl2023a}{unpublished}{}
+    \entry{AntayaEtAl2023d}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3564,7 +4386,7 @@
       \field{eventtitle}{Research {{Insights}} in {{Semi-Arid Ecosystems}}}
       \field{month}{10}
       \field{title}{Evaluating {{Virtual Fence Technology}} to {{Improve Rangeland Condition}}, {{Enhance Animal Management}}, and {{Assess Economic Feasibility}}}
-      \field{type}{Conference}
+      \field{type}{Poster}
       \field{venue}{University of Arizona, Tucson, Arizona, USA}
       \field{year}{2023}
       \field{dateera}{ce}
@@ -3572,7 +4394,6 @@
       \verb{file}
       \verb /home/andrew/Zotero/storage/38C34TPL/Antaya et al_2023_Evaluating Virtual Fence Technology to Improve Rangeland Condition, Enhance.pdf
       \endverb
-      \keyw{✅}
     \endentry
     \entry{AntayaBrennan2023a}{software}{}
       \name{author}{2}{}{%
@@ -3619,9 +4440,9 @@
       \verb{url}
       \verb https://github.com/amantaya/Vence-API
       \endverb
-      \keyw{✅,API,application-programming-interface}
+      \keyw{,API,application-programming-interface}
     \endentry
-    \entry{AntayaEtAl2023b}{unpublished}{}
+    \entry{AntayaEtAl2023a}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3708,12 +4529,11 @@
       \field{eventtitle}{Southern {{Arizona Cattleman}}'s {{Protective Association}}}
       \field{month}{8}
       \field{title}{Virtual {{Fence Applications}} on the {{Santa Rita Experimental Range}}}
-      \field{type}{Meeting}
+      \field{type}{Oral Presentation}
       \field{venue}{Santa Rita Ranch, Green Valley, Arizona, USA}
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
     \entry{AntayaBrennan2023}{software}{}
       \name{author}{2}{}{%
@@ -3761,9 +4581,8 @@
       \verb{url}
       \verb https://github.com/amantaya/vf-workshop
       \endverb
-      \keyw{✅}
     \endentry
-    \entry{AntayaEtAl2023d}{unpublished}{}
+    \entry{AntayaEtAl2023}{unpublished}{}
       \name{author}{3}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3808,7 +4627,6 @@
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
     \entry{McMullenAntaya2023}{software}{}
       \name{author}{2}{}{%
@@ -3855,9 +4673,9 @@
       \verb{url}
       \verb https://github.com/lilymcmullen/OptimalVisibilityTool
       \endverb
-      \keyw{✅,base station,GitHub,Python,virtual-fence}
+      \keyw{,base station,GitHub,Python,virtual-fence}
     \endentry
-    \entry{Antaya2023}{software}{}
+    \entry{Antaya2023b}{software}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -3901,10 +4719,10 @@
       \verb{url}
       \verb https://github.com/amantaya/grazing-interaction
       \endverb
-      \keyw{✅,R}
+      \keyw{,R}
     \endentry
     \entry{MayerEtAl2023}{unpublished}{}
-      \name{author}{5}{}{%
+      \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
            familyi={M\bibinitperiod},
@@ -3935,43 +4753,43 @@
            given={Brett},
            giveni={B\bibinitperiod},
            givenun=0}}%
-      }
-      \name{namea}{5}{}{%
-        {{hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
+        {{un=0,uniquepart=base,hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
            family={Lien},
            familyi={L\bibinitperiod},
            given={Aaron},
-           giveni={A\bibinitperiod}}}%
-        {{hash=f15f89ae44dfcda6b002fac5971ee6fe}{%
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f15f89ae44dfcda6b002fac5971ee6fe}{%
            family={Beard},
            familyi={B\bibinitperiod},
            given={Joslyn\bibnamedelima K.},
-           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=398df46594dafa893868925578424941}{%
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=398df46594dafa893868925578424941}{%
            family={Soto},
            familyi={S\bibinitperiod},
            given={Jose},
-           giveni={J\bibinitperiod}}}%
-        {{hash=1b2100d2053ebdbdc73f48bad47630c6}{%
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b2100d2053ebdbdc73f48bad47630c6}{%
            family={Justiniani},
            familyi={J\bibinitperiod},
            given={Hector\bibnamedelima Elias},
-           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=47db4a34954063f871f5e6b7808e8a9c}{%
+           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47db4a34954063f871f5e6b7808e8a9c}{%
            family={Ruyle},
            familyi={R\bibinitperiod},
            given={George},
-           giveni={G\bibinitperiod}}}%
+           giveni={G\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{94126826ef044162673821718b02bf16}
-      \strng{fullhash}{3003c74677502f4b60b78aaf3af1dd32}
-      \strng{bibnamehash}{3003c74677502f4b60b78aaf3af1dd32}
-      \strng{authorbibnamehash}{3003c74677502f4b60b78aaf3af1dd32}
+      \strng{fullhash}{2fe8f60d530765bd9218756003292edd}
+      \strng{bibnamehash}{2fe8f60d530765bd9218756003292edd}
+      \strng{authorbibnamehash}{2fe8f60d530765bd9218756003292edd}
       \strng{authornamehash}{94126826ef044162673821718b02bf16}
-      \strng{authorfullhash}{3003c74677502f4b60b78aaf3af1dd32}
-      \strng{nameabibnamehash}{3f9dd5df7a71a9c7771e9b60803548c8}
-      \strng{nameanamehash}{bbe365dcb4d71fdcc43448eb8ff92506}
-      \strng{nameafullhash}{3f9dd5df7a71a9c7771e9b60803548c8}
+      \strng{authorfullhash}{2fe8f60d530765bd9218756003292edd}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -3983,17 +4801,15 @@
       \field{day}{13}
       \field{eventtitle}{Northeast {{Regional Range Livestock Workshop}}}
       \field{month}{4}
-      \field{nameatype}{collaborator}
-      \field{title}{Virtual {{Fence Technology}} for {{Rangeland Livestock}} – {{What}}, {{How}}, {{Why}} and {{Should}}?}
+      \field{title}{Virtual {{Fence Technology}} for {{Rangeland Livestock}} -- {{What}}, {{How}}, {{Why}} and {{Should}}?}
       \field{type}{Workshop}
       \field{venue}{Holbrook, Arizona, USA}
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2023c}{unpublished}{}
-      \name{author}{5}{}{%
+    \entry{AntayaEtAl2023b}{unpublished}{}
+      \name{author}{10}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
            familyi={A\bibinitperiod},
@@ -4024,44 +4840,44 @@
            given={Brett},
            giveni={B\bibinitperiod},
            givenun=0}}%
-      }
-      \name{namea}{5}{}{%
-        {{hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
+        {{un=0,uniquepart=base,hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
            family={Lien},
            familyi={L\bibinitperiod},
            given={Aaron},
-           giveni={A\bibinitperiod}}}%
-        {{hash=f15f89ae44dfcda6b002fac5971ee6fe}{%
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f15f89ae44dfcda6b002fac5971ee6fe}{%
            family={Beard},
            familyi={B\bibinitperiod},
            given={Joslyn\bibnamedelima K.},
-           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=398df46594dafa893868925578424941}{%
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=398df46594dafa893868925578424941}{%
            family={Soto},
            familyi={S\bibinitperiod},
            given={Jose},
-           giveni={J\bibinitperiod}}}%
-        {{hash=1b2100d2053ebdbdc73f48bad47630c6}{%
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b2100d2053ebdbdc73f48bad47630c6}{%
            family={Justiniani},
            familyi={J\bibinitperiod},
            given={Hector\bibnamedelima Elias},
-           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=47db4a34954063f871f5e6b7808e8a9c}{%
+           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47db4a34954063f871f5e6b7808e8a9c}{%
            family={Ruyle},
            familyi={R\bibinitperiod},
            given={George},
-           giveni={G\bibinitperiod}}}%
+           giveni={G\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{2aa6d2de5c268f4b79e44ebb056cbc5a}
-      \strng{fullhash}{c0a03a27802fdde1955fffde0a0a886d}
-      \strng{bibnamehash}{c0a03a27802fdde1955fffde0a0a886d}
-      \strng{authorbibnamehash}{c0a03a27802fdde1955fffde0a0a886d}
+      \strng{fullhash}{d059d0cb9660ef920a28c4048209bed1}
+      \strng{bibnamehash}{d059d0cb9660ef920a28c4048209bed1}
+      \strng{authorbibnamehash}{d059d0cb9660ef920a28c4048209bed1}
       \strng{authornamehash}{2aa6d2de5c268f4b79e44ebb056cbc5a}
-      \strng{authorfullhash}{c0a03a27802fdde1955fffde0a0a886d}
-      \strng{nameabibnamehash}{3f9dd5df7a71a9c7771e9b60803548c8}
-      \strng{nameanamehash}{bbe365dcb4d71fdcc43448eb8ff92506}
-      \strng{nameafullhash}{3f9dd5df7a71a9c7771e9b60803548c8}
-      \field{extraname}{3}
+      \strng{authorfullhash}{d059d0cb9660ef920a28c4048209bed1}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -4071,16 +4887,14 @@
       \field{day}{31}
       \field{eventtitle}{Southeast {{Regional Range Livestock Workshop}}}
       \field{month}{3}
-      \field{nameatype}{collaborator}
-      \field{title}{Virtual {{Fence Technology}} for {{Rangeland Livestock}} – {{What}}, {{How}}, {{Why}} and {{Should}}?}
-      \field{type}{Workshop}
+      \field{title}{Virtual {{Fence Technology}} for {{Rangeland Livestock}} -- {{What}}, {{How}}, {{Why}} and {{Should}}?}
+      \field{type}{Oral Presentation}
       \field{venue}{Wilcox, Arizona, USA}
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2023}{unpublished}{}
+    \entry{AntayaEtAl2023c}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -4152,9 +4966,8 @@
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
-    \entry{Antaya2023b}{unpublished}{}
+    \entry{Antaya2023}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -4169,7 +4982,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{1}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -4180,12 +4993,11 @@
       \field{eventtitle}{Virtual {{Fence In-Service Conference}}}
       \field{month}{2}
       \field{title}{Invited {{Speaker Virtual Fence Data Workshop}}}
-      \field{type}{Workshop}
+      \field{type}{Oral Presentation}
       \field{venue}{Boise, Idaho, USA}
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
     \entry{NoelleEtAl2023}{unpublished}{}
       \name{author}{5}{}{%
@@ -4237,15 +5049,14 @@
       \field{eventtitle}{Virtual {{Fence In-Service Conference}}}
       \field{month}{2}
       \field{title}{Reflections on {{Virtual Fencing}}: {{Refining}} a {{Revolution}} in {{Rangelands}}}
-      \field{type}{Meeting}
+      \field{type}{Oral Presentation}
       \field{venue}{Boise, Idaho, USA}
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
     \entry{BlumEtAl2023}{unpublished}{}
-      \name{author}{5}{}{%
+      \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=ea8a36c77ae427393fdf7e4de277a5e3}{%
            family={Blum},
            familyi={B\bibinitperiod},
@@ -4276,43 +5087,43 @@
            given={Sarah},
            giveni={S\bibinitperiod},
            givenun=0}}%
-      }
-      \name{namea}{5}{}{%
-        {{hash=4c3cbdc39a2859a73c1f5c4a2fdd54d6}{%
+        {{un=0,uniquepart=base,hash=4c3cbdc39a2859a73c1f5c4a2fdd54d6}{%
            family={Dalke},
            familyi={D\bibinitperiod},
            given={Amber},
-           giveni={A\bibinitperiod}}}%
-        {{hash=01d9d64e6c43e33d86aae7d6ef41cb43}{%
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01d9d64e6c43e33d86aae7d6ef41cb43}{%
            family={Beard},
            familyi={B\bibinitperiod},
            given={Joslyn},
-           giveni={J\bibinitperiod}}}%
-        {{hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
            family={Lien},
            familyi={L\bibinitperiod},
            given={Aaron},
-           giveni={A\bibinitperiod}}}%
-        {{hash=2b0e4c640b8f45ff0213dce7292034a2}{%
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b0e4c640b8f45ff0213dce7292034a2}{%
            family={McClaran},
            familyi={M\bibinitperiod},
            given={Mitch},
-           giveni={M\bibinitperiod}}}%
-        {{hash=47db4a34954063f871f5e6b7808e8a9c}{%
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47db4a34954063f871f5e6b7808e8a9c}{%
            family={Ruyle},
            familyi={R\bibinitperiod},
            given={George},
-           giveni={G\bibinitperiod}}}%
+           giveni={G\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{714441d72e645bdd9cd78b437f51f031}
-      \strng{fullhash}{dd82345af69272303592efb56c3aba75}
-      \strng{bibnamehash}{dd82345af69272303592efb56c3aba75}
-      \strng{authorbibnamehash}{dd82345af69272303592efb56c3aba75}
+      \strng{fullhash}{4fbc6e66d18c2a842c34c0c6ce474a54}
+      \strng{bibnamehash}{4fbc6e66d18c2a842c34c0c6ce474a54}
+      \strng{authorbibnamehash}{4fbc6e66d18c2a842c34c0c6ce474a54}
       \strng{authornamehash}{714441d72e645bdd9cd78b437f51f031}
-      \strng{authorfullhash}{dd82345af69272303592efb56c3aba75}
-      \strng{nameabibnamehash}{68cea50d8c87aa3dbc665a8374b18dea}
-      \strng{nameanamehash}{bbd5c72f16f3866b9583463a8a4b96ad}
-      \strng{nameafullhash}{68cea50d8c87aa3dbc665a8374b18dea}
+      \strng{authorfullhash}{4fbc6e66d18c2a842c34c0c6ce474a54}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -4324,14 +5135,13 @@
       \field{day}{6}
       \field{eventtitle}{Arizona {{Section Society}} for {{Range Management Winter Meeting}}}
       \field{month}{2}
-      \field{nameatype}{collaborator}
       \field{title}{Applications in {{Virtual Fencing}}}
-      \field{type}{Conference}
+      \field{type}{Oral Presentation}
       \field{venue}{Maricopa Agricultural Experiment Station, Maricopa, Arizona, USA}
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎,mypub,public land,virtual-fence}
+      \keyw{,mypub,public land,virtual-fence}
     \endentry
     \entry{Antaya2023a}{software}{}
       \name{author}{1}{}{%
@@ -4380,7 +5190,7 @@
       \verb{url}
       \verb https://github.com/amantaya/Vence-API
       \endverb
-      \keyw{✅,API,application-programming-interface}
+      \keyw{,API,application-programming-interface}
     \endentry
     \entry{Antaya2022}{software}{}
       \name{author}{1}{}{%
@@ -4397,7 +5207,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{2}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -4417,10 +5227,9 @@
       \verb{url}
       \verb https://amantaya.github.io/RangelandsLiteratureMap/
       \endverb
-      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022c}{unpublished}{}
-      \name{author}{5}{ul=3}{%
+    \entry{AntayaEtAl2022a}{unpublished}{}
+      \name{author}{9}{ul=3}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
            familyi={A\bibinitperiod},
@@ -4451,38 +5260,37 @@
            given={Brett},
            giveni={B\bibinitperiod},
            givenun=0}}%
-      }
-      \name{namea}{4}{}{%
-        {{hash=4c3cbdc39a2859a73c1f5c4a2fdd54d6}{%
+        {{un=0,uniquepart=base,hash=4c3cbdc39a2859a73c1f5c4a2fdd54d6}{%
            family={Dalke},
            familyi={D\bibinitperiod},
            given={Amber},
-           giveni={A\bibinitperiod}}}%
-        {{hash=01d9d64e6c43e33d86aae7d6ef41cb43}{%
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01d9d64e6c43e33d86aae7d6ef41cb43}{%
            family={Beard},
            familyi={B\bibinitperiod},
            given={Joslyn},
-           giveni={J\bibinitperiod}}}%
-        {{hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
            family={Lien},
            familyi={L\bibinitperiod},
            given={Aaron},
-           giveni={A\bibinitperiod}}}%
-        {{hash=47db4a34954063f871f5e6b7808e8a9c}{%
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47db4a34954063f871f5e6b7808e8a9c}{%
            family={Ruyle},
            familyi={R\bibinitperiod},
            given={George},
-           giveni={G\bibinitperiod}}}%
+           giveni={G\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{b168d5d788f355e6b37c90ed42b400c6}
-      \strng{fullhash}{325fa504add355f11c5780918a531002}
-      \strng{bibnamehash}{325fa504add355f11c5780918a531002}
-      \strng{authorbibnamehash}{325fa504add355f11c5780918a531002}
+      \strng{fullhash}{353dc039b91b1511cfe823e543446c4e}
+      \strng{bibnamehash}{353dc039b91b1511cfe823e543446c4e}
+      \strng{authorbibnamehash}{353dc039b91b1511cfe823e543446c4e}
       \strng{authornamehash}{b168d5d788f355e6b37c90ed42b400c6}
-      \strng{authorfullhash}{325fa504add355f11c5780918a531002}
-      \strng{nameabibnamehash}{8dc394b9a1e45b400e222cad625ad8c3}
-      \strng{nameanamehash}{bbd5c72f16f3866b9583463a8a4b96ad}
-      \strng{nameafullhash}{8dc394b9a1e45b400e222cad625ad8c3}
+      \strng{authorfullhash}{353dc039b91b1511cfe823e543446c4e}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -4494,7 +5302,6 @@
       \field{day}{7}
       \field{eventtitle}{{{USDA Geofencing Summit Webinar}}}
       \field{month}{12}
-      \field{nameatype}{collaborator}
       \field{title}{Virtual {{Fence Applications}} and {{Considerations}} for {{Public Land Managers}}}
       \field{type}{Webinar}
       \field{venue}{Virtual}
@@ -4504,10 +5311,10 @@
       \verb{file}
       \verb /home/andrew/Zotero/storage/HJH6XYH7/Antaya_2022_Virtual Fence Applications and Considerations for Public Land Managers.pdf
       \endverb
-      \keyw{✅,mypub,public land,virtual-fence}
+      \keyw{,mypub,public land,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2022b}{unpublished}{}
-      \name{author}{5}{ul=3}{%
+    \entry{AntayaEtAl2022}{unpublished}{}
+      \name{author}{9}{ul=3}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
            familyi={A\bibinitperiod},
@@ -4538,38 +5345,37 @@
            given={Brett},
            giveni={B\bibinitperiod},
            givenun=0}}%
-      }
-      \name{namea}{4}{}{%
-        {{hash=4c3cbdc39a2859a73c1f5c4a2fdd54d6}{%
+        {{un=0,uniquepart=base,hash=4c3cbdc39a2859a73c1f5c4a2fdd54d6}{%
            family={Dalke},
            familyi={D\bibinitperiod},
            given={Amber},
-           giveni={A\bibinitperiod}}}%
-        {{hash=01d9d64e6c43e33d86aae7d6ef41cb43}{%
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01d9d64e6c43e33d86aae7d6ef41cb43}{%
            family={Beard},
            familyi={B\bibinitperiod},
            given={Joslyn},
-           giveni={J\bibinitperiod}}}%
-        {{hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c35d9ad416ec2a90c456dd4cb58fd96}{%
            family={Lien},
            familyi={L\bibinitperiod},
            given={Aaron},
-           giveni={A\bibinitperiod}}}%
-        {{hash=47db4a34954063f871f5e6b7808e8a9c}{%
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47db4a34954063f871f5e6b7808e8a9c}{%
            family={Ruyle},
            familyi={R\bibinitperiod},
            given={George},
-           giveni={G\bibinitperiod}}}%
+           giveni={G\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{b168d5d788f355e6b37c90ed42b400c6}
-      \strng{fullhash}{325fa504add355f11c5780918a531002}
-      \strng{bibnamehash}{325fa504add355f11c5780918a531002}
-      \strng{authorbibnamehash}{325fa504add355f11c5780918a531002}
+      \strng{fullhash}{353dc039b91b1511cfe823e543446c4e}
+      \strng{bibnamehash}{353dc039b91b1511cfe823e543446c4e}
+      \strng{authorbibnamehash}{353dc039b91b1511cfe823e543446c4e}
       \strng{authornamehash}{b168d5d788f355e6b37c90ed42b400c6}
-      \strng{authorfullhash}{325fa504add355f11c5780918a531002}
-      \strng{nameabibnamehash}{8dc394b9a1e45b400e222cad625ad8c3}
-      \strng{nameanamehash}{bbd5c72f16f3866b9583463a8a4b96ad}
-      \strng{nameafullhash}{8dc394b9a1e45b400e222cad625ad8c3}
+      \strng{authorfullhash}{353dc039b91b1511cfe823e543446c4e}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -4581,7 +5387,6 @@
       \field{day}{6}
       \field{eventtitle}{Kaibab {{National Forest Range Management Staff}}}
       \field{month}{12}
-      \field{nameatype}{collaborator}
       \field{title}{Virtual {{Fence Applications}} and {{Considerations}} for {{Public Land Managers}}}
       \field{type}{Webinar}
       \field{venue}{Virtual}
@@ -4591,7 +5396,7 @@
       \verb{file}
       \verb /home/andrew/Zotero/storage/F3GJLR9W/Antaya_2022_Virtual Fence Applications and Considerations for Public Land Managers.pdf
       \endverb
-      \keyw{✅,mypub,public land,virtual-fence}
+      \keyw{,mypub,public land,virtual-fence}
     \endentry
     \entry{Antaya2022a}{software}{}
       \name{author}{1}{}{%
@@ -4636,7 +5441,6 @@
       \verb{url}
       \verb https://github.com/amantaya/grazeR
       \endverb
-      \keyw{✅}
     \endentry
     \entry{MayerEtAl2022}{unpublished}{}
       \name{author}{11}{}{%
@@ -4725,14 +5529,13 @@
       \field{eventtitle}{Research {{Insights}} in {{Semi-Arid Ecosystems}}}
       \field{month}{11}
       \field{title}{Reflections on {{Virtual Fencing}}: {{Refining}} a {{Revolution}} in {{Rangelands}}.}
-      \field{type}{Conference}
+      \field{type}{Oral Presentation}
       \field{venue}{University of Arizona, Tucson, Arizona, USA}
       \field{year}{2022}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022}{unpublished}{}
+    \entry{AntayaEtAl2022b}{unpublished}{}
       \name{author}{5}{ul=4}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -4781,14 +5584,13 @@
       \field{eventtitle}{Ranching {{Heritage Alliance}}}
       \field{month}{4}
       \field{title}{Heber {{Wild Horse Territory}}: {{Examining Use}} of {{Forage Resources}}}
-      \field{type}{Meeting}
+      \field{type}{Oral Presentation}
       \field{venue}{X Diamond Ranch, Eager, Arizona, USA}
       \field{year}{2022}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022a}{misc}{}
+    \entry{AntayaEtAl2022d}{misc}{}
       \name{author}{4}{ul=4}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -4839,7 +5641,6 @@
       \verb{file}
       \verb /home/andrew/Zotero/storage/S6MP4UIV/Antaya et al. - 2022 - Examination of Site Use by Grazing Animals and Eff.pdf
       \endverb
-      \keyw{✅}
     \endentry
     \entry{AntayaRuyle2020a}{unpublished}{}
       \name{author}{2}{}{%
@@ -4874,12 +5675,11 @@
       \field{eventtitle}{Summer {{Meeting}} of the {{Arizona Section Society}} for {{Range Management}}}
       \field{month}{9}
       \field{title}{Range Riders as Citizen Scientists}
-      \field{type}{Conference}
+      \field{type}{Oral Presentation}
       \field{venue}{Virtual}
       \field{year}{2020}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
     \entry{AntayaEtAl2020}{misc}{}
       \name{author}{4}{}{%
@@ -4917,7 +5717,7 @@
       \strng{authorbibnamehash}{40d1f291825eacaff6e8f64ecdd9df08}
       \strng{authornamehash}{2aa6d2de5c268f4b79e44ebb056cbc5a}
       \strng{authorfullhash}{40d1f291825eacaff6e8f64ecdd9df08}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -4933,7 +5733,6 @@
       \verb{file}
       \verb /home/andrew/Zotero/storage/KGE663LA/Antaya et al_2020_Examination of the Ecological Interactions of Free-Roaming Horses on Montane.pdf
       \endverb
-      \keyw{✅}
     \endentry
     \entry{AntayaRuyle2020}{unpublished}{}
       \name{author}{2}{}{%
@@ -4968,12 +5767,11 @@
       \field{eventtitle}{Winter {{Meeting}} of the {{Arizona Section Society}} for {{Range Management}}}
       \field{month}{1}
       \field{title}{Adding Value to Range Rider Programs through Low-Cost, Scalable Citizen Science.}
-      \field{type}{Conference}
+      \field{type}{Oral Presentation}
       \field{venue}{Wickenburg, Arizona, USA}
       \field{year}{2020}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
     \entry{BlumEtAl2019}{misc}{}
       \name{author}{5}{}{%
@@ -5034,7 +5832,6 @@
       \verb{file}
       \verb /home/andrew/Zotero/storage/YIXSZBY2/Blum et al. - Examination of Behavioral Variation, Site Use and .pdf
       \endverb
-      \keyw{✅}
     \endentry
     \entry{AntayaEtAl2019}{unpublished}{}
       \name{author}{5}{}{%
@@ -5075,7 +5872,7 @@
       \strng{authorbibnamehash}{934c1e9d387e92a74ff4808d74a4f9e6}
       \strng{authornamehash}{7225a1d16f7787359c62433fa29b6c00}
       \strng{authorfullhash}{934c1e9d387e92a74ff4808d74a4f9e6}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -5086,12 +5883,11 @@
       \field{eventtitle}{The {{Society}} for {{Range Management Annual Meeting}}}
       \field{month}{2}
       \field{title}{Free-Roaming Horses in Montane Riparian Areas of {{Arizona}}: Examining Use of Forage Resources.}
-      \field{type}{Conference}
+      \field{type}{Oral Presentation}
       \field{venue}{Minneapolis, Minnesota, USA}
       \field{year}{2019}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
     \entry{Antaya2018}{thesis}{}
       \name{author}{1}{}{%
@@ -5111,7 +5907,7 @@
       \strng{authorbibnamehash}{16c1275565488fe936703d1ab690c410}
       \strng{authornamehash}{16c1275565488fe936703d1ab690c410}
       \strng{authorfullhash}{16c1275565488fe936703d1ab690c410}
-      \field{extraname}{3}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -5138,7 +5934,6 @@
       \verb{url}
       \verb https://repository.arizona.edu/handle/10150/628159
       \endverb
-      \keyw{✅}
     \endentry
     \entry{AntayaEtAl2017}{unpublished}{}
       \name{author}{3}{}{%
@@ -5167,7 +5962,7 @@
       \strng{authorbibnamehash}{cfb3916058434bab5cf2aa6f10495552}
       \strng{authornamehash}{7225a1d16f7787359c62433fa29b6c00}
       \strng{authorfullhash}{cfb3916058434bab5cf2aa6f10495552}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -5183,7 +5978,6 @@
       \field{year}{2017}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{✅,📎}
     \endentry
   \enddatalist
 \endrefsection
