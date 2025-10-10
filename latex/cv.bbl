@@ -19,7 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{ndymdt/apasortcite//global/global}
-    \entry{AntayaEtAl2025b}{unpublished}{}
+    \entry{Antaya_et_al_2025c}{unpublished}{}
       \name{author}{9}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -100,7 +100,7 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/KNVGT2GB/USPLF-2025-Antaya-et-al-Managing-Big-Data-PLF-v2.pptx;/home/andrew/Zotero/storage/YEUNVLYQ/063_122.pdf
+      \verb C\:\\Users\\andre\\Zotero\\storage\\KNVGT2GB\\USPLF-2025-Antaya-et-al-Managing-Big-Data-PLF-v2.pptx;C\:\\Users\\andre\\Zotero\\storage\\YEUNVLYQ\\063_122.pdf
       \endverb
       \verb{urlraw}
       \verb https://usplf2025.exordo.com/files/papers/122/final_draft/063_122.pdf
@@ -108,9 +108,9 @@
       \verb{url}
       \verb https://usplf2025.exordo.com/files/papers/122/final_draft/063_122.pdf
       \endverb
-      \keyw{,big-data,bison,cattle,data-engineering,data-management,enteric-emissions,precision-livestock-farming}
+      \keyw{✅,big-data,bison,cattle,data-engineering,data-management,enteric-emissions,precision-livestock-farming}
     \endentry
-    \entry{AudoinEtAl2025}{report}{}
+    \entry{Audoin_et_al_2025}{report}{}
       \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=2ad085d00b8a688e65a471693db6b512}{%
            family={Audoin},
@@ -192,7 +192,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{VF systems have the potential to improve livestock and rangeland management on expansive rangelands, but they also require careful management of VF collars to achieve the greatest benefit. Best practices for collar deployment include labeling all collars with a unique number and pairing that number with an individual animal's identification ear tag number. Without this, specific animals cannot be properly identified and managed in the VF system's software. Best practices for managing collars in the VF system's software include organizing individual animals with functioning collars into a ``managed'' virtual herd based on the paired collar and ear tag number, and organizing collars into virtual herds based on the function or status of the collar as individual collars are lost or stop functioning. Doing so will improve the visualization of VF collars in the system's software.}
+      \field{abstract}{VF systems have the potential to improve livestock and rangeland management on expansive rangelands, but they also require careful management of VF collars to achieve the greatest benefit. Best practices for collar deployment include labeling all collars with a unique number and pairing that number with an individual animal’s identification ear tag number. Without this, specific animals cannot be properly identified and managed in the VF system’s software. Best practices for managing collars in the VF system’s software include organizing individual animals with functioning collars into a “managed” virtual herd based on the paired collar and ear tag number, and organizing collars into virtual herds based on the function or status of the collar as individual collars are lost or stop functioning. Doing so will improve the visualization of VF collars in the system’s software.}
       \field{langid}{english}
       \field{month}{4}
       \field{number}{az2124}
@@ -204,7 +204,7 @@
       \field{pages}{6}
       \range{pages}{1}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/XA3GKC5U/Audoin et al. - 2024 - Foundations of Virtual Fencing Collar Deployment Basics.pdf
+      \verb C:\Users\andre\Zotero\storage\XA3GKC5U\Audoin et al. - 2024 - Foundations of Virtual Fencing Collar Deployment Basics.pdf
       \endverb
       \verb{urlraw}
       \verb https://extension.arizona.edu/sites/default/files/2025-06/az2124_Foundations-of-Virtual-Fencing_Collar-Deployment-Basics.pdf
@@ -212,9 +212,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/default/files/2025-06/az2124_Foundations-of-Virtual-Fencing_Collar-Deployment-Basics.pdf
       \endverb
-      \keyw{,VF,virtual-fence,virtual-fencing}
+      \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{Antaya2025}{unpublished}{}
+    \entry{Antaya_2025}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -246,11 +246,11 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/3N63SA9S/Putting-FAIR-Data-into-Practice.pptx
+      \verb C:\Users\andre\Zotero\storage\3N63SA9S\Putting-FAIR-Data-into-Practice.pptx
       \endverb
-      \keyw{,CARE-data,FAIR-data,lecture}
+      \keyw{✅,CARE-data,FAIR-data,lecture}
     \endentry
-    \entry{DuvalEtAl2025a}{report}{}
+    \entry{Duval_et_al_2025a}{report}{}
       \name{author}{8}{ul=6}{%
         {{un=0,uniquepart=base,hash=51ee409abfa56fac0e9978d204a688af}{%
            family={Duval},
@@ -331,7 +331,7 @@
       \field{pages}{7}
       \range{pages}{1}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/7UIPXX28/Duval et al. - Foundations of Virtual Fencing Economics of Virtual Fence (VF) Systems.pdf
+      \verb C:\Users\andre\Zotero\storage\7UIPXX28\Duval et al. - Foundations of Virtual Fencing Economics of Virtual Fence (VF) Systems.pdf
       \endverb
       \verb{urlraw}
       \verb https://extension.arizona.edu/sites/default/files/2025-03/az2117-2025.pdf
@@ -339,9 +339,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/default/files/2025-03/az2117-2025.pdf
       \endverb
-      \keyw{,economics,VF,virtual-fence}
+      \keyw{✅,economics,VF,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2025a}{unpublished}{}
+    \entry{Antaya_et_al_2025b}{unpublished}{}
       \name{author}{9}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -422,11 +422,11 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/T8I9UJDK/Antaya-et-al-Challenges-VF-Data-SRM25.pptx
+      \verb C:\Users\andre\Zotero\storage\T8I9UJDK\Antaya-et-al-Challenges-VF-Data-SRM25.pptx
       \endverb
-      \keyw{,data-management,VF,virtual-fence}
+      \keyw{✅,data-management,VF,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2025}{article}{}
+    \entry{Antaya_et_al_2025}{article}{}
       \name{author}{9}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -519,7 +519,7 @@
       \verb 10.1016/j.rala.2024.05.003
       \endverb
       \verb{file}
-      \verb /home/andrew/Zotero/storage/PAH54LZX/Antaya et al. - 2025 - Challenges and opportunities to leverage virtual fence data for rangeland management.pdf;/home/andrew/Zotero/storage/7M79ZTKD/S0190052824000361.html
+      \verb C\:\\Users\\andre\\Zotero\\storage\\PAH54LZX\\Antaya et al. - 2025 - Challenges and opportunities to leverage virtual fence data for rangeland management.pdf;C\:\\Users\\andre\\Zotero\\storage\\7M79ZTKD\\S0190052824000361.html
       \endverb
       \verb{urlraw}
       \verb https://www.sciencedirect.com/science/article/pii/S0190052824000361
@@ -527,9 +527,9 @@
       \verb{url}
       \verb https://www.sciencedirect.com/science/article/pii/S0190052824000361
       \endverb
-      \keyw{,cattle,Global Positioning System,GPS tracking,precision livestock management,virtual-fence}
+      \keyw{✅,cattle,Global Positioning System,GPS tracking,precision livestock management,virtual-fence}
     \endentry
-    \entry{MayerEtAl2025}{article}{}
+    \entry{Mayer_et_al_2025a}{article}{}
       \name{author}{9}{}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
@@ -622,7 +622,7 @@
       \verb 10.1016/j.rala.2024.05.002
       \endverb
       \verb{file}
-      \verb /home/andrew/Zotero/storage/XAK6E7G2/Mayer et al. - 2025 - Using virtual fence to manage livestock in arid and semi-arid rangelands.pdf;/home/andrew/Zotero/storage/YEWKLSK2/S0190052824000348.html
+      \verb C\:\\Users\\andre\\Zotero\\storage\\XAK6E7G2\\Mayer et al. - 2025 - Using virtual fence to manage livestock in arid and semi-arid rangelands.pdf;C\:\\Users\\andre\\Zotero\\storage\\YEWKLSK2\\S0190052824000348.html
       \endverb
       \verb{urlraw}
       \verb https://www.sciencedirect.com/science/article/pii/S0190052824000348
@@ -630,9 +630,9 @@
       \verb{url}
       \verb https://www.sciencedirect.com/science/article/pii/S0190052824000348
       \endverb
-      \keyw{,adaptive management,desert Southwest,precision livestock technology,virtual-fence}
+      \keyw{✅,adaptive management,desert Southwest,precision livestock technology,virtual-fence}
     \endentry
-    \entry{DuvalEtAl2025}{report}{}
+    \entry{Duval_et_al_2025}{report}{}
       \name{author}{8}{ul=6}{%
         {{un=0,uniquepart=base,hash=51ee409abfa56fac0e9978d204a688af}{%
            family={Duval},
@@ -702,7 +702,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Virtual fencing (VF) is tool for livestock management that uses collars and a radio or cellular system to influence the movement of livestock using auditory and electrical cues. Users program the system to establish invisible barriers on a landscape. The system detects the location of animals and if animals approach or cross a ``virtual'' fence, they receive an auditory or electrical cue encouraging them to move away from the barrier. VF systems have the potential to offset physical fencing costs, enable adoption of adaptive management practices, and save ranchers time in locating animals, among other benefits. Meanwhile, commercial VF systems have different fee structures and require labor to operate. This analysis explores economic considerations of investment in virtual fence (VF) systems, examining its application for representative cow-calf operations in Arizona.}
+      \field{abstract}{Virtual fencing (VF) is tool for livestock management that uses collars and a radio or cellular system to influence the movement of livestock using auditory and electrical cues. Users program the system to establish invisible barriers on a landscape. The system detects the location of animals and if animals approach or cross a “virtual” fence, they receive an auditory or electrical cue encouraging them to move away from the barrier. VF systems have the potential to offset physical fencing costs, enable adoption of adaptive management practices, and save ranchers time in locating animals, among other benefits. Meanwhile, commercial VF systems have different fee structures and require labor to operate. This analysis explores economic considerations of investment in virtual fence (VF) systems, examining its application for representative cow-calf operations in Arizona.}
       \field{day}{20}
       \field{langid}{english}
       \field{month}{1}
@@ -716,7 +716,7 @@
       \verb 10.2139/ssrn.5136551
       \endverb
       \verb{file}
-      \verb /home/andrew/Zotero/storage/KTG8K9QL/Duval et al. - 2025 - Economics of Virtual Fencing Technology in Arizona.pdf
+      \verb C:\Users\andre\Zotero\storage\KTG8K9QL\Duval et al. - 2025 - Economics of Virtual Fencing Technology in Arizona.pdf
       \endverb
       \verb{urlraw}
       \verb https://papers.ssrn.com/abstract=5136551
@@ -724,9 +724,101 @@
       \verb{url}
       \verb https://papers.ssrn.com/abstract=5136551
       \endverb
-      \keyw{,cattle-ranching,VF,virtual-fence,virtual-fencing}
+      \keyw{✅,cattle-ranching,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{MayerEtAl2024}{report}{}
+    \entry{Guarnido-Lopez_et_al_2025}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=e6440cb344c3d2c3050a3e48cc5c2a2b}{%
+           family={Guarnido-Lopez},
+           familyi={G\bibinithyphendelim L\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ecd422d0d536ad2a94a88c04584a5742}{%
+           family={Menendez},
+           familyi={M\bibinitperiod},
+           given={Hector\bibnamedelima Manuel},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0,
+           suffix={III},
+           suffixi={I\bibinitperiod},
+           suffixun=0}}%
+        {{un=0,uniquepart=base,hash=c1767768d56744d6be2af4a7b151481d}{%
+           family={Husmann},
+           familyi={H\bibinitperiod},
+           given={Aletta},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7da48e3cacdda10c4145b3945aeee16}{%
+           family={Parsons},
+           familyi={P\bibinitperiod},
+           given={Ira},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b9977f743cec09600ca3df62d284f3c}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d575957efde51887507fb17cc73e49c}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Jameson},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50b32f4e8d36f899d17e34ff452e37f1}{%
+           family={Tedeschi},
+           familyi={T\bibinitperiod},
+           given={Luis\bibnamedelima Orlindo},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b1e291dd413c8fc62cb722b72139606c}
+      \strng{fullhash}{45741a21d1bae8c779aaff191089f374}
+      \strng{bibnamehash}{45741a21d1bae8c779aaff191089f374}
+      \strng{authorbibnamehash}{45741a21d1bae8c779aaff191089f374}
+      \strng{authornamehash}{b1e291dd413c8fc62cb722b72139606c}
+      \strng{authorfullhash}{45741a21d1bae8c779aaff191089f374}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Global concern about the environmental impact of livestock production has been increasing over the past decade; consequently, research has focused on mitigating these emissions. Among all devices deployed to access greenhouse gases (GHG), the GreenFeed (GF) system is the most used for grazing systems. Nonetheless, the primary issue about GF use is its higher variability and the low repeatability (R) of GHG measurements in grazing individuals compared to other methods. Thus, this work aimed to assess both environmental and animal factors, as well as the variability of the GF itself, to explain GHG variability in cattle. These evaluations are usually conducted under experimental conditions, but in this work, both the variability and R values of CH4 were analyzed under commercial settings. Three and two GF units were deployed simultaneously in a dry lot and then in a grazing pasture, respectively, on a commercial cattle ranch. To evaluate the variability and R values of GHG, the GF collected enteric emissions, wind speed, wind direction, temperature, and animal data from 175 and 169 Angus heifers in dry lot and pasture settings, respectively. Variance component analyses were used to evaluate the influence of these factors on the GHG measurements. Results showed a coefficient of variation (CV) of CH4 and CO2 measured through the GF of 32\% and 20\%, respectively. Of the total CH4 variation in grazing conditions, 2.73\% was explained by environmental factors and 38.3\% was explained by animal factors, including feeding behavior (4.58\%), between-animal variation (16.4\%), date of the visit (12.5\%), hour of the visits (3.05\%), visits’ duration (1.78\%), and number of visits/day (1.25\%). In contrast, in the dry lot, environmental and animal factors explained 7.49\% and 8.58\% of the CH4 variation, respectively. Finally, the GF equipment itself explained 0.15\% and 2.06\% of the variation of the CH4 in the grazing and dry lot conditions, respectively. The R values, measured as the animal variance divided by the sum of animal and error variances, increased linearly (0.094 to 0.23) in the dry lot, while in the grazing settings, it decreased linearly (0.098 to 0.056) from days 1 to 21. This study identified the most influential factors contributing to the variability of GHG emissions and the low R values of CH4 in commercial grazing cattle production, paving the way for enhanced future use of GF devices for reporting GHG emissions in grazing systems.Accurate measurements of enteric methane emissions are becoming increasingly relevant to cattle production. This study evaluated how environmental, animal, and equipment factors influence enteric emissions and their repeatability over time when measured through automated head chamber system devices. Our results will help to understand the main factors affecting the variability of cattle enteric emissions in both dry lot and grazing conditions in commercial settings.}
+      \field{day}{1}
+      \field{issn}{1525-3163}
+      \field{journaltitle}{Journal of Animal Science}
+      \field{month}{1}
+      \field{shortjournal}{J Anim Sci}
+      \field{title}{Unraveling Factors Influencing the Variability and Repeatability of Greenhouse Gases Measured through an Automated Head Chamber System in Grazing Cattle in Commercial Conditions}
+      \field{urlday}{10}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{volume}{103}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{skaf229}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/jas/skaf229
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\andre\\Zotero\\storage\\A2CUAIBB\\Guarnido-Lopez et al. - 2025 - Unraveling factors influencing the variability and repeatability of greenhouse gases measured throug.pdf;C\:\\Users\\andre\\Zotero\\storage\\EPJ2I7JK\\skaf229.html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/jas/skaf229
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/jas/skaf229
+      \endverb
+      \keyw{✅}
+    \endentry
+    \entry{Mayer_et_al_2024a}{report}{}
       \name{author}{10}{ul=5}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
@@ -817,7 +909,7 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/NX4G96MF/Mayer et al. - Foundations of Virtual Fencing Exploring the Complexities and Challenges.pdf
+      \verb C:\Users\andre\Zotero\storage\NX4G96MF\Mayer et al. - Foundations of Virtual Fencing Exploring the Complexities and Challenges.pdf
       \endverb
       \verb{urlraw}
       \verb https://extension.arizona.edu/sites/default/files/2024-12/az2089-2024.pdf
@@ -825,9 +917,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/default/files/2024-12/az2089-2024.pdf
       \endverb
-      \keyw{,VF,virtual-fence,virtual-fencing}
+      \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{Antaya2024}{unpublished}{}
+    \entry{Antaya_2024a}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -861,9 +953,9 @@
       \field{year}{2024}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{,ArcGIS,GIS,lecture}
+      \keyw{✅,ArcGIS,GIS,lecture}
     \endentry
-    \entry{Antaya2024a}{unpublished}{}
+    \entry{Antaya_2024}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -896,9 +988,9 @@
       \field{year}{2024}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{,lecture,R,R-programming}
+      \keyw{✅,lecture,R,R-programming}
     \endentry
-    \entry{AntayaEtAl2024}{report}{}
+    \entry{Antaya_et_al_2024b}{report}{}
       \name{author}{10}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -980,7 +1072,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{VF systems have the potential to improve livestock and rangeland management on expansive rangelands, but they also require careful management of VF collars to achieve the greatest benefit. Best practices for collar deployment include labeling all collars with a unique number and pairing that number with an individual animal's identification ear tag number. Without this, specific animals cannot be properly identified and managed in the VF system's software. Best practices for managing collars in the VF system's software include organizing individual animals with functioning collars into a ``managed'' virtual herd based on the paired collar and ear tag number, and organizing collars into virtual herds based on the function or status of the collar as individual collars are lost or stop functioning. Doing so will improve the visualization of VF collars in the system's software.}
+      \field{abstract}{VF systems have the potential to improve livestock and rangeland management on expansive rangelands, but they also require careful management of VF collars to achieve the greatest benefit. Best practices for collar deployment include labeling all collars with a unique number and pairing that number with an individual animal’s identification ear tag number. Without this, specific animals cannot be properly identified and managed in the VF system’s software. Best practices for managing collars in the VF system’s software include organizing individual animals with functioning collars into a “managed” virtual herd based on the paired collar and ear tag number, and organizing collars into virtual herds based on the function or status of the collar as individual collars are lost or stop functioning. Doing so will improve the visualization of VF collars in the system’s software.}
       \field{langid}{english}
       \field{month}{10}
       \field{number}{az2095}
@@ -992,7 +1084,7 @@
       \field{pages}{6}
       \range{pages}{1}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/7W6KG67E/Antaya et al. - Foundations of Virtual Fencing Strategies for Collar Management.pdf
+      \verb C:\Users\andre\Zotero\storage\7W6KG67E\Antaya et al. - Foundations of Virtual Fencing Strategies for Collar Management.pdf
       \endverb
       \verb{urlraw}
       \verb https://extension.arizona.edu/sites/default/files/2024-11/az2095-2024.pdf
@@ -1000,9 +1092,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/default/files/2024-11/az2095-2024.pdf
       \endverb
-      \keyw{,VF,virtual-fence,virtual-fencing}
+      \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{Antaya2024b}{unpublished}{}
+    \entry{Antaya_2024b}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1035,11 +1127,11 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/5KDBHEAV/Putting-FAIR-Data-into-Practice.pptx
+      \verb C:\Users\andre\Zotero\storage\5KDBHEAV\Putting-FAIR-Data-into-Practice.pptx
       \endverb
-      \keyw{,data,FAIR-data,lecture}
+      \keyw{✅,data,FAIR-data,lecture}
     \endentry
-    \entry{MayerEtAl2024a}{report}{}
+    \entry{Mayer_et_al_2024}{report}{}
       \name{author}{8}{ul=5}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
@@ -1122,7 +1214,7 @@
       \field{pages}{7}
       \range{pages}{1}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/E5ERPMPE/Mayer et al_2024_Foundations of Virtual Fencing.pdf
+      \verb C:\Users\andre\Zotero\storage\E5ERPMPE\Mayer et al_2024_Foundations of Virtual Fencing.pdf
       \endverb
       \verb{urlraw}
       \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2088-2024.pdf
@@ -1130,9 +1222,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2088-2024.pdf
       \endverb
-      \keyw{,animal-welfare,conditioning,training,VF,virtual-fence}
+      \keyw{✅,animal-welfare,conditioning,training,VF,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2024b}{report}{}
+    \entry{Antaya_et_al_2024a}{report}{}
       \name{author}{9}{ul=4}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1218,7 +1310,7 @@
       \field{pages}{6}
       \range{pages}{1}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/KBKSYW5A/Antaya et al. - 2024 - Foundations of Virtual Fencing The Vital Role of High-Quality GIS Data.pdf
+      \verb C:\Users\andre\Zotero\storage\KBKSYW5A\Antaya et al. - 2024 - Foundations of Virtual Fencing The Vital Role of High-Quality GIS Data.pdf
       \endverb
       \verb{urlraw}
       \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2087-2024.pdf
@@ -1226,9 +1318,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2087-2024.pdf
       \endverb
-      \keyw{,VF,virtual-fence,virtual-fencing}
+      \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{AntayaEtAl2024a}{report}{}
+    \entry{Antaya_et_al_2024}{report}{}
       \name{author}{8}{ul=4}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1308,7 +1400,7 @@
       \field{pages}{5}
       \range{pages}{1}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/66SN6A2A/Antaya et al. - 2024 - What is Virtual Fence Basics of a Virtual Fencing.pdf
+      \verb C:\Users\andre\Zotero\storage\66SN6A2A\Antaya et al. - 2024 - What is Virtual Fence Basics of a Virtual Fencing.pdf
       \endverb
       \verb{urlraw}
       \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2079-2024.pdf
@@ -1316,9 +1408,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2079-2024.pdf
       \endverb
-      \keyw{,VF,virtual-fence,virtual-fencing}
+      \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{AntayaEtAl2023d}{unpublished}{}
+    \entry{Antaya_et_al_2023d}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1411,10 +1503,11 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/38C34TPL/Antaya et al_2023_Evaluating Virtual Fence Technology to Improve Rangeland Condition, Enhance.pdf
+      \verb C:\Users\andre\Zotero\storage\38C34TPL\Antaya et al_2023_Evaluating Virtual Fence Technology to Improve Rangeland Condition, Enhance.pdf
       \endverb
+      \keyw{✅}
     \endentry
-    \entry{AntayaBrennan2023a}{software}{}
+    \entry{Antaya_Brennan_2023}{software}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -1459,9 +1552,9 @@
       \verb{url}
       \verb https://github.com/amantaya/Vence-API
       \endverb
-      \keyw{,API,application-programming-interface}
+      \keyw{✅,API,application-programming-interface}
     \endentry
-    \entry{AntayaEtAl2023a}{unpublished}{}
+    \entry{Antaya_et_al_2023}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1553,8 +1646,9 @@
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{AntayaBrennan2023}{software}{}
+    \entry{Antaya_Brennan_2023a}{software}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1592,7 +1686,7 @@
       \field{urldateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/GM62QCL5/vf-workshop.html
+      \verb C:\Users\andre\Zotero\storage\GM62QCL5\vf-workshop.html
       \endverb
       \verb{urlraw}
       \verb https://github.com/amantaya/vf-workshop
@@ -1600,8 +1694,9 @@
       \verb{url}
       \verb https://github.com/amantaya/vf-workshop
       \endverb
+      \keyw{✅}
     \endentry
-    \entry{AntayaEtAl2023}{unpublished}{}
+    \entry{Antaya_et_al_2023a}{unpublished}{}
       \name{author}{3}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1646,8 +1741,9 @@
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{McMullenAntaya2023}{software}{}
+    \entry{McMullen_Antaya_2023}{software}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=10fcd3bbb015020d28020dbef0046fdb}{%
            family={McMullen},
@@ -1692,9 +1788,9 @@
       \verb{url}
       \verb https://github.com/lilymcmullen/OptimalVisibilityTool
       \endverb
-      \keyw{,base station,GitHub,Python,virtual-fence}
+      \keyw{✅,base station,GitHub,Python,virtual-fence}
     \endentry
-    \entry{Antaya2023b}{software}{}
+    \entry{Antaya_2023}{software}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -1738,9 +1834,9 @@
       \verb{url}
       \verb https://github.com/amantaya/grazing-interaction
       \endverb
-      \keyw{,R}
+      \keyw{✅,R}
     \endentry
-    \entry{MayerEtAl2023}{unpublished}{}
+    \entry{Mayer_et_al_2023}{unpublished}{}
       \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
@@ -1820,14 +1916,15 @@
       \field{day}{13}
       \field{eventtitle}{Northeast {{Regional Range Livestock Workshop}}}
       \field{month}{4}
-      \field{title}{Virtual {{Fence Technology}} for {{Rangeland Livestock}} -- {{What}}, {{How}}, {{Why}} and {{Should}}?}
+      \field{title}{Virtual {{Fence Technology}} for {{Rangeland Livestock}} – {{What}}, {{How}}, {{Why}} and {{Should}}?}
       \field{type}{Workshop}
       \field{venue}{Holbrook, Arizona, USA}
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2023b}{unpublished}{}
+    \entry{Antaya_et_al_2023b}{unpublished}{}
       \name{author}{10}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -1906,14 +2003,15 @@
       \field{day}{31}
       \field{eventtitle}{Southeast {{Regional Range Livestock Workshop}}}
       \field{month}{3}
-      \field{title}{Virtual {{Fence Technology}} for {{Rangeland Livestock}} -- {{What}}, {{How}}, {{Why}} and {{Should}}?}
+      \field{title}{Virtual {{Fence Technology}} for {{Rangeland Livestock}} – {{What}}, {{How}}, {{Why}} and {{Should}}?}
       \field{type}{Oral Presentation}
       \field{venue}{Wilcox, Arizona, USA}
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2023c}{unpublished}{}
+    \entry{Antaya_et_al_2023c}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -1985,8 +2083,9 @@
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{Antaya2023}{unpublished}{}
+    \entry{Antaya_2023c}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -2017,8 +2116,9 @@
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{NoelleEtAl2023}{unpublished}{}
+    \entry{Noelle_et_al_2023}{unpublished}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=d7a2b08c07fc3942d596fccceda14bed}{%
            family={Noelle},
@@ -2073,8 +2173,9 @@
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{BlumEtAl2023}{unpublished}{}
+    \entry{Blum_et_al_2023}{unpublished}{}
       \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=ea8a36c77ae427393fdf7e4de277a5e3}{%
            family={Blum},
@@ -2160,9 +2261,9 @@
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{,mypub,public land,virtual-fence}
+      \keyw{✅,📎,mypub,public land,virtual-fence}
     \endentry
-    \entry{Antaya2023a}{software}{}
+    \entry{Antaya_2023b}{software}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -2201,7 +2302,7 @@
       \verb 10.5281/zenodo.8118524
       \endverb
       \verb{file}
-      \verb /home/andrew/Zotero/storage/2NC4TFKN/8118524.html
+      \verb C:\Users\andre\Zotero\storage\2NC4TFKN\8118524.html
       \endverb
       \verb{urlraw}
       \verb https://github.com/amantaya/Vence-API
@@ -2209,9 +2310,9 @@
       \verb{url}
       \verb https://github.com/amantaya/Vence-API
       \endverb
-      \keyw{,API,application-programming-interface}
+      \keyw{✅,API,application-programming-interface}
     \endentry
-    \entry{Antaya2022}{software}{}
+    \entry{Antaya_2022}{software}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -2246,8 +2347,9 @@
       \verb{url}
       \verb https://amantaya.github.io/RangelandsLiteratureMap/
       \endverb
+      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022a}{unpublished}{}
+    \entry{Antaya_et_al_2022a}{unpublished}{}
       \name{author}{9}{ul=3}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -2328,11 +2430,11 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/HJH6XYH7/Antaya_2022_Virtual Fence Applications and Considerations for Public Land Managers.pdf
+      \verb C:\Users\andre\Zotero\storage\HJH6XYH7\Antaya_2022_Virtual Fence Applications and Considerations for Public Land Managers.pdf
       \endverb
-      \keyw{,mypub,public land,virtual-fence}
+      \keyw{✅,mypub,public land,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2022}{unpublished}{}
+    \entry{Antaya_et_al_2022}{unpublished}{}
       \name{author}{9}{ul=3}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -2413,11 +2515,11 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/F3GJLR9W/Antaya_2022_Virtual Fence Applications and Considerations for Public Land Managers.pdf
+      \verb C:\Users\andre\Zotero\storage\F3GJLR9W\Antaya_2022_Virtual Fence Applications and Considerations for Public Land Managers.pdf
       \endverb
-      \keyw{,mypub,public land,virtual-fence}
+      \keyw{✅,mypub,public land,virtual-fence}
     \endentry
-    \entry{Antaya2022a}{software}{}
+    \entry{Antaya_2022a}{software}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -2460,8 +2562,9 @@
       \verb{url}
       \verb https://github.com/amantaya/grazeR
       \endverb
+      \keyw{✅}
     \endentry
-    \entry{MayerEtAl2022}{unpublished}{}
+    \entry{Mayer_et_al_2022}{unpublished}{}
       \name{author}{11}{}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
@@ -2553,8 +2656,9 @@
       \field{year}{2022}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022b}{unpublished}{}
+    \entry{Antaya_et_al_2022b}{unpublished}{}
       \name{author}{5}{ul=4}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -2608,8 +2712,9 @@
       \field{year}{2022}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022d}{misc}{}
+    \entry{Antaya_et_al_2022c}{misc}{}
       \name{author}{4}{ul=4}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -2658,10 +2763,11 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/S6MP4UIV/Antaya et al. - 2022 - Examination of Site Use by Grazing Animals and Eff.pdf
+      \verb C:\Users\andre\Zotero\storage\S6MP4UIV\Antaya et al. - 2022 - Examination of Site Use by Grazing Animals and Eff.pdf
       \endverb
+      \keyw{✅}
     \endentry
-    \entry{AntayaRuyle2020a}{unpublished}{}
+    \entry{Antaya_Ruyle_2020}{unpublished}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -2699,8 +2805,9 @@
       \field{year}{2020}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2020}{misc}{}
+    \entry{Antaya_et_al_2020}{misc}{}
       \name{author}{4}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -2750,10 +2857,11 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/KGE663LA/Antaya et al_2020_Examination of the Ecological Interactions of Free-Roaming Horses on Montane.pdf
+      \verb C:\Users\andre\Zotero\storage\KGE663LA\Antaya et al_2020_Examination of the Ecological Interactions of Free-Roaming Horses on Montane.pdf
       \endverb
+      \keyw{✅}
     \endentry
-    \entry{AntayaRuyle2020}{unpublished}{}
+    \entry{Antaya_Ruyle_2020a}{unpublished}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -2791,8 +2899,9 @@
       \field{year}{2020}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{BlumEtAl2019}{misc}{}
+    \entry{Blum_et_al_2019}{misc}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=ea8a36c77ae427393fdf7e4de277a5e3}{%
            family={Blum},
@@ -2849,10 +2958,11 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/YIXSZBY2/Blum et al. - Examination of Behavioral Variation, Site Use and .pdf
+      \verb C:\Users\andre\Zotero\storage\YIXSZBY2\Blum et al. - Examination of Behavioral Variation, Site Use and .pdf
       \endverb
+      \keyw{✅}
     \endentry
-    \entry{AntayaEtAl2019}{unpublished}{}
+    \entry{Antaya_et_al_2019}{unpublished}{}
       \name{author}{5}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -2907,8 +3017,9 @@
       \field{year}{2019}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{Antaya2018}{thesis}{}
+    \entry{Antaya_2018}{thesis}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=16c1275565488fe936703d1ab690c410}{%
            family={Antaya},
@@ -2945,7 +3056,7 @@
       \field{urldateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/4ARCDJ3Z/Antaya_2018_Effects of Human Activity on the Distribution of Desert Bighorn Sheep Along the.pdf
+      \verb C:\Users\andre\Zotero\storage\4ARCDJ3Z\Antaya_2018_Effects of Human Activity on the Distribution of Desert Bighorn Sheep Along the.pdf
       \endverb
       \verb{urlraw}
       \verb https://repository.arizona.edu/handle/10150/628159
@@ -2953,8 +3064,9 @@
       \verb{url}
       \verb https://repository.arizona.edu/handle/10150/628159
       \endverb
+      \keyw{✅}
     \endentry
-    \entry{AntayaEtAl2017}{unpublished}{}
+    \entry{Antaya_et_al_2017}{unpublished}{}
       \name{author}{3}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -2997,10 +3109,11 @@
       \field{year}{2017}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
   \enddatalist
   \datalist[entry]{ndymdt/global//global/global}
-    \entry{AntayaEtAl2025b}{unpublished}{}
+    \entry{Antaya_et_al_2025c}{unpublished}{}
       \name{author}{9}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3081,7 +3194,7 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/KNVGT2GB/USPLF-2025-Antaya-et-al-Managing-Big-Data-PLF-v2.pptx;/home/andrew/Zotero/storage/YEUNVLYQ/063_122.pdf
+      \verb C\:\\Users\\andre\\Zotero\\storage\\KNVGT2GB\\USPLF-2025-Antaya-et-al-Managing-Big-Data-PLF-v2.pptx;C\:\\Users\\andre\\Zotero\\storage\\YEUNVLYQ\\063_122.pdf
       \endverb
       \verb{urlraw}
       \verb https://usplf2025.exordo.com/files/papers/122/final_draft/063_122.pdf
@@ -3089,9 +3202,9 @@
       \verb{url}
       \verb https://usplf2025.exordo.com/files/papers/122/final_draft/063_122.pdf
       \endverb
-      \keyw{,big-data,bison,cattle,data-engineering,data-management,enteric-emissions,precision-livestock-farming}
+      \keyw{✅,big-data,bison,cattle,data-engineering,data-management,enteric-emissions,precision-livestock-farming}
     \endentry
-    \entry{AudoinEtAl2025}{report}{}
+    \entry{Audoin_et_al_2025}{report}{}
       \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=2ad085d00b8a688e65a471693db6b512}{%
            family={Audoin},
@@ -3173,7 +3286,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{VF systems have the potential to improve livestock and rangeland management on expansive rangelands, but they also require careful management of VF collars to achieve the greatest benefit. Best practices for collar deployment include labeling all collars with a unique number and pairing that number with an individual animal's identification ear tag number. Without this, specific animals cannot be properly identified and managed in the VF system's software. Best practices for managing collars in the VF system's software include organizing individual animals with functioning collars into a ``managed'' virtual herd based on the paired collar and ear tag number, and organizing collars into virtual herds based on the function or status of the collar as individual collars are lost or stop functioning. Doing so will improve the visualization of VF collars in the system's software.}
+      \field{abstract}{VF systems have the potential to improve livestock and rangeland management on expansive rangelands, but they also require careful management of VF collars to achieve the greatest benefit. Best practices for collar deployment include labeling all collars with a unique number and pairing that number with an individual animal’s identification ear tag number. Without this, specific animals cannot be properly identified and managed in the VF system’s software. Best practices for managing collars in the VF system’s software include organizing individual animals with functioning collars into a “managed” virtual herd based on the paired collar and ear tag number, and organizing collars into virtual herds based on the function or status of the collar as individual collars are lost or stop functioning. Doing so will improve the visualization of VF collars in the system’s software.}
       \field{langid}{english}
       \field{month}{4}
       \field{number}{az2124}
@@ -3185,7 +3298,7 @@
       \field{pages}{6}
       \range{pages}{1}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/XA3GKC5U/Audoin et al. - 2024 - Foundations of Virtual Fencing Collar Deployment Basics.pdf
+      \verb C:\Users\andre\Zotero\storage\XA3GKC5U\Audoin et al. - 2024 - Foundations of Virtual Fencing Collar Deployment Basics.pdf
       \endverb
       \verb{urlraw}
       \verb https://extension.arizona.edu/sites/default/files/2025-06/az2124_Foundations-of-Virtual-Fencing_Collar-Deployment-Basics.pdf
@@ -3193,9 +3306,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/default/files/2025-06/az2124_Foundations-of-Virtual-Fencing_Collar-Deployment-Basics.pdf
       \endverb
-      \keyw{,VF,virtual-fence,virtual-fencing}
+      \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{Antaya2025}{unpublished}{}
+    \entry{Antaya_2025}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3227,11 +3340,11 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/3N63SA9S/Putting-FAIR-Data-into-Practice.pptx
+      \verb C:\Users\andre\Zotero\storage\3N63SA9S\Putting-FAIR-Data-into-Practice.pptx
       \endverb
-      \keyw{,CARE-data,FAIR-data,lecture}
+      \keyw{✅,CARE-data,FAIR-data,lecture}
     \endentry
-    \entry{DuvalEtAl2025a}{report}{}
+    \entry{Duval_et_al_2025a}{report}{}
       \name{author}{8}{ul=6}{%
         {{un=0,uniquepart=base,hash=51ee409abfa56fac0e9978d204a688af}{%
            family={Duval},
@@ -3312,7 +3425,7 @@
       \field{pages}{7}
       \range{pages}{1}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/7UIPXX28/Duval et al. - Foundations of Virtual Fencing Economics of Virtual Fence (VF) Systems.pdf
+      \verb C:\Users\andre\Zotero\storage\7UIPXX28\Duval et al. - Foundations of Virtual Fencing Economics of Virtual Fence (VF) Systems.pdf
       \endverb
       \verb{urlraw}
       \verb https://extension.arizona.edu/sites/default/files/2025-03/az2117-2025.pdf
@@ -3320,9 +3433,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/default/files/2025-03/az2117-2025.pdf
       \endverb
-      \keyw{,economics,VF,virtual-fence}
+      \keyw{✅,economics,VF,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2025a}{unpublished}{}
+    \entry{Antaya_et_al_2025b}{unpublished}{}
       \name{author}{9}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -3403,11 +3516,11 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/T8I9UJDK/Antaya-et-al-Challenges-VF-Data-SRM25.pptx
+      \verb C:\Users\andre\Zotero\storage\T8I9UJDK\Antaya-et-al-Challenges-VF-Data-SRM25.pptx
       \endverb
-      \keyw{,data-management,VF,virtual-fence}
+      \keyw{✅,data-management,VF,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2025}{article}{}
+    \entry{Antaya_et_al_2025}{article}{}
       \name{author}{9}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -3500,7 +3613,7 @@
       \verb 10.1016/j.rala.2024.05.003
       \endverb
       \verb{file}
-      \verb /home/andrew/Zotero/storage/PAH54LZX/Antaya et al. - 2025 - Challenges and opportunities to leverage virtual fence data for rangeland management.pdf;/home/andrew/Zotero/storage/7M79ZTKD/S0190052824000361.html
+      \verb C\:\\Users\\andre\\Zotero\\storage\\PAH54LZX\\Antaya et al. - 2025 - Challenges and opportunities to leverage virtual fence data for rangeland management.pdf;C\:\\Users\\andre\\Zotero\\storage\\7M79ZTKD\\S0190052824000361.html
       \endverb
       \verb{urlraw}
       \verb https://www.sciencedirect.com/science/article/pii/S0190052824000361
@@ -3508,9 +3621,9 @@
       \verb{url}
       \verb https://www.sciencedirect.com/science/article/pii/S0190052824000361
       \endverb
-      \keyw{,cattle,Global Positioning System,GPS tracking,precision livestock management,virtual-fence}
+      \keyw{✅,cattle,Global Positioning System,GPS tracking,precision livestock management,virtual-fence}
     \endentry
-    \entry{MayerEtAl2025}{article}{}
+    \entry{Mayer_et_al_2025a}{article}{}
       \name{author}{9}{}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
@@ -3603,7 +3716,7 @@
       \verb 10.1016/j.rala.2024.05.002
       \endverb
       \verb{file}
-      \verb /home/andrew/Zotero/storage/XAK6E7G2/Mayer et al. - 2025 - Using virtual fence to manage livestock in arid and semi-arid rangelands.pdf;/home/andrew/Zotero/storage/YEWKLSK2/S0190052824000348.html
+      \verb C\:\\Users\\andre\\Zotero\\storage\\XAK6E7G2\\Mayer et al. - 2025 - Using virtual fence to manage livestock in arid and semi-arid rangelands.pdf;C\:\\Users\\andre\\Zotero\\storage\\YEWKLSK2\\S0190052824000348.html
       \endverb
       \verb{urlraw}
       \verb https://www.sciencedirect.com/science/article/pii/S0190052824000348
@@ -3611,9 +3724,9 @@
       \verb{url}
       \verb https://www.sciencedirect.com/science/article/pii/S0190052824000348
       \endverb
-      \keyw{,adaptive management,desert Southwest,precision livestock technology,virtual-fence}
+      \keyw{✅,adaptive management,desert Southwest,precision livestock technology,virtual-fence}
     \endentry
-    \entry{DuvalEtAl2025}{report}{}
+    \entry{Duval_et_al_2025}{report}{}
       \name{author}{8}{ul=6}{%
         {{un=0,uniquepart=base,hash=51ee409abfa56fac0e9978d204a688af}{%
            family={Duval},
@@ -3683,7 +3796,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Virtual fencing (VF) is tool for livestock management that uses collars and a radio or cellular system to influence the movement of livestock using auditory and electrical cues. Users program the system to establish invisible barriers on a landscape. The system detects the location of animals and if animals approach or cross a ``virtual'' fence, they receive an auditory or electrical cue encouraging them to move away from the barrier. VF systems have the potential to offset physical fencing costs, enable adoption of adaptive management practices, and save ranchers time in locating animals, among other benefits. Meanwhile, commercial VF systems have different fee structures and require labor to operate. This analysis explores economic considerations of investment in virtual fence (VF) systems, examining its application for representative cow-calf operations in Arizona.}
+      \field{abstract}{Virtual fencing (VF) is tool for livestock management that uses collars and a radio or cellular system to influence the movement of livestock using auditory and electrical cues. Users program the system to establish invisible barriers on a landscape. The system detects the location of animals and if animals approach or cross a “virtual” fence, they receive an auditory or electrical cue encouraging them to move away from the barrier. VF systems have the potential to offset physical fencing costs, enable adoption of adaptive management practices, and save ranchers time in locating animals, among other benefits. Meanwhile, commercial VF systems have different fee structures and require labor to operate. This analysis explores economic considerations of investment in virtual fence (VF) systems, examining its application for representative cow-calf operations in Arizona.}
       \field{day}{20}
       \field{langid}{english}
       \field{month}{1}
@@ -3697,7 +3810,7 @@
       \verb 10.2139/ssrn.5136551
       \endverb
       \verb{file}
-      \verb /home/andrew/Zotero/storage/KTG8K9QL/Duval et al. - 2025 - Economics of Virtual Fencing Technology in Arizona.pdf
+      \verb C:\Users\andre\Zotero\storage\KTG8K9QL\Duval et al. - 2025 - Economics of Virtual Fencing Technology in Arizona.pdf
       \endverb
       \verb{urlraw}
       \verb https://papers.ssrn.com/abstract=5136551
@@ -3705,9 +3818,101 @@
       \verb{url}
       \verb https://papers.ssrn.com/abstract=5136551
       \endverb
-      \keyw{,cattle-ranching,VF,virtual-fence,virtual-fencing}
+      \keyw{✅,cattle-ranching,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{MayerEtAl2024}{report}{}
+    \entry{Guarnido-Lopez_et_al_2025}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=e6440cb344c3d2c3050a3e48cc5c2a2b}{%
+           family={Guarnido-Lopez},
+           familyi={G\bibinithyphendelim L\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ecd422d0d536ad2a94a88c04584a5742}{%
+           family={Menendez},
+           familyi={M\bibinitperiod},
+           given={Hector\bibnamedelima Manuel},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0,
+           suffix={III},
+           suffixi={I\bibinitperiod},
+           suffixun=0}}%
+        {{un=0,uniquepart=base,hash=c1767768d56744d6be2af4a7b151481d}{%
+           family={Husmann},
+           familyi={H\bibinitperiod},
+           given={Aletta},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7da48e3cacdda10c4145b3945aeee16}{%
+           family={Parsons},
+           familyi={P\bibinitperiod},
+           given={Ira},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b9977f743cec09600ca3df62d284f3c}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d575957efde51887507fb17cc73e49c}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Jameson},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50b32f4e8d36f899d17e34ff452e37f1}{%
+           family={Tedeschi},
+           familyi={T\bibinitperiod},
+           given={Luis\bibnamedelima Orlindo},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b1e291dd413c8fc62cb722b72139606c}
+      \strng{fullhash}{45741a21d1bae8c779aaff191089f374}
+      \strng{bibnamehash}{45741a21d1bae8c779aaff191089f374}
+      \strng{authorbibnamehash}{45741a21d1bae8c779aaff191089f374}
+      \strng{authornamehash}{b1e291dd413c8fc62cb722b72139606c}
+      \strng{authorfullhash}{45741a21d1bae8c779aaff191089f374}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Global concern about the environmental impact of livestock production has been increasing over the past decade; consequently, research has focused on mitigating these emissions. Among all devices deployed to access greenhouse gases (GHG), the GreenFeed (GF) system is the most used for grazing systems. Nonetheless, the primary issue about GF use is its higher variability and the low repeatability (R) of GHG measurements in grazing individuals compared to other methods. Thus, this work aimed to assess both environmental and animal factors, as well as the variability of the GF itself, to explain GHG variability in cattle. These evaluations are usually conducted under experimental conditions, but in this work, both the variability and R values of CH4 were analyzed under commercial settings. Three and two GF units were deployed simultaneously in a dry lot and then in a grazing pasture, respectively, on a commercial cattle ranch. To evaluate the variability and R values of GHG, the GF collected enteric emissions, wind speed, wind direction, temperature, and animal data from 175 and 169 Angus heifers in dry lot and pasture settings, respectively. Variance component analyses were used to evaluate the influence of these factors on the GHG measurements. Results showed a coefficient of variation (CV) of CH4 and CO2 measured through the GF of 32\% and 20\%, respectively. Of the total CH4 variation in grazing conditions, 2.73\% was explained by environmental factors and 38.3\% was explained by animal factors, including feeding behavior (4.58\%), between-animal variation (16.4\%), date of the visit (12.5\%), hour of the visits (3.05\%), visits’ duration (1.78\%), and number of visits/day (1.25\%). In contrast, in the dry lot, environmental and animal factors explained 7.49\% and 8.58\% of the CH4 variation, respectively. Finally, the GF equipment itself explained 0.15\% and 2.06\% of the variation of the CH4 in the grazing and dry lot conditions, respectively. The R values, measured as the animal variance divided by the sum of animal and error variances, increased linearly (0.094 to 0.23) in the dry lot, while in the grazing settings, it decreased linearly (0.098 to 0.056) from days 1 to 21. This study identified the most influential factors contributing to the variability of GHG emissions and the low R values of CH4 in commercial grazing cattle production, paving the way for enhanced future use of GF devices for reporting GHG emissions in grazing systems.Accurate measurements of enteric methane emissions are becoming increasingly relevant to cattle production. This study evaluated how environmental, animal, and equipment factors influence enteric emissions and their repeatability over time when measured through automated head chamber system devices. Our results will help to understand the main factors affecting the variability of cattle enteric emissions in both dry lot and grazing conditions in commercial settings.}
+      \field{day}{1}
+      \field{issn}{1525-3163}
+      \field{journaltitle}{Journal of Animal Science}
+      \field{month}{1}
+      \field{shortjournal}{J Anim Sci}
+      \field{title}{Unraveling Factors Influencing the Variability and Repeatability of Greenhouse Gases Measured through an Automated Head Chamber System in Grazing Cattle in Commercial Conditions}
+      \field{urlday}{10}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{volume}{103}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{skaf229}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/jas/skaf229
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\andre\\Zotero\\storage\\A2CUAIBB\\Guarnido-Lopez et al. - 2025 - Unraveling factors influencing the variability and repeatability of greenhouse gases measured throug.pdf;C\:\\Users\\andre\\Zotero\\storage\\EPJ2I7JK\\skaf229.html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/jas/skaf229
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/jas/skaf229
+      \endverb
+      \keyw{✅}
+    \endentry
+    \entry{Mayer_et_al_2024a}{report}{}
       \name{author}{10}{ul=5}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
@@ -3798,7 +4003,7 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/NX4G96MF/Mayer et al. - Foundations of Virtual Fencing Exploring the Complexities and Challenges.pdf
+      \verb C:\Users\andre\Zotero\storage\NX4G96MF\Mayer et al. - Foundations of Virtual Fencing Exploring the Complexities and Challenges.pdf
       \endverb
       \verb{urlraw}
       \verb https://extension.arizona.edu/sites/default/files/2024-12/az2089-2024.pdf
@@ -3806,9 +4011,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/default/files/2024-12/az2089-2024.pdf
       \endverb
-      \keyw{,VF,virtual-fence,virtual-fencing}
+      \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{Antaya2024}{unpublished}{}
+    \entry{Antaya_2024a}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3842,9 +4047,9 @@
       \field{year}{2024}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{,ArcGIS,GIS,lecture}
+      \keyw{✅,ArcGIS,GIS,lecture}
     \endentry
-    \entry{Antaya2024a}{unpublished}{}
+    \entry{Antaya_2024}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3877,9 +4082,9 @@
       \field{year}{2024}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{,lecture,R,R-programming}
+      \keyw{✅,lecture,R,R-programming}
     \endentry
-    \entry{AntayaEtAl2024}{report}{}
+    \entry{Antaya_et_al_2024b}{report}{}
       \name{author}{10}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -3961,7 +4166,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{VF systems have the potential to improve livestock and rangeland management on expansive rangelands, but they also require careful management of VF collars to achieve the greatest benefit. Best practices for collar deployment include labeling all collars with a unique number and pairing that number with an individual animal's identification ear tag number. Without this, specific animals cannot be properly identified and managed in the VF system's software. Best practices for managing collars in the VF system's software include organizing individual animals with functioning collars into a ``managed'' virtual herd based on the paired collar and ear tag number, and organizing collars into virtual herds based on the function or status of the collar as individual collars are lost or stop functioning. Doing so will improve the visualization of VF collars in the system's software.}
+      \field{abstract}{VF systems have the potential to improve livestock and rangeland management on expansive rangelands, but they also require careful management of VF collars to achieve the greatest benefit. Best practices for collar deployment include labeling all collars with a unique number and pairing that number with an individual animal’s identification ear tag number. Without this, specific animals cannot be properly identified and managed in the VF system’s software. Best practices for managing collars in the VF system’s software include organizing individual animals with functioning collars into a “managed” virtual herd based on the paired collar and ear tag number, and organizing collars into virtual herds based on the function or status of the collar as individual collars are lost or stop functioning. Doing so will improve the visualization of VF collars in the system’s software.}
       \field{langid}{english}
       \field{month}{10}
       \field{number}{az2095}
@@ -3973,7 +4178,7 @@
       \field{pages}{6}
       \range{pages}{1}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/7W6KG67E/Antaya et al. - Foundations of Virtual Fencing Strategies for Collar Management.pdf
+      \verb C:\Users\andre\Zotero\storage\7W6KG67E\Antaya et al. - Foundations of Virtual Fencing Strategies for Collar Management.pdf
       \endverb
       \verb{urlraw}
       \verb https://extension.arizona.edu/sites/default/files/2024-11/az2095-2024.pdf
@@ -3981,9 +4186,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/default/files/2024-11/az2095-2024.pdf
       \endverb
-      \keyw{,VF,virtual-fence,virtual-fencing}
+      \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{Antaya2024b}{unpublished}{}
+    \entry{Antaya_2024b}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -4016,11 +4221,11 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/5KDBHEAV/Putting-FAIR-Data-into-Practice.pptx
+      \verb C:\Users\andre\Zotero\storage\5KDBHEAV\Putting-FAIR-Data-into-Practice.pptx
       \endverb
-      \keyw{,data,FAIR-data,lecture}
+      \keyw{✅,data,FAIR-data,lecture}
     \endentry
-    \entry{MayerEtAl2024a}{report}{}
+    \entry{Mayer_et_al_2024}{report}{}
       \name{author}{8}{ul=5}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
@@ -4103,7 +4308,7 @@
       \field{pages}{7}
       \range{pages}{1}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/E5ERPMPE/Mayer et al_2024_Foundations of Virtual Fencing.pdf
+      \verb C:\Users\andre\Zotero\storage\E5ERPMPE\Mayer et al_2024_Foundations of Virtual Fencing.pdf
       \endverb
       \verb{urlraw}
       \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2088-2024.pdf
@@ -4111,9 +4316,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2088-2024.pdf
       \endverb
-      \keyw{,animal-welfare,conditioning,training,VF,virtual-fence}
+      \keyw{✅,animal-welfare,conditioning,training,VF,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2024b}{report}{}
+    \entry{Antaya_et_al_2024a}{report}{}
       \name{author}{9}{ul=4}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -4199,7 +4404,7 @@
       \field{pages}{6}
       \range{pages}{1}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/KBKSYW5A/Antaya et al. - 2024 - Foundations of Virtual Fencing The Vital Role of High-Quality GIS Data.pdf
+      \verb C:\Users\andre\Zotero\storage\KBKSYW5A\Antaya et al. - 2024 - Foundations of Virtual Fencing The Vital Role of High-Quality GIS Data.pdf
       \endverb
       \verb{urlraw}
       \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2087-2024.pdf
@@ -4207,9 +4412,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2087-2024.pdf
       \endverb
-      \keyw{,VF,virtual-fence,virtual-fencing}
+      \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{AntayaEtAl2024a}{report}{}
+    \entry{Antaya_et_al_2024}{report}{}
       \name{author}{8}{ul=4}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -4289,7 +4494,7 @@
       \field{pages}{5}
       \range{pages}{1}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/66SN6A2A/Antaya et al. - 2024 - What is Virtual Fence Basics of a Virtual Fencing.pdf
+      \verb C:\Users\andre\Zotero\storage\66SN6A2A\Antaya et al. - 2024 - What is Virtual Fence Basics of a Virtual Fencing.pdf
       \endverb
       \verb{urlraw}
       \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2079-2024.pdf
@@ -4297,9 +4502,9 @@
       \verb{url}
       \verb https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az2079-2024.pdf
       \endverb
-      \keyw{,VF,virtual-fence,virtual-fencing}
+      \keyw{✅,VF,virtual-fence,virtual-fencing}
     \endentry
-    \entry{AntayaEtAl2023d}{unpublished}{}
+    \entry{Antaya_et_al_2023d}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -4392,10 +4597,11 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/38C34TPL/Antaya et al_2023_Evaluating Virtual Fence Technology to Improve Rangeland Condition, Enhance.pdf
+      \verb C:\Users\andre\Zotero\storage\38C34TPL\Antaya et al_2023_Evaluating Virtual Fence Technology to Improve Rangeland Condition, Enhance.pdf
       \endverb
+      \keyw{✅}
     \endentry
-    \entry{AntayaBrennan2023a}{software}{}
+    \entry{Antaya_Brennan_2023}{software}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -4440,9 +4646,9 @@
       \verb{url}
       \verb https://github.com/amantaya/Vence-API
       \endverb
-      \keyw{,API,application-programming-interface}
+      \keyw{✅,API,application-programming-interface}
     \endentry
-    \entry{AntayaEtAl2023a}{unpublished}{}
+    \entry{Antaya_et_al_2023}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -4534,8 +4740,9 @@
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{AntayaBrennan2023}{software}{}
+    \entry{Antaya_Brennan_2023a}{software}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -4573,7 +4780,7 @@
       \field{urldateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/GM62QCL5/vf-workshop.html
+      \verb C:\Users\andre\Zotero\storage\GM62QCL5\vf-workshop.html
       \endverb
       \verb{urlraw}
       \verb https://github.com/amantaya/vf-workshop
@@ -4581,8 +4788,9 @@
       \verb{url}
       \verb https://github.com/amantaya/vf-workshop
       \endverb
+      \keyw{✅}
     \endentry
-    \entry{AntayaEtAl2023}{unpublished}{}
+    \entry{Antaya_et_al_2023a}{unpublished}{}
       \name{author}{3}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -4627,8 +4835,9 @@
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{McMullenAntaya2023}{software}{}
+    \entry{McMullen_Antaya_2023}{software}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=10fcd3bbb015020d28020dbef0046fdb}{%
            family={McMullen},
@@ -4673,9 +4882,9 @@
       \verb{url}
       \verb https://github.com/lilymcmullen/OptimalVisibilityTool
       \endverb
-      \keyw{,base station,GitHub,Python,virtual-fence}
+      \keyw{✅,base station,GitHub,Python,virtual-fence}
     \endentry
-    \entry{Antaya2023b}{software}{}
+    \entry{Antaya_2023}{software}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -4719,9 +4928,9 @@
       \verb{url}
       \verb https://github.com/amantaya/grazing-interaction
       \endverb
-      \keyw{,R}
+      \keyw{✅,R}
     \endentry
-    \entry{MayerEtAl2023}{unpublished}{}
+    \entry{Mayer_et_al_2023}{unpublished}{}
       \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
@@ -4801,14 +5010,15 @@
       \field{day}{13}
       \field{eventtitle}{Northeast {{Regional Range Livestock Workshop}}}
       \field{month}{4}
-      \field{title}{Virtual {{Fence Technology}} for {{Rangeland Livestock}} -- {{What}}, {{How}}, {{Why}} and {{Should}}?}
+      \field{title}{Virtual {{Fence Technology}} for {{Rangeland Livestock}} – {{What}}, {{How}}, {{Why}} and {{Should}}?}
       \field{type}{Workshop}
       \field{venue}{Holbrook, Arizona, USA}
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2023b}{unpublished}{}
+    \entry{Antaya_et_al_2023b}{unpublished}{}
       \name{author}{10}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -4887,14 +5097,15 @@
       \field{day}{31}
       \field{eventtitle}{Southeast {{Regional Range Livestock Workshop}}}
       \field{month}{3}
-      \field{title}{Virtual {{Fence Technology}} for {{Rangeland Livestock}} -- {{What}}, {{How}}, {{Why}} and {{Should}}?}
+      \field{title}{Virtual {{Fence Technology}} for {{Rangeland Livestock}} – {{What}}, {{How}}, {{Why}} and {{Should}}?}
       \field{type}{Oral Presentation}
       \field{venue}{Wilcox, Arizona, USA}
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2023c}{unpublished}{}
+    \entry{Antaya_et_al_2023c}{unpublished}{}
       \name{author}{11}{ul=3}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -4966,8 +5177,9 @@
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{Antaya2023}{unpublished}{}
+    \entry{Antaya_2023c}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -4998,8 +5210,9 @@
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{NoelleEtAl2023}{unpublished}{}
+    \entry{Noelle_et_al_2023}{unpublished}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=d7a2b08c07fc3942d596fccceda14bed}{%
            family={Noelle},
@@ -5054,8 +5267,9 @@
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{BlumEtAl2023}{unpublished}{}
+    \entry{Blum_et_al_2023}{unpublished}{}
       \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=ea8a36c77ae427393fdf7e4de277a5e3}{%
            family={Blum},
@@ -5141,9 +5355,9 @@
       \field{year}{2023}
       \field{dateera}{ce}
       \true{nocite}
-      \keyw{,mypub,public land,virtual-fence}
+      \keyw{✅,📎,mypub,public land,virtual-fence}
     \endentry
-    \entry{Antaya2023a}{software}{}
+    \entry{Antaya_2023b}{software}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -5182,7 +5396,7 @@
       \verb 10.5281/zenodo.8118524
       \endverb
       \verb{file}
-      \verb /home/andrew/Zotero/storage/2NC4TFKN/8118524.html
+      \verb C:\Users\andre\Zotero\storage\2NC4TFKN\8118524.html
       \endverb
       \verb{urlraw}
       \verb https://github.com/amantaya/Vence-API
@@ -5190,9 +5404,9 @@
       \verb{url}
       \verb https://github.com/amantaya/Vence-API
       \endverb
-      \keyw{,API,application-programming-interface}
+      \keyw{✅,API,application-programming-interface}
     \endentry
-    \entry{Antaya2022}{software}{}
+    \entry{Antaya_2022}{software}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -5227,8 +5441,9 @@
       \verb{url}
       \verb https://amantaya.github.io/RangelandsLiteratureMap/
       \endverb
+      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022a}{unpublished}{}
+    \entry{Antaya_et_al_2022a}{unpublished}{}
       \name{author}{9}{ul=3}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -5309,11 +5524,11 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/HJH6XYH7/Antaya_2022_Virtual Fence Applications and Considerations for Public Land Managers.pdf
+      \verb C:\Users\andre\Zotero\storage\HJH6XYH7\Antaya_2022_Virtual Fence Applications and Considerations for Public Land Managers.pdf
       \endverb
-      \keyw{,mypub,public land,virtual-fence}
+      \keyw{✅,mypub,public land,virtual-fence}
     \endentry
-    \entry{AntayaEtAl2022}{unpublished}{}
+    \entry{Antaya_et_al_2022}{unpublished}{}
       \name{author}{9}{ul=3}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -5394,11 +5609,11 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/F3GJLR9W/Antaya_2022_Virtual Fence Applications and Considerations for Public Land Managers.pdf
+      \verb C:\Users\andre\Zotero\storage\F3GJLR9W\Antaya_2022_Virtual Fence Applications and Considerations for Public Land Managers.pdf
       \endverb
-      \keyw{,mypub,public land,virtual-fence}
+      \keyw{✅,mypub,public land,virtual-fence}
     \endentry
-    \entry{Antaya2022a}{software}{}
+    \entry{Antaya_2022a}{software}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -5441,8 +5656,9 @@
       \verb{url}
       \verb https://github.com/amantaya/grazeR
       \endverb
+      \keyw{✅}
     \endentry
-    \entry{MayerEtAl2022}{unpublished}{}
+    \entry{Mayer_et_al_2022}{unpublished}{}
       \name{author}{11}{}{%
         {{un=0,uniquepart=base,hash=0a6dea0096b19ec2e1a00e0adce494a6}{%
            family={Mayer},
@@ -5534,8 +5750,9 @@
       \field{year}{2022}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022b}{unpublished}{}
+    \entry{Antaya_et_al_2022b}{unpublished}{}
       \name{author}{5}{ul=4}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -5589,8 +5806,9 @@
       \field{year}{2022}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2022d}{misc}{}
+    \entry{Antaya_et_al_2022c}{misc}{}
       \name{author}{4}{ul=4}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -5639,10 +5857,11 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/S6MP4UIV/Antaya et al. - 2022 - Examination of Site Use by Grazing Animals and Eff.pdf
+      \verb C:\Users\andre\Zotero\storage\S6MP4UIV\Antaya et al. - 2022 - Examination of Site Use by Grazing Animals and Eff.pdf
       \endverb
+      \keyw{✅}
     \endentry
-    \entry{AntayaRuyle2020a}{unpublished}{}
+    \entry{Antaya_Ruyle_2020}{unpublished}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -5680,8 +5899,9 @@
       \field{year}{2020}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{AntayaEtAl2020}{misc}{}
+    \entry{Antaya_et_al_2020}{misc}{}
       \name{author}{4}{}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
@@ -5731,10 +5951,11 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/KGE663LA/Antaya et al_2020_Examination of the Ecological Interactions of Free-Roaming Horses on Montane.pdf
+      \verb C:\Users\andre\Zotero\storage\KGE663LA\Antaya et al_2020_Examination of the Ecological Interactions of Free-Roaming Horses on Montane.pdf
       \endverb
+      \keyw{✅}
     \endentry
-    \entry{AntayaRuyle2020}{unpublished}{}
+    \entry{Antaya_Ruyle_2020a}{unpublished}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -5772,8 +5993,9 @@
       \field{year}{2020}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{BlumEtAl2019}{misc}{}
+    \entry{Blum_et_al_2019}{misc}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=ea8a36c77ae427393fdf7e4de277a5e3}{%
            family={Blum},
@@ -5830,10 +6052,11 @@
       \field{dateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/YIXSZBY2/Blum et al. - Examination of Behavioral Variation, Site Use and .pdf
+      \verb C:\Users\andre\Zotero\storage\YIXSZBY2\Blum et al. - Examination of Behavioral Variation, Site Use and .pdf
       \endverb
+      \keyw{✅}
     \endentry
-    \entry{AntayaEtAl2019}{unpublished}{}
+    \entry{Antaya_et_al_2019}{unpublished}{}
       \name{author}{5}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -5888,8 +6111,9 @@
       \field{year}{2019}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
-    \entry{Antaya2018}{thesis}{}
+    \entry{Antaya_2018}{thesis}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=16c1275565488fe936703d1ab690c410}{%
            family={Antaya},
@@ -5926,7 +6150,7 @@
       \field{urldateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/4ARCDJ3Z/Antaya_2018_Effects of Human Activity on the Distribution of Desert Bighorn Sheep Along the.pdf
+      \verb C:\Users\andre\Zotero\storage\4ARCDJ3Z\Antaya_2018_Effects of Human Activity on the Distribution of Desert Bighorn Sheep Along the.pdf
       \endverb
       \verb{urlraw}
       \verb https://repository.arizona.edu/handle/10150/628159
@@ -5934,8 +6158,9 @@
       \verb{url}
       \verb https://repository.arizona.edu/handle/10150/628159
       \endverb
+      \keyw{✅}
     \endentry
-    \entry{AntayaEtAl2017}{unpublished}{}
+    \entry{Antaya_et_al_2017}{unpublished}{}
       \name{author}{3}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -5978,6 +6203,7 @@
       \field{year}{2017}
       \field{dateera}{ce}
       \true{nocite}
+      \keyw{✅,📎}
     \endentry
   \enddatalist
 \endrefsection
