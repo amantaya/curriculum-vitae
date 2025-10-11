@@ -238,10 +238,10 @@
            given={A.\bibnamedelimi L.},
            giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=c7384bdfd2f43c5eb295e5459cfc9db9}{%
+        {{un=0,uniquepart=base,hash=a6cb80b12c0c9212d323641e9e179271}{%
            family={Feist},
            familyi={F\bibinitperiod},
-           given={H.\bibnamedelimi K.},
+           given={Hayden\bibnamedelima K.},
            giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=1ef9449f33c4a71dd4d95e522ecc62b9}{%
@@ -263,12 +263,12 @@
            giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{29f37bb31b29929d46b7f711840c7f2a}
-      \strng{fullhash}{29f37bb31b29929d46b7f711840c7f2a}
-      \strng{bibnamehash}{29f37bb31b29929d46b7f711840c7f2a}
-      \strng{authorbibnamehash}{29f37bb31b29929d46b7f711840c7f2a}
-      \strng{authornamehash}{29f37bb31b29929d46b7f711840c7f2a}
-      \strng{authorfullhash}{29f37bb31b29929d46b7f711840c7f2a}
+      \strng{namehash}{9e5d83dc5771412d8512a3cc6e6296a8}
+      \strng{fullhash}{9e5d83dc5771412d8512a3cc6e6296a8}
+      \strng{bibnamehash}{9e5d83dc5771412d8512a3cc6e6296a8}
+      \strng{authorbibnamehash}{9e5d83dc5771412d8512a3cc6e6296a8}
+      \strng{authornamehash}{9e5d83dc5771412d8512a3cc6e6296a8}
+      \strng{authorfullhash}{9e5d83dc5771412d8512a3cc6e6296a8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -406,61 +406,61 @@
            given={Andrew\bibnamedelima M.},
            giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=1}}%
-        {{un=0,uniquepart=base,hash=478805c35ba405a2ad4368309d185bdb}{%
+        {{un=0,uniquepart=base,hash=83e9509ed4c357d7ad6502a80885b9dc}{%
            family={Lopez},
            familyi={L\bibinitperiod},
-           given={P.\bibnamedelimi Guarnido},
+           given={Pablo\bibnamedelima Guarnido},
            giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=df6289d77688579f8165b08b1ab15654}{%
+        {{un=0,uniquepart=base,hash=7f58cb0feb7047b222a2dadfde73090b}{%
            family={Brennan},
            familyi={B\bibinitperiod},
-           given={J.\bibnamedelimi R.},
+           given={Jameson\bibnamedelima R.},
            giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=60cc51bdcc32c4cb917ebfacdd4b2d39}{%
+        {{un=0,uniquepart=base,hash=1de233ae0053a58c1a3f87f215dc2622}{%
            family={Tedeschi},
            familyi={T\bibinitperiod},
-           given={L.\bibnamedelimi O.},
+           given={Luis\bibnamedelima O.},
            giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=2967cdb1e858cf6ee89736e506c0799d}{%
+        {{un=0,uniquepart=base,hash=c5d58065b17a726277239167b44f63dd}{%
            family={Husmann},
            familyi={H\bibinitperiod},
-           given={A.\bibnamedelimi L.},
+           given={Aletta\bibnamedelima L.},
            giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=c7384bdfd2f43c5eb295e5459cfc9db9}{%
+        {{un=0,uniquepart=base,hash=a6cb80b12c0c9212d323641e9e179271}{%
            family={Feist},
            familyi={F\bibinitperiod},
-           given={H.\bibnamedelimi K.},
+           given={Hayden\bibnamedelima K.},
            giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=1ef9449f33c4a71dd4d95e522ecc62b9}{%
+        {{un=0,uniquepart=base,hash=1909b129ae01d2da82a5964124c01b82}{%
            family={Parsons},
            familyi={P\bibinitperiod},
-           given={I.\bibnamedelimi L.},
+           given={Ira\bibnamedelima L.},
            giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=e08d9a4fc73b20565133b841e058578a}{%
+        {{un=0,uniquepart=base,hash=9fbb0c59f5aedf4101a8335ab3253c15}{%
            family={Zuidema},
            familyi={Z\bibinitperiod},
-           given={D.\bibnamedelimi M.},
+           given={Dalen\bibnamedelima M.},
            giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=1a2dc145fc91da5823d7c2f2a19ee7e4}{%
+        {{un=0,uniquepart=base,hash=334e3c848c7fe038b0f156dffa7ae300}{%
            family={Menendez\bibnamedelima III},
            familyi={M\bibinitperiod\bibinitdelim I\bibinitperiod},
-           given={H.\bibnamedelimi M.},
+           given={Hector\bibnamedelima M.},
            giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{6df06ed1152690e1f02d030e196de41b}
-      \strng{fullhash}{6df06ed1152690e1f02d030e196de41b}
-      \strng{bibnamehash}{6df06ed1152690e1f02d030e196de41b}
-      \strng{authorbibnamehash}{6df06ed1152690e1f02d030e196de41b}
-      \strng{authornamehash}{6df06ed1152690e1f02d030e196de41b}
-      \strng{authorfullhash}{6df06ed1152690e1f02d030e196de41b}
+      \strng{namehash}{a8e4b4fae49abc6f77528de8b0be6c03}
+      \strng{fullhash}{a8e4b4fae49abc6f77528de8b0be6c03}
+      \strng{bibnamehash}{a8e4b4fae49abc6f77528de8b0be6c03}
+      \strng{authorbibnamehash}{a8e4b4fae49abc6f77528de8b0be6c03}
+      \strng{authornamehash}{a8e4b4fae49abc6f77528de8b0be6c03}
+      \strng{authorfullhash}{a8e4b4fae49abc6f77528de8b0be6c03}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2405,8 +2405,8 @@
            given={Sarah},
            giveni={S\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=f516b10befe64248bcaa89847065a730}{%
-           family={Bluoin},
+        {{un=0,uniquepart=base,hash=cab943dc199fd74d0dd7d129b121bd8e}{%
+           family={Blouin},
            familyi={B\bibinitperiod},
            given={Carter},
            giveni={C\bibinitperiod},
@@ -2431,11 +2431,11 @@
            givenun=0}}%
       }
       \strng{namehash}{feb7e206b494487f8e1162350673f65a}
-      \strng{fullhash}{7c0b9d0affc3a78ebbb294abf28146be}
-      \strng{bibnamehash}{7c0b9d0affc3a78ebbb294abf28146be}
-      \strng{authorbibnamehash}{7c0b9d0affc3a78ebbb294abf28146be}
+      \strng{fullhash}{bf32b6a1f72d9e47e44562304658e324}
+      \strng{bibnamehash}{bf32b6a1f72d9e47e44562304658e324}
+      \strng{authorbibnamehash}{bf32b6a1f72d9e47e44562304658e324}
       \strng{authornamehash}{feb7e206b494487f8e1162350673f65a}
-      \strng{authorfullhash}{7c0b9d0affc3a78ebbb294abf28146be}
+      \strng{authorfullhash}{bf32b6a1f72d9e47e44562304658e324}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2473,8 +2473,8 @@
            given={Brandon},
            giveni={B\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=f516b10befe64248bcaa89847065a730}{%
-           family={Bluoin},
+        {{un=0,uniquepart=base,hash=cab943dc199fd74d0dd7d129b121bd8e}{%
+           family={Blouin},
            familyi={B\bibinitperiod},
            given={Carter},
            giveni={C\bibinitperiod},
@@ -2517,11 +2517,11 @@
            givenun=0}}%
       }
       \strng{namehash}{714441d72e645bdd9cd78b437f51f031}
-      \strng{fullhash}{4fbc6e66d18c2a842c34c0c6ce474a54}
-      \strng{bibnamehash}{4fbc6e66d18c2a842c34c0c6ce474a54}
-      \strng{authorbibnamehash}{4fbc6e66d18c2a842c34c0c6ce474a54}
+      \strng{fullhash}{d773e685fee6eeff253f9ea4ed5bfdc6}
+      \strng{bibnamehash}{d773e685fee6eeff253f9ea4ed5bfdc6}
+      \strng{authorbibnamehash}{d773e685fee6eeff253f9ea4ed5bfdc6}
       \strng{authornamehash}{714441d72e645bdd9cd78b437f51f031}
-      \strng{authorfullhash}{4fbc6e66d18c2a842c34c0c6ce474a54}
+      \strng{authorfullhash}{d773e685fee6eeff253f9ea4ed5bfdc6}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -2627,7 +2627,7 @@
       \endverb
     \endentry
     \entry{Antaya_et_al_2022a}{unpublished}{}
-      \name{author}{9}{ul=3}{%
+      \name{author}{9}{ul=6}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
            familyi={A\bibinitperiod},
@@ -2640,8 +2640,8 @@
            given={Brandon},
            giveni={B\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=f516b10befe64248bcaa89847065a730}{%
-           family={Bluoin},
+        {{un=0,uniquepart=base,hash=cab943dc199fd74d0dd7d129b121bd8e}{%
+           family={Blouin},
            familyi={B\bibinitperiod},
            given={Carter},
            giveni={C\bibinitperiod},
@@ -2683,12 +2683,12 @@
            giveni={G\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{b168d5d788f355e6b37c90ed42b400c6}
-      \strng{fullhash}{353dc039b91b1511cfe823e543446c4e}
-      \strng{bibnamehash}{353dc039b91b1511cfe823e543446c4e}
-      \strng{authorbibnamehash}{353dc039b91b1511cfe823e543446c4e}
-      \strng{authornamehash}{b168d5d788f355e6b37c90ed42b400c6}
-      \strng{authorfullhash}{353dc039b91b1511cfe823e543446c4e}
+      \strng{namehash}{1d4500027a569262b37e34e63df2a6f6}
+      \strng{fullhash}{4ef049b60ff6362b25447e4e4f66bd1b}
+      \strng{bibnamehash}{4ef049b60ff6362b25447e4e4f66bd1b}
+      \strng{authorbibnamehash}{4ef049b60ff6362b25447e4e4f66bd1b}
+      \strng{authornamehash}{1d4500027a569262b37e34e63df2a6f6}
+      \strng{authorfullhash}{4ef049b60ff6362b25447e4e4f66bd1b}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -2712,7 +2712,7 @@
       \keyw{,mypub,public land,virtual-fence}
     \endentry
     \entry{Antaya_et_al_2022}{unpublished}{}
-      \name{author}{9}{ul=3}{%
+      \name{author}{9}{ul=6}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
            familyi={A\bibinitperiod},
@@ -2725,8 +2725,8 @@
            given={Brandon},
            giveni={B\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=f516b10befe64248bcaa89847065a730}{%
-           family={Bluoin},
+        {{un=0,uniquepart=base,hash=cab943dc199fd74d0dd7d129b121bd8e}{%
+           family={Blouin},
            familyi={B\bibinitperiod},
            given={Carter},
            giveni={C\bibinitperiod},
@@ -2768,12 +2768,12 @@
            giveni={G\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{b168d5d788f355e6b37c90ed42b400c6}
-      \strng{fullhash}{353dc039b91b1511cfe823e543446c4e}
-      \strng{bibnamehash}{353dc039b91b1511cfe823e543446c4e}
-      \strng{authorbibnamehash}{353dc039b91b1511cfe823e543446c4e}
-      \strng{authornamehash}{b168d5d788f355e6b37c90ed42b400c6}
-      \strng{authorfullhash}{353dc039b91b1511cfe823e543446c4e}
+      \strng{namehash}{1d4500027a569262b37e34e63df2a6f6}
+      \strng{fullhash}{4ef049b60ff6362b25447e4e4f66bd1b}
+      \strng{bibnamehash}{4ef049b60ff6362b25447e4e4f66bd1b}
+      \strng{authorbibnamehash}{4ef049b60ff6362b25447e4e4f66bd1b}
+      \strng{authornamehash}{1d4500027a569262b37e34e63df2a6f6}
+      \strng{authorfullhash}{4ef049b60ff6362b25447e4e4f66bd1b}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -2953,8 +2953,8 @@
            given={Sarah},
            giveni={S\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=f516b10befe64248bcaa89847065a730}{%
-           family={Bluoin},
+        {{un=0,uniquepart=base,hash=cab943dc199fd74d0dd7d129b121bd8e}{%
+           family={Blouin},
            familyi={B\bibinitperiod},
            given={Carter},
            giveni={C\bibinitperiod},
@@ -2966,12 +2966,12 @@
            giveni={G\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{112c453922e13fc79fbb918c0848e575}
-      \strng{fullhash}{112c453922e13fc79fbb918c0848e575}
-      \strng{bibnamehash}{112c453922e13fc79fbb918c0848e575}
-      \strng{authorbibnamehash}{112c453922e13fc79fbb918c0848e575}
-      \strng{authornamehash}{112c453922e13fc79fbb918c0848e575}
-      \strng{authorfullhash}{112c453922e13fc79fbb918c0848e575}
+      \strng{namehash}{985559588ae8f550c319f851f9d04788}
+      \strng{fullhash}{985559588ae8f550c319f851f9d04788}
+      \strng{bibnamehash}{985559588ae8f550c319f851f9d04788}
+      \strng{authorbibnamehash}{985559588ae8f550c319f851f9d04788}
+      \strng{authornamehash}{985559588ae8f550c319f851f9d04788}
+      \strng{authorfullhash}{985559588ae8f550c319f851f9d04788}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3598,10 +3598,10 @@
            given={A.\bibnamedelimi L.},
            giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=c7384bdfd2f43c5eb295e5459cfc9db9}{%
+        {{un=0,uniquepart=base,hash=a6cb80b12c0c9212d323641e9e179271}{%
            family={Feist},
            familyi={F\bibinitperiod},
-           given={H.\bibnamedelimi K.},
+           given={Hayden\bibnamedelima K.},
            giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=1ef9449f33c4a71dd4d95e522ecc62b9}{%
@@ -3623,12 +3623,12 @@
            giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{29f37bb31b29929d46b7f711840c7f2a}
-      \strng{fullhash}{29f37bb31b29929d46b7f711840c7f2a}
-      \strng{bibnamehash}{29f37bb31b29929d46b7f711840c7f2a}
-      \strng{authorbibnamehash}{29f37bb31b29929d46b7f711840c7f2a}
-      \strng{authornamehash}{29f37bb31b29929d46b7f711840c7f2a}
-      \strng{authorfullhash}{29f37bb31b29929d46b7f711840c7f2a}
+      \strng{namehash}{9e5d83dc5771412d8512a3cc6e6296a8}
+      \strng{fullhash}{9e5d83dc5771412d8512a3cc6e6296a8}
+      \strng{bibnamehash}{9e5d83dc5771412d8512a3cc6e6296a8}
+      \strng{authorbibnamehash}{9e5d83dc5771412d8512a3cc6e6296a8}
+      \strng{authornamehash}{9e5d83dc5771412d8512a3cc6e6296a8}
+      \strng{authorfullhash}{9e5d83dc5771412d8512a3cc6e6296a8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3766,61 +3766,61 @@
            given={Andrew\bibnamedelima M.},
            giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=1}}%
-        {{un=0,uniquepart=base,hash=478805c35ba405a2ad4368309d185bdb}{%
+        {{un=0,uniquepart=base,hash=83e9509ed4c357d7ad6502a80885b9dc}{%
            family={Lopez},
            familyi={L\bibinitperiod},
-           given={P.\bibnamedelimi Guarnido},
+           given={Pablo\bibnamedelima Guarnido},
            giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=df6289d77688579f8165b08b1ab15654}{%
+        {{un=0,uniquepart=base,hash=7f58cb0feb7047b222a2dadfde73090b}{%
            family={Brennan},
            familyi={B\bibinitperiod},
-           given={J.\bibnamedelimi R.},
+           given={Jameson\bibnamedelima R.},
            giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=60cc51bdcc32c4cb917ebfacdd4b2d39}{%
+        {{un=0,uniquepart=base,hash=1de233ae0053a58c1a3f87f215dc2622}{%
            family={Tedeschi},
            familyi={T\bibinitperiod},
-           given={L.\bibnamedelimi O.},
+           given={Luis\bibnamedelima O.},
            giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=2967cdb1e858cf6ee89736e506c0799d}{%
+        {{un=0,uniquepart=base,hash=c5d58065b17a726277239167b44f63dd}{%
            family={Husmann},
            familyi={H\bibinitperiod},
-           given={A.\bibnamedelimi L.},
+           given={Aletta\bibnamedelima L.},
            giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=c7384bdfd2f43c5eb295e5459cfc9db9}{%
+        {{un=0,uniquepart=base,hash=a6cb80b12c0c9212d323641e9e179271}{%
            family={Feist},
            familyi={F\bibinitperiod},
-           given={H.\bibnamedelimi K.},
+           given={Hayden\bibnamedelima K.},
            giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=1ef9449f33c4a71dd4d95e522ecc62b9}{%
+        {{un=0,uniquepart=base,hash=1909b129ae01d2da82a5964124c01b82}{%
            family={Parsons},
            familyi={P\bibinitperiod},
-           given={I.\bibnamedelimi L.},
+           given={Ira\bibnamedelima L.},
            giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=e08d9a4fc73b20565133b841e058578a}{%
+        {{un=0,uniquepart=base,hash=9fbb0c59f5aedf4101a8335ab3253c15}{%
            family={Zuidema},
            familyi={Z\bibinitperiod},
-           given={D.\bibnamedelimi M.},
+           given={Dalen\bibnamedelima M.},
            giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=1a2dc145fc91da5823d7c2f2a19ee7e4}{%
+        {{un=0,uniquepart=base,hash=334e3c848c7fe038b0f156dffa7ae300}{%
            family={Menendez\bibnamedelima III},
            familyi={M\bibinitperiod\bibinitdelim I\bibinitperiod},
-           given={H.\bibnamedelimi M.},
+           given={Hector\bibnamedelima M.},
            giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{6df06ed1152690e1f02d030e196de41b}
-      \strng{fullhash}{6df06ed1152690e1f02d030e196de41b}
-      \strng{bibnamehash}{6df06ed1152690e1f02d030e196de41b}
-      \strng{authorbibnamehash}{6df06ed1152690e1f02d030e196de41b}
-      \strng{authornamehash}{6df06ed1152690e1f02d030e196de41b}
-      \strng{authorfullhash}{6df06ed1152690e1f02d030e196de41b}
+      \strng{namehash}{a8e4b4fae49abc6f77528de8b0be6c03}
+      \strng{fullhash}{a8e4b4fae49abc6f77528de8b0be6c03}
+      \strng{bibnamehash}{a8e4b4fae49abc6f77528de8b0be6c03}
+      \strng{authorbibnamehash}{a8e4b4fae49abc6f77528de8b0be6c03}
+      \strng{authornamehash}{a8e4b4fae49abc6f77528de8b0be6c03}
+      \strng{authorfullhash}{a8e4b4fae49abc6f77528de8b0be6c03}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -5765,8 +5765,8 @@
            given={Sarah},
            giveni={S\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=f516b10befe64248bcaa89847065a730}{%
-           family={Bluoin},
+        {{un=0,uniquepart=base,hash=cab943dc199fd74d0dd7d129b121bd8e}{%
+           family={Blouin},
            familyi={B\bibinitperiod},
            given={Carter},
            giveni={C\bibinitperiod},
@@ -5791,11 +5791,11 @@
            givenun=0}}%
       }
       \strng{namehash}{feb7e206b494487f8e1162350673f65a}
-      \strng{fullhash}{7c0b9d0affc3a78ebbb294abf28146be}
-      \strng{bibnamehash}{7c0b9d0affc3a78ebbb294abf28146be}
-      \strng{authorbibnamehash}{7c0b9d0affc3a78ebbb294abf28146be}
+      \strng{fullhash}{bf32b6a1f72d9e47e44562304658e324}
+      \strng{bibnamehash}{bf32b6a1f72d9e47e44562304658e324}
+      \strng{authorbibnamehash}{bf32b6a1f72d9e47e44562304658e324}
       \strng{authornamehash}{feb7e206b494487f8e1162350673f65a}
-      \strng{authorfullhash}{7c0b9d0affc3a78ebbb294abf28146be}
+      \strng{authorfullhash}{bf32b6a1f72d9e47e44562304658e324}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -5833,8 +5833,8 @@
            given={Brandon},
            giveni={B\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=f516b10befe64248bcaa89847065a730}{%
-           family={Bluoin},
+        {{un=0,uniquepart=base,hash=cab943dc199fd74d0dd7d129b121bd8e}{%
+           family={Blouin},
            familyi={B\bibinitperiod},
            given={Carter},
            giveni={C\bibinitperiod},
@@ -5877,11 +5877,11 @@
            givenun=0}}%
       }
       \strng{namehash}{714441d72e645bdd9cd78b437f51f031}
-      \strng{fullhash}{4fbc6e66d18c2a842c34c0c6ce474a54}
-      \strng{bibnamehash}{4fbc6e66d18c2a842c34c0c6ce474a54}
-      \strng{authorbibnamehash}{4fbc6e66d18c2a842c34c0c6ce474a54}
+      \strng{fullhash}{d773e685fee6eeff253f9ea4ed5bfdc6}
+      \strng{bibnamehash}{d773e685fee6eeff253f9ea4ed5bfdc6}
+      \strng{authorbibnamehash}{d773e685fee6eeff253f9ea4ed5bfdc6}
       \strng{authornamehash}{714441d72e645bdd9cd78b437f51f031}
-      \strng{authorfullhash}{4fbc6e66d18c2a842c34c0c6ce474a54}
+      \strng{authorfullhash}{d773e685fee6eeff253f9ea4ed5bfdc6}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -5987,7 +5987,7 @@
       \endverb
     \endentry
     \entry{Antaya_et_al_2022a}{unpublished}{}
-      \name{author}{9}{ul=3}{%
+      \name{author}{9}{ul=6}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
            familyi={A\bibinitperiod},
@@ -6000,8 +6000,8 @@
            given={Brandon},
            giveni={B\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=f516b10befe64248bcaa89847065a730}{%
-           family={Bluoin},
+        {{un=0,uniquepart=base,hash=cab943dc199fd74d0dd7d129b121bd8e}{%
+           family={Blouin},
            familyi={B\bibinitperiod},
            given={Carter},
            giveni={C\bibinitperiod},
@@ -6043,12 +6043,12 @@
            giveni={G\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{b168d5d788f355e6b37c90ed42b400c6}
-      \strng{fullhash}{353dc039b91b1511cfe823e543446c4e}
-      \strng{bibnamehash}{353dc039b91b1511cfe823e543446c4e}
-      \strng{authorbibnamehash}{353dc039b91b1511cfe823e543446c4e}
-      \strng{authornamehash}{b168d5d788f355e6b37c90ed42b400c6}
-      \strng{authorfullhash}{353dc039b91b1511cfe823e543446c4e}
+      \strng{namehash}{1d4500027a569262b37e34e63df2a6f6}
+      \strng{fullhash}{4ef049b60ff6362b25447e4e4f66bd1b}
+      \strng{bibnamehash}{4ef049b60ff6362b25447e4e4f66bd1b}
+      \strng{authorbibnamehash}{4ef049b60ff6362b25447e4e4f66bd1b}
+      \strng{authornamehash}{1d4500027a569262b37e34e63df2a6f6}
+      \strng{authorfullhash}{4ef049b60ff6362b25447e4e4f66bd1b}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -6072,7 +6072,7 @@
       \keyw{,mypub,public land,virtual-fence}
     \endentry
     \entry{Antaya_et_al_2022}{unpublished}{}
-      \name{author}{9}{ul=3}{%
+      \name{author}{9}{ul=6}{%
         {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
            familyi={A\bibinitperiod},
@@ -6085,8 +6085,8 @@
            given={Brandon},
            giveni={B\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=f516b10befe64248bcaa89847065a730}{%
-           family={Bluoin},
+        {{un=0,uniquepart=base,hash=cab943dc199fd74d0dd7d129b121bd8e}{%
+           family={Blouin},
            familyi={B\bibinitperiod},
            given={Carter},
            giveni={C\bibinitperiod},
@@ -6128,12 +6128,12 @@
            giveni={G\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{b168d5d788f355e6b37c90ed42b400c6}
-      \strng{fullhash}{353dc039b91b1511cfe823e543446c4e}
-      \strng{bibnamehash}{353dc039b91b1511cfe823e543446c4e}
-      \strng{authorbibnamehash}{353dc039b91b1511cfe823e543446c4e}
-      \strng{authornamehash}{b168d5d788f355e6b37c90ed42b400c6}
-      \strng{authorfullhash}{353dc039b91b1511cfe823e543446c4e}
+      \strng{namehash}{1d4500027a569262b37e34e63df2a6f6}
+      \strng{fullhash}{4ef049b60ff6362b25447e4e4f66bd1b}
+      \strng{bibnamehash}{4ef049b60ff6362b25447e4e4f66bd1b}
+      \strng{authorbibnamehash}{4ef049b60ff6362b25447e4e4f66bd1b}
+      \strng{authornamehash}{1d4500027a569262b37e34e63df2a6f6}
+      \strng{authorfullhash}{4ef049b60ff6362b25447e4e4f66bd1b}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -6313,8 +6313,8 @@
            given={Sarah},
            giveni={S\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=f516b10befe64248bcaa89847065a730}{%
-           family={Bluoin},
+        {{un=0,uniquepart=base,hash=cab943dc199fd74d0dd7d129b121bd8e}{%
+           family={Blouin},
            familyi={B\bibinitperiod},
            given={Carter},
            giveni={C\bibinitperiod},
@@ -6326,12 +6326,12 @@
            giveni={G\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{112c453922e13fc79fbb918c0848e575}
-      \strng{fullhash}{112c453922e13fc79fbb918c0848e575}
-      \strng{bibnamehash}{112c453922e13fc79fbb918c0848e575}
-      \strng{authorbibnamehash}{112c453922e13fc79fbb918c0848e575}
-      \strng{authornamehash}{112c453922e13fc79fbb918c0848e575}
-      \strng{authorfullhash}{112c453922e13fc79fbb918c0848e575}
+      \strng{namehash}{985559588ae8f550c319f851f9d04788}
+      \strng{fullhash}{985559588ae8f550c319f851f9d04788}
+      \strng{bibnamehash}{985559588ae8f550c319f851f9d04788}
+      \strng{authorbibnamehash}{985559588ae8f550c319f851f9d04788}
+      \strng{authornamehash}{985559588ae8f550c319f851f9d04788}
+      \strng{authorfullhash}{985559588ae8f550c319f851f9d04788}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
