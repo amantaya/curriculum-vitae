@@ -19,12 +19,199 @@
 
 \refsection{0}
   \datalist[entry]{ndymdt/apasortcite//global/global}
-    \entry{Antaya_et_al_2025}{article}{}
-      \name{author}{9}{ul=9}{%
-        {{un=1,uniquepart=given,hash=bfbe099926ef1f62d8499a475eb24cb1}{%
+    \entry{Antaya_InPrep}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
            familyi={A\bibinitperiod},
-           given={A.\bibnamedelimi M.},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \name{namea}{5}{}{%
+        {{hash=3383ae97da0a1f6f8f670470ddca64dc}{%
+           family={Abalo},
+           familyi={A\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b6058515b4b7ced7aebde1d5596a7369}{%
+           family={Rekabdarkolaee},
+           familyi={R\bibinitperiod},
+           given={Hussein\bibnamedelima Moradi},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=408ed017d87cf7b247ebd6c7f4bf1818}{%
+           family={Leffler},
+           familyi={L\bibinitperiod},
+           given={A.\bibnamedelimi Joshua},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=163252f10bc43f7373e8a3b83fbd6586}{%
+           family={Ehlert},
+           familyi={E\bibinitperiod},
+           given={Krista},
+           giveni={K\bibinitperiod}}}%
+        {{hash=7f58cb0feb7047b222a2dadfde73090b}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Jameson\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{nameabibnamehash}{f949f51d4db51b170b9958fdb93503c7}
+      \strng{nameanamehash}{9887ec5928158c840c1e991f19600a28}
+      \strng{nameafullhash}{f949f51d4db51b170b9958fdb93503c7}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eventtitle}{The {{Society}} for {{Range Management Annual Meeting}}}
+      \field{nameatype}{collaborator}
+      \field{title}{Ranch {{Reports}}: {{An Integrated Decision Support Tool}} to {{Estimate Forage Quantity}} and {{Quality}} for {{Land Managers}}}
+      \field{type}{Oral Presentation}
+      \field{venue}{Monterey, California, USA}
+      \field{year}{In Prep}
+      \true{nocite}
+    \endentry
+    \entry{Audoin_et_al_InPress}{report}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=2ad085d00b8a688e65a471693db6b512}{%
+           family={Audoin},
+           familyi={A\bibinitperiod},
+           given={Flavie},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57445c0fe41281059bb043154c65b598}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={Brian\bibnamedelima J},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ab9727272da98418035176c7b158ba5}{%
+           family={Mulliniks},
+           familyi={M\bibinitperiod},
+           given={Travis},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02ffc16a70c3d6822bf23495a66fa5f0}{%
+           family={Macon},
+           familyi={M\bibinitperiod},
+           given={Lara},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of Arizona}%
+      }
+      \list{location}{1}{%
+        {Tucson, Arizona, USA}%
+      }
+      \strng{namehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{fullhash}{96b8e4374c923c5fa69583d44fcca3c7}
+      \strng{bibnamehash}{96b8e4374c923c5fa69583d44fcca3c7}
+      \strng{authorbibnamehash}{96b8e4374c923c5fa69583d44fcca3c7}
+      \strng{authornamehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{authorfullhash}{96b8e4374c923c5fa69583d44fcca3c7}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Foundations of {{Virtual Fencing}}: {{Specifics}} on {{Collar Deployment}} by {{Company}}}
+      \field{type}{Extension Publication}
+      \field{year}{In Press}
+      \true{nocite}
+    \endentry
+    \entry{Fresno-Rueda_et_al_InPress}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=d663ceea3f04c653c822b110fb1f8e4f}{%
+           family={Fresno-Rueda},
+           familyi={F\bibinithyphendelim R\bibinitperiod},
+           given={Anlly},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b81433ae456fb5f4d212b3b71ea9a01}{%
+           family={Wolfe},
+           familyi={W\bibinitperiod},
+           given={Hayden},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d24298f3c01b33a76521a9ab4abcdf64}{%
+           family={Ramirez-Camba},
+           familyi={R\bibinithyphendelim C\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75c455b24418cdbd6e698ec86382ad56}{%
+           family={Bragg},
+           familyi={B\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02d21d0c1eab62fed8ef8385ab404eb6}{%
+           family={Kruse},
+           familyi={K\bibinitperiod},
+           given={Carter},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f58cb0feb7047b222a2dadfde73090b}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Jameson\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54f1223831dc9edfb58b17ed3e973df5}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Jeff\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{740cb740ffe3e24eefa5f5a4d949a325}
+      \strng{fullhash}{62d70a75694103a50f06ac9cc66878b1}
+      \strng{bibnamehash}{62d70a75694103a50f06ac9cc66878b1}
+      \strng{authorbibnamehash}{62d70a75694103a50f06ac9cc66878b1}
+      \strng{authornamehash}{740cb740ffe3e24eefa5f5a4d949a325}
+      \strng{authorfullhash}{62d70a75694103a50f06ac9cc66878b1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Ecology and Evolution}
+      \field{title}{Climate and {{Translocations Drive Spatiotemporal Variation}} in {{Growth}} and {{Body Size}} of {{North American Bison}} ({{Bison}} Bison)}
+      \field{year}{In Press}
+      \true{nocite}
+    \endentry
+    \entry{Antaya_et_al_2025}{article}{}
+      \name{author}{9}{ul=9}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
            giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=1}}%
         {{un=0,uniquepart=base,hash=478805c35ba405a2ad4368309d185bdb}{%
@@ -76,12 +263,12 @@
            giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{f6b668bd3e2988d372249dcfb2651f8e}
-      \strng{fullhash}{f6b668bd3e2988d372249dcfb2651f8e}
-      \strng{bibnamehash}{f6b668bd3e2988d372249dcfb2651f8e}
-      \strng{authorbibnamehash}{f6b668bd3e2988d372249dcfb2651f8e}
-      \strng{authornamehash}{f6b668bd3e2988d372249dcfb2651f8e}
-      \strng{authorfullhash}{f6b668bd3e2988d372249dcfb2651f8e}
+      \strng{namehash}{29f37bb31b29929d46b7f711840c7f2a}
+      \strng{fullhash}{29f37bb31b29929d46b7f711840c7f2a}
+      \strng{bibnamehash}{29f37bb31b29929d46b7f711840c7f2a}
+      \strng{authorbibnamehash}{29f37bb31b29929d46b7f711840c7f2a}
+      \strng{authornamehash}{29f37bb31b29929d46b7f711840c7f2a}
+      \strng{authorfullhash}{29f37bb31b29929d46b7f711840c7f2a}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -376,6 +563,7 @@
       \strng{authorbibnamehash}{48e89497d12e5e951d87a1b40fe35848}
       \strng{authornamehash}{877d852e14fa7e7a689598001cfa9220}
       \strng{authorfullhash}{48e89497d12e5e951d87a1b40fe35848}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -420,7 +608,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1033,7 +1221,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -1069,7 +1257,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -1208,7 +1396,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{3}
@@ -2192,7 +2380,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2417,7 +2605,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3117,7 +3305,7 @@
       \strng{authorbibnamehash}{16c1275565488fe936703d1ab690c410}
       \strng{authornamehash}{16c1275565488fe936703d1ab690c410}
       \strng{authorfullhash}{16c1275565488fe936703d1ab690c410}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3191,12 +3379,199 @@
     \endentry
   \enddatalist
   \datalist[entry]{ndymdt/global//global/global}
-    \entry{Antaya_et_al_2025}{article}{}
-      \name{author}{9}{ul=9}{%
-        {{un=1,uniquepart=given,hash=bfbe099926ef1f62d8499a475eb24cb1}{%
+    \entry{Antaya_InPrep}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
            familyi={A\bibinitperiod},
-           given={A.\bibnamedelimi M.},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \name{namea}{5}{}{%
+        {{hash=3383ae97da0a1f6f8f670470ddca64dc}{%
+           family={Abalo},
+           familyi={A\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b6058515b4b7ced7aebde1d5596a7369}{%
+           family={Rekabdarkolaee},
+           familyi={R\bibinitperiod},
+           given={Hussein\bibnamedelima Moradi},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=408ed017d87cf7b247ebd6c7f4bf1818}{%
+           family={Leffler},
+           familyi={L\bibinitperiod},
+           given={A.\bibnamedelimi Joshua},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=163252f10bc43f7373e8a3b83fbd6586}{%
+           family={Ehlert},
+           familyi={E\bibinitperiod},
+           given={Krista},
+           giveni={K\bibinitperiod}}}%
+        {{hash=7f58cb0feb7047b222a2dadfde73090b}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Jameson\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{fullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{bibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
+      \strng{nameabibnamehash}{f949f51d4db51b170b9958fdb93503c7}
+      \strng{nameanamehash}{9887ec5928158c840c1e991f19600a28}
+      \strng{nameafullhash}{f949f51d4db51b170b9958fdb93503c7}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eventtitle}{The {{Society}} for {{Range Management Annual Meeting}}}
+      \field{nameatype}{collaborator}
+      \field{title}{Ranch {{Reports}}: {{An Integrated Decision Support Tool}} to {{Estimate Forage Quantity}} and {{Quality}} for {{Land Managers}}}
+      \field{type}{Oral Presentation}
+      \field{venue}{Monterey, California, USA}
+      \field{year}{In Prep}
+      \true{nocite}
+    \endentry
+    \entry{Audoin_et_al_InPress}{report}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=2ad085d00b8a688e65a471693db6b512}{%
+           family={Audoin},
+           familyi={A\bibinitperiod},
+           given={Flavie},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57445c0fe41281059bb043154c65b598}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={Brian\bibnamedelima J},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ab9727272da98418035176c7b158ba5}{%
+           family={Mulliniks},
+           familyi={M\bibinitperiod},
+           given={Travis},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02ffc16a70c3d6822bf23495a66fa5f0}{%
+           family={Macon},
+           familyi={M\bibinitperiod},
+           given={Lara},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of Arizona}%
+      }
+      \list{location}{1}{%
+        {Tucson, Arizona, USA}%
+      }
+      \strng{namehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{fullhash}{96b8e4374c923c5fa69583d44fcca3c7}
+      \strng{bibnamehash}{96b8e4374c923c5fa69583d44fcca3c7}
+      \strng{authorbibnamehash}{96b8e4374c923c5fa69583d44fcca3c7}
+      \strng{authornamehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{authorfullhash}{96b8e4374c923c5fa69583d44fcca3c7}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Foundations of {{Virtual Fencing}}: {{Specifics}} on {{Collar Deployment}} by {{Company}}}
+      \field{type}{Extension Publication}
+      \field{year}{In Press}
+      \true{nocite}
+    \endentry
+    \entry{Fresno-Rueda_et_al_InPress}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=d663ceea3f04c653c822b110fb1f8e4f}{%
+           family={Fresno-Rueda},
+           familyi={F\bibinithyphendelim R\bibinitperiod},
+           given={Anlly},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b81433ae456fb5f4d212b3b71ea9a01}{%
+           family={Wolfe},
+           familyi={W\bibinitperiod},
+           given={Hayden},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d24298f3c01b33a76521a9ab4abcdf64}{%
+           family={Ramirez-Camba},
+           familyi={R\bibinithyphendelim C\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75c455b24418cdbd6e698ec86382ad56}{%
+           family={Bragg},
+           familyi={B\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02d21d0c1eab62fed8ef8385ab404eb6}{%
+           family={Kruse},
+           familyi={K\bibinitperiod},
+           given={Carter},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f58cb0feb7047b222a2dadfde73090b}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Jameson\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54f1223831dc9edfb58b17ed3e973df5}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Jeff\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{740cb740ffe3e24eefa5f5a4d949a325}
+      \strng{fullhash}{62d70a75694103a50f06ac9cc66878b1}
+      \strng{bibnamehash}{62d70a75694103a50f06ac9cc66878b1}
+      \strng{authorbibnamehash}{62d70a75694103a50f06ac9cc66878b1}
+      \strng{authornamehash}{740cb740ffe3e24eefa5f5a4d949a325}
+      \strng{authorfullhash}{62d70a75694103a50f06ac9cc66878b1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Ecology and Evolution}
+      \field{title}{Climate and {{Translocations Drive Spatiotemporal Variation}} in {{Growth}} and {{Body Size}} of {{North American Bison}} ({{Bison}} Bison)}
+      \field{year}{In Press}
+      \true{nocite}
+    \endentry
+    \entry{Antaya_et_al_2025}{article}{}
+      \name{author}{9}{ul=9}{%
+        {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
            giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=1}}%
         {{un=0,uniquepart=base,hash=478805c35ba405a2ad4368309d185bdb}{%
@@ -3248,12 +3623,12 @@
            giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{f6b668bd3e2988d372249dcfb2651f8e}
-      \strng{fullhash}{f6b668bd3e2988d372249dcfb2651f8e}
-      \strng{bibnamehash}{f6b668bd3e2988d372249dcfb2651f8e}
-      \strng{authorbibnamehash}{f6b668bd3e2988d372249dcfb2651f8e}
-      \strng{authornamehash}{f6b668bd3e2988d372249dcfb2651f8e}
-      \strng{authorfullhash}{f6b668bd3e2988d372249dcfb2651f8e}
+      \strng{namehash}{29f37bb31b29929d46b7f711840c7f2a}
+      \strng{fullhash}{29f37bb31b29929d46b7f711840c7f2a}
+      \strng{bibnamehash}{29f37bb31b29929d46b7f711840c7f2a}
+      \strng{authorbibnamehash}{29f37bb31b29929d46b7f711840c7f2a}
+      \strng{authornamehash}{29f37bb31b29929d46b7f711840c7f2a}
+      \strng{authorfullhash}{29f37bb31b29929d46b7f711840c7f2a}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3548,6 +3923,7 @@
       \strng{authorbibnamehash}{48e89497d12e5e951d87a1b40fe35848}
       \strng{authornamehash}{877d852e14fa7e7a689598001cfa9220}
       \strng{authorfullhash}{48e89497d12e5e951d87a1b40fe35848}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3592,7 +3968,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -4205,7 +4581,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
@@ -4241,7 +4617,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
@@ -4380,7 +4756,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{3}
@@ -5364,7 +5740,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -5589,7 +5965,7 @@
       \strng{authorbibnamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authornamehash}{4f70167881ef27ae3f4a13cfe8c90707}
       \strng{authorfullhash}{4f70167881ef27ae3f4a13cfe8c90707}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -6289,7 +6665,7 @@
       \strng{authorbibnamehash}{16c1275565488fe936703d1ab690c410}
       \strng{authornamehash}{16c1275565488fe936703d1ab690c410}
       \strng{authorfullhash}{16c1275565488fe936703d1ab690c410}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
