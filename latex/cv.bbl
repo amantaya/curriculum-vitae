@@ -132,10 +132,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Foundations of {{Virtual Fencing}}: {{Specifics}} on {{Collar Deployment}} by {{Company}}}
+      \field{title}{[{{In Press}}] {{Foundations}} of {{Virtual Fencing}}: {{Specifics}} on {{Collar Deployment}} by {{Company}}}
       \field{type}{Extension Publication}
       \field{year}{In Press}
       \true{nocite}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/ZFCJB86V/Audoin et al. - [In Press] Foundations of Virtual Fencing Specifics on Collar Deployment by Company.pdf
+      \endverb
     \endentry
     \entry{Fresno-Rueda_et_al_InPress}{article}{}
       \name{author}{8}{}{%
@@ -194,6 +197,7 @@
       \strng{authorbibnamehash}{62d70a75694103a50f06ac9cc66878b1}
       \strng{authornamehash}{740cb740ffe3e24eefa5f5a4d949a325}
       \strng{authorfullhash}{62d70a75694103a50f06ac9cc66878b1}
+      \field{extraname}{1}
       \field{sortinit}{I}
       \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
       \field{extradatescope}{labelyear}
@@ -205,6 +209,104 @@
       \field{title}{Climate and {{Translocations Drive Spatiotemporal Variation}} in {{Growth}} and {{Body Size}} of {{North American Bison}} ({{Bison}} Bison)}
       \field{year}{In Press}
       \true{nocite}
+    \endentry
+    \entry{Fresno-Rueda_et_al_2025}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=d663ceea3f04c653c822b110fb1f8e4f}{%
+           family={Fresno-Rueda},
+           familyi={F\bibinithyphendelim R\bibinitperiod},
+           given={Anlly},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b81433ae456fb5f4d212b3b71ea9a01}{%
+           family={Wolfe},
+           familyi={W\bibinitperiod},
+           given={Hayden},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d24298f3c01b33a76521a9ab4abcdf64}{%
+           family={Ramirez-Camba},
+           familyi={R\bibinithyphendelim C\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b9977f743cec09600ca3df62d284f3c}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75c455b24418cdbd6e698ec86382ad56}{%
+           family={Bragg},
+           familyi={B\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02d21d0c1eab62fed8ef8385ab404eb6}{%
+           family={Kruse},
+           familyi={K\bibinitperiod},
+           given={Carter},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d575957efde51887507fb17cc73e49c}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Jameson},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54f1223831dc9edfb58b17ed3e973df5}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Jeff\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers}%
+      }
+      \strng{namehash}{740cb740ffe3e24eefa5f5a4d949a325}
+      \strng{fullhash}{53b1588d07395ebcfc1a61843c4b4c4a}
+      \strng{bibnamehash}{53b1588d07395ebcfc1a61843c4b4c4a}
+      \strng{authorbibnamehash}{53b1588d07395ebcfc1a61843c4b4c4a}
+      \strng{authornamehash}{740cb740ffe3e24eefa5f5a4d949a325}
+      \strng{authorfullhash}{53b1588d07395ebcfc1a61843c4b4c4a}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{IntroductionBody size is a fundamental trait that influences survival, reproduction, and ecosystem functioning in large herbivores. Despite their ecological importance, our understanding of how North American bison (Bison bison) respond to climatic variation over time remains limited.MethodsTo address this, we analyzed a large dataset comprising more than 672,000 weight observations from 186,732 individuals collected over 20 years across 14 widely-dispersed geographic locations to investigate how climate, birth cohorts, and translocation practices shape bison growth dynamics. Using a three-parameter logistic model, we estimated asymptotic body mass (ABM) across seven quinquennial cohorts and correlated these estimates with local climatic conditions, specifically mean annual temperature (MAT) and precipitation (MAP).ResultsBison ABM varied geographically in accordance with climate: individuals attained their greatest adult body masses in moderate climates (around 10--12{$^\circ$}C MAT and 500--650 mm MAP), whereas both warmer-drier and cooler climates were associated with reduced ABM, as confirmed by a significant quadratic climate--size relationship (p {$<$} 0.01). Sexual size dimorphism was also highest under these moderate conditions, with males achieving disproportionately larger sizes than females in such environments. Significant cohort effects were detected, with certain birth year cohorts consistently exhibiting higher or lower ABM, likely reflecting the influence of early-life environmental conditions. Furthermore, animals that were translocated between localities exhibited changed growth patterns. Female bison translocated between herds showed growth trajectories that were intermediate between their herd of origin and their new destination, potentially indicating partial convergence to local size norms.DiscussionThis work supports the dominant influence of environmental conditions on bison body size, consistent with previous findings, while expanding our understanding on a broader spatial and temporal scale. Future management strategies should consider localized climate optima and the long-term impacts of translocation, ensuring that bison continue to fulfill their critical ecological roles in North America.}
+      \field{day}{10}
+      \field{issn}{2296-701X}
+      \field{journaltitle}{Frontiers in Ecology and Evolution}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{shortjournal}{Front. Ecol. Evol.}
+      \field{title}{Climate and Translocations Drive Spatiotemporal Variation in Growth and Body Size of {{North American}} Bison ({{Bison}} Bison)}
+      \field{urlday}{10}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{13}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.3389/fevo.2025.1683267
+      \endverb
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/NTU7USGJ/Fresno-Rueda et al. - 2025 - Climate and translocations drive spatiotemporal variation in growth and body size of North American.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2025.1683267/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2025.1683267/full
+      \endverb
+      \keyw{,bison,body size,climate change,cohort effect,conservation,management,translocation}
     \endentry
     \entry{Antaya_2025a}{unpublished}{}
       \name{author}{1}{}{%
@@ -3255,8 +3357,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{10}
-      \field{month}{7}
+      \field{day}{7}
+      \field{month}{10}
       \field{title}{Examination of {{Behavioral Variation}}, {{Site Use}} and {{Interspecies Interaction}} in the {{Heber Wild Horse Territory}}, {{Arizona}}, {{USA}}.}
       \field{year}{2019}
       \field{dateera}{ce}
@@ -3526,10 +3628,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Foundations of {{Virtual Fencing}}: {{Specifics}} on {{Collar Deployment}} by {{Company}}}
+      \field{title}{[{{In Press}}] {{Foundations}} of {{Virtual Fencing}}: {{Specifics}} on {{Collar Deployment}} by {{Company}}}
       \field{type}{Extension Publication}
       \field{year}{In Press}
       \true{nocite}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/ZFCJB86V/Audoin et al. - [In Press] Foundations of Virtual Fencing Specifics on Collar Deployment by Company.pdf
+      \endverb
     \endentry
     \entry{Fresno-Rueda_et_al_InPress}{article}{}
       \name{author}{8}{}{%
@@ -3588,6 +3693,7 @@
       \strng{authorbibnamehash}{62d70a75694103a50f06ac9cc66878b1}
       \strng{authornamehash}{740cb740ffe3e24eefa5f5a4d949a325}
       \strng{authorfullhash}{62d70a75694103a50f06ac9cc66878b1}
+      \field{extraname}{1}
       \field{sortinit}{I}
       \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
       \field{extradatescope}{labelyear}
@@ -3599,6 +3705,104 @@
       \field{title}{Climate and {{Translocations Drive Spatiotemporal Variation}} in {{Growth}} and {{Body Size}} of {{North American Bison}} ({{Bison}} Bison)}
       \field{year}{In Press}
       \true{nocite}
+    \endentry
+    \entry{Fresno-Rueda_et_al_2025}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=d663ceea3f04c653c822b110fb1f8e4f}{%
+           family={Fresno-Rueda},
+           familyi={F\bibinithyphendelim R\bibinitperiod},
+           given={Anlly},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b81433ae456fb5f4d212b3b71ea9a01}{%
+           family={Wolfe},
+           familyi={W\bibinitperiod},
+           given={Hayden},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d24298f3c01b33a76521a9ab4abcdf64}{%
+           family={Ramirez-Camba},
+           familyi={R\bibinithyphendelim C\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b9977f743cec09600ca3df62d284f3c}{%
+           family={Antaya},
+           familyi={A\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75c455b24418cdbd6e698ec86382ad56}{%
+           family={Bragg},
+           familyi={B\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02d21d0c1eab62fed8ef8385ab404eb6}{%
+           family={Kruse},
+           familyi={K\bibinitperiod},
+           given={Carter},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d575957efde51887507fb17cc73e49c}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Jameson},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54f1223831dc9edfb58b17ed3e973df5}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Jeff\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers}%
+      }
+      \strng{namehash}{740cb740ffe3e24eefa5f5a4d949a325}
+      \strng{fullhash}{53b1588d07395ebcfc1a61843c4b4c4a}
+      \strng{bibnamehash}{53b1588d07395ebcfc1a61843c4b4c4a}
+      \strng{authorbibnamehash}{53b1588d07395ebcfc1a61843c4b4c4a}
+      \strng{authornamehash}{740cb740ffe3e24eefa5f5a4d949a325}
+      \strng{authorfullhash}{53b1588d07395ebcfc1a61843c4b4c4a}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{IntroductionBody size is a fundamental trait that influences survival, reproduction, and ecosystem functioning in large herbivores. Despite their ecological importance, our understanding of how North American bison (Bison bison) respond to climatic variation over time remains limited.MethodsTo address this, we analyzed a large dataset comprising more than 672,000 weight observations from 186,732 individuals collected over 20 years across 14 widely-dispersed geographic locations to investigate how climate, birth cohorts, and translocation practices shape bison growth dynamics. Using a three-parameter logistic model, we estimated asymptotic body mass (ABM) across seven quinquennial cohorts and correlated these estimates with local climatic conditions, specifically mean annual temperature (MAT) and precipitation (MAP).ResultsBison ABM varied geographically in accordance with climate: individuals attained their greatest adult body masses in moderate climates (around 10--12{$^\circ$}C MAT and 500--650 mm MAP), whereas both warmer-drier and cooler climates were associated with reduced ABM, as confirmed by a significant quadratic climate--size relationship (p {$<$} 0.01). Sexual size dimorphism was also highest under these moderate conditions, with males achieving disproportionately larger sizes than females in such environments. Significant cohort effects were detected, with certain birth year cohorts consistently exhibiting higher or lower ABM, likely reflecting the influence of early-life environmental conditions. Furthermore, animals that were translocated between localities exhibited changed growth patterns. Female bison translocated between herds showed growth trajectories that were intermediate between their herd of origin and their new destination, potentially indicating partial convergence to local size norms.DiscussionThis work supports the dominant influence of environmental conditions on bison body size, consistent with previous findings, while expanding our understanding on a broader spatial and temporal scale. Future management strategies should consider localized climate optima and the long-term impacts of translocation, ensuring that bison continue to fulfill their critical ecological roles in North America.}
+      \field{day}{10}
+      \field{issn}{2296-701X}
+      \field{journaltitle}{Frontiers in Ecology and Evolution}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{shortjournal}{Front. Ecol. Evol.}
+      \field{title}{Climate and Translocations Drive Spatiotemporal Variation in Growth and Body Size of {{North American}} Bison ({{Bison}} Bison)}
+      \field{urlday}{10}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{13}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.3389/fevo.2025.1683267
+      \endverb
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/NTU7USGJ/Fresno-Rueda et al. - 2025 - Climate and translocations drive spatiotemporal variation in growth and body size of North American.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2025.1683267/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2025.1683267/full
+      \endverb
+      \keyw{,bison,body size,climate change,cohort effect,conservation,management,translocation}
     \endentry
     \entry{Antaya_2025a}{unpublished}{}
       \name{author}{1}{}{%
@@ -6649,8 +6853,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{10}
-      \field{month}{7}
+      \field{day}{7}
+      \field{month}{10}
       \field{title}{Examination of {{Behavioral Variation}}, {{Site Use}} and {{Interspecies Interaction}} in the {{Heber Wild Horse Territory}}, {{Arizona}}, {{USA}}.}
       \field{year}{2019}
       \field{dateera}{ce}
