@@ -19,7 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{ndymdt/apasortcite//global/global}
-    \entry{Antaya_InPrep}{unpublished}{}
+    \entry{Antaya_2026}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -65,22 +65,29 @@
       \strng{nameanamehash}{9887ec5928158c840c1e991f19600a28}
       \strng{nameafullhash}{f949f51d4db51b170b9958fdb93503c7}
       \field{extraname}{1}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{annotation}{Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License}
+      \field{day}{2}
       \field{eventtitle}{The {{Society}} for {{Range Management Annual Meeting}}}
+      \field{month}{9}
       \field{nameatype}{collaborator}
       \field{title}{Ranch {{Reports}}: {{An Integrated Decision Support Tool}} to {{Estimate Forage Quantity}} and {{Quality}} for {{Land Managers}}}
       \field{type}{Oral Presentation}
       \field{venue}{Monterey, California, USA}
-      \field{year}{In Prep}
+      \field{year}{2026}
+      \field{dateera}{ce}
       \true{nocite}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/A4QXTRZE/Antaya_SRM26_Ranch_Reports.pptx
+      \endverb
     \endentry
-    \entry{Audoin_et_al_InPress}{report}{}
-      \name{author}{5}{}{%
+    \entry{Audoin_et_al_2025a}{report}{}
+      \name{author}{5}{ul=2}{%
         {{un=0,uniquepart=base,hash=2ad085d00b8a688e65a471693db6b512}{%
            family={Audoin},
            familyi={A\bibinitperiod},
@@ -118,97 +125,41 @@
       \list{location}{1}{%
         {Tucson, Arizona, USA}%
       }
-      \strng{namehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{namehash}{a37ba25e2ca1854541ba1cc0d934e65f}
       \strng{fullhash}{96b8e4374c923c5fa69583d44fcca3c7}
       \strng{bibnamehash}{96b8e4374c923c5fa69583d44fcca3c7}
       \strng{authorbibnamehash}{96b8e4374c923c5fa69583d44fcca3c7}
-      \strng{authornamehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{authornamehash}{a37ba25e2ca1854541ba1cc0d934e65f}
       \strng{authorfullhash}{96b8e4374c923c5fa69583d44fcca3c7}
-      \field{extraname}{1}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{[{{In Press}}] {{Foundations}} of {{Virtual Fencing}}: {{Specifics}} on {{Collar Deployment}} by {{Company}}}
+      \field{month}{12}
+      \field{number}{az2175}
+      \field{title}{Foundations of {{Virtual Fencing}}: {{Specifics}} on {{Collar Deployment}} by {{Company}}}
       \field{type}{Extension Publication}
-      \field{year}{In Press}
+      \field{urlday}{24}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
+      \field{pages}{14}
+      \range{pages}{1}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/ZFCJB86V/Audoin et al. - [In Press] Foundations of Virtual Fencing Specifics on Collar Deployment by Company.pdf
+      \verb /home/andrew/Zotero/storage/TTM5M4DY/Audoin et al. - 2025 - Foundations of Virtual Fencing Specifics on Collar Deployment by Company.pdf
       \endverb
-    \endentry
-    \entry{Fresno-Rueda_et_al_InPress}{article}{}
-      \name{author}{8}{}{%
-        {{un=0,uniquepart=base,hash=d663ceea3f04c653c822b110fb1f8e4f}{%
-           family={Fresno-Rueda},
-           familyi={F\bibinithyphendelim R\bibinitperiod},
-           given={Anlly},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4b81433ae456fb5f4d212b3b71ea9a01}{%
-           family={Wolfe},
-           familyi={W\bibinitperiod},
-           given={Hayden},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d24298f3c01b33a76521a9ab4abcdf64}{%
-           family={Ramirez-Camba},
-           familyi={R\bibinithyphendelim C\bibinitperiod},
-           given={Christian},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
-           family={Antaya},
-           familyi={A\bibinitperiod},
-           given={Andrew\bibnamedelima M.},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=75c455b24418cdbd6e698ec86382ad56}{%
-           family={Bragg},
-           familyi={B\bibinitperiod},
-           given={Tom},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=02d21d0c1eab62fed8ef8385ab404eb6}{%
-           family={Kruse},
-           familyi={K\bibinitperiod},
-           given={Carter},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7f58cb0feb7047b222a2dadfde73090b}{%
-           family={Brennan},
-           familyi={B\bibinitperiod},
-           given={Jameson\bibnamedelima R.},
-           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=54f1223831dc9edfb58b17ed3e973df5}{%
-           family={Martin},
-           familyi={M\bibinitperiod},
-           given={Jeff\bibnamedelima M.},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{740cb740ffe3e24eefa5f5a4d949a325}
-      \strng{fullhash}{62d70a75694103a50f06ac9cc66878b1}
-      \strng{bibnamehash}{62d70a75694103a50f06ac9cc66878b1}
-      \strng{authorbibnamehash}{62d70a75694103a50f06ac9cc66878b1}
-      \strng{authornamehash}{740cb740ffe3e24eefa5f5a4d949a325}
-      \strng{authorfullhash}{62d70a75694103a50f06ac9cc66878b1}
-      \field{extraname}{1}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Frontiers in Ecology and Evolution}
-      \field{title}{Climate and {{Translocations Drive Spatiotemporal Variation}} in {{Growth}} and {{Body Size}} of {{North American Bison}} ({{Bison}} Bison)}
-      \field{year}{In Press}
-      \true{nocite}
+      \verb{urlraw}
+      \verb https://extension.arizona.edu/publication/foundations-virtual-fencing-specifics-collar-deployment-company
+      \endverb
+      \verb{url}
+      \verb https://extension.arizona.edu/publication/foundations-virtual-fencing-specifics-collar-deployment-company
+      \endverb
     \endentry
     \entry{Fresno-Rueda_et_al_2025}{article}{}
       \name{author}{8}{}{%
@@ -270,7 +221,6 @@
       \strng{authorbibnamehash}{53b1588d07395ebcfc1a61843c4b4c4a}
       \strng{authornamehash}{740cb740ffe3e24eefa5f5a4d949a325}
       \strng{authorfullhash}{53b1588d07395ebcfc1a61843c4b4c4a}
-      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -624,19 +574,19 @@
       \keyw{,big-data,bison,cattle,data-engineering,data-management,enteric-emissions,precision-livestock-farming}
     \endentry
     \entry{Audoin_et_al_2025}{report}{}
-      \name{author}{10}{}{%
+      \name{author}{10}{ul=2}{%
         {{un=0,uniquepart=base,hash=2ad085d00b8a688e65a471693db6b512}{%
            family={Audoin},
            familyi={A\bibinitperiod},
            given={Flavie},
            giveni={F\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=3b9977f743cec09600ca3df62d284f3c}{%
+        {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
            familyi={A\bibinitperiod},
            given={Andrew},
            giveni={A\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=91d091814794d1eef6078ec2acbbb168}{%
            family={May},
            familyi={M\bibinitperiod},
@@ -692,13 +642,12 @@
       \list{location}{1}{%
         {Tucson, Arizona, USA}%
       }
-      \strng{namehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{namehash}{8f255ccc1aeb94db5239534cc7675752}
       \strng{fullhash}{48e89497d12e5e951d87a1b40fe35848}
       \strng{bibnamehash}{48e89497d12e5e951d87a1b40fe35848}
       \strng{authorbibnamehash}{48e89497d12e5e951d87a1b40fe35848}
-      \strng{authornamehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{authornamehash}{8f255ccc1aeb94db5239534cc7675752}
       \strng{authorfullhash}{48e89497d12e5e951d87a1b40fe35848}
-      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -3515,7 +3464,7 @@
     \endentry
   \enddatalist
   \datalist[entry]{ndymdt/global//global/global}
-    \entry{Antaya_InPrep}{unpublished}{}
+    \entry{Antaya_2026}{unpublished}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
            family={Antaya},
@@ -3561,22 +3510,29 @@
       \strng{nameanamehash}{9887ec5928158c840c1e991f19600a28}
       \strng{nameafullhash}{f949f51d4db51b170b9958fdb93503c7}
       \field{extraname}{1}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{annotation}{Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License}
+      \field{day}{2}
       \field{eventtitle}{The {{Society}} for {{Range Management Annual Meeting}}}
+      \field{month}{9}
       \field{nameatype}{collaborator}
       \field{title}{Ranch {{Reports}}: {{An Integrated Decision Support Tool}} to {{Estimate Forage Quantity}} and {{Quality}} for {{Land Managers}}}
       \field{type}{Oral Presentation}
       \field{venue}{Monterey, California, USA}
-      \field{year}{In Prep}
+      \field{year}{2026}
+      \field{dateera}{ce}
       \true{nocite}
+      \verb{file}
+      \verb /home/andrew/Zotero/storage/A4QXTRZE/Antaya_SRM26_Ranch_Reports.pptx
+      \endverb
     \endentry
-    \entry{Audoin_et_al_InPress}{report}{}
-      \name{author}{5}{}{%
+    \entry{Audoin_et_al_2025a}{report}{}
+      \name{author}{5}{ul=2}{%
         {{un=0,uniquepart=base,hash=2ad085d00b8a688e65a471693db6b512}{%
            family={Audoin},
            familyi={A\bibinitperiod},
@@ -3614,97 +3570,41 @@
       \list{location}{1}{%
         {Tucson, Arizona, USA}%
       }
-      \strng{namehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{namehash}{a37ba25e2ca1854541ba1cc0d934e65f}
       \strng{fullhash}{96b8e4374c923c5fa69583d44fcca3c7}
       \strng{bibnamehash}{96b8e4374c923c5fa69583d44fcca3c7}
       \strng{authorbibnamehash}{96b8e4374c923c5fa69583d44fcca3c7}
-      \strng{authornamehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{authornamehash}{a37ba25e2ca1854541ba1cc0d934e65f}
       \strng{authorfullhash}{96b8e4374c923c5fa69583d44fcca3c7}
-      \field{extraname}{1}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{[{{In Press}}] {{Foundations}} of {{Virtual Fencing}}: {{Specifics}} on {{Collar Deployment}} by {{Company}}}
+      \field{month}{12}
+      \field{number}{az2175}
+      \field{title}{Foundations of {{Virtual Fencing}}: {{Specifics}} on {{Collar Deployment}} by {{Company}}}
       \field{type}{Extension Publication}
-      \field{year}{In Press}
+      \field{urlday}{24}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
       \true{nocite}
+      \field{pages}{14}
+      \range{pages}{1}
       \verb{file}
-      \verb /home/andrew/Zotero/storage/ZFCJB86V/Audoin et al. - [In Press] Foundations of Virtual Fencing Specifics on Collar Deployment by Company.pdf
+      \verb /home/andrew/Zotero/storage/TTM5M4DY/Audoin et al. - 2025 - Foundations of Virtual Fencing Specifics on Collar Deployment by Company.pdf
       \endverb
-    \endentry
-    \entry{Fresno-Rueda_et_al_InPress}{article}{}
-      \name{author}{8}{}{%
-        {{un=0,uniquepart=base,hash=d663ceea3f04c653c822b110fb1f8e4f}{%
-           family={Fresno-Rueda},
-           familyi={F\bibinithyphendelim R\bibinitperiod},
-           given={Anlly},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4b81433ae456fb5f4d212b3b71ea9a01}{%
-           family={Wolfe},
-           familyi={W\bibinitperiod},
-           given={Hayden},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d24298f3c01b33a76521a9ab4abcdf64}{%
-           family={Ramirez-Camba},
-           familyi={R\bibinithyphendelim C\bibinitperiod},
-           given={Christian},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4f70167881ef27ae3f4a13cfe8c90707}{%
-           family={Antaya},
-           familyi={A\bibinitperiod},
-           given={Andrew\bibnamedelima M.},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=75c455b24418cdbd6e698ec86382ad56}{%
-           family={Bragg},
-           familyi={B\bibinitperiod},
-           given={Tom},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=02d21d0c1eab62fed8ef8385ab404eb6}{%
-           family={Kruse},
-           familyi={K\bibinitperiod},
-           given={Carter},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7f58cb0feb7047b222a2dadfde73090b}{%
-           family={Brennan},
-           familyi={B\bibinitperiod},
-           given={Jameson\bibnamedelima R.},
-           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=54f1223831dc9edfb58b17ed3e973df5}{%
-           family={Martin},
-           familyi={M\bibinitperiod},
-           given={Jeff\bibnamedelima M.},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{740cb740ffe3e24eefa5f5a4d949a325}
-      \strng{fullhash}{62d70a75694103a50f06ac9cc66878b1}
-      \strng{bibnamehash}{62d70a75694103a50f06ac9cc66878b1}
-      \strng{authorbibnamehash}{62d70a75694103a50f06ac9cc66878b1}
-      \strng{authornamehash}{740cb740ffe3e24eefa5f5a4d949a325}
-      \strng{authorfullhash}{62d70a75694103a50f06ac9cc66878b1}
-      \field{extraname}{1}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Frontiers in Ecology and Evolution}
-      \field{title}{Climate and {{Translocations Drive Spatiotemporal Variation}} in {{Growth}} and {{Body Size}} of {{North American Bison}} ({{Bison}} Bison)}
-      \field{year}{In Press}
-      \true{nocite}
+      \verb{urlraw}
+      \verb https://extension.arizona.edu/publication/foundations-virtual-fencing-specifics-collar-deployment-company
+      \endverb
+      \verb{url}
+      \verb https://extension.arizona.edu/publication/foundations-virtual-fencing-specifics-collar-deployment-company
+      \endverb
     \endentry
     \entry{Fresno-Rueda_et_al_2025}{article}{}
       \name{author}{8}{}{%
@@ -3766,7 +3666,6 @@
       \strng{authorbibnamehash}{53b1588d07395ebcfc1a61843c4b4c4a}
       \strng{authornamehash}{740cb740ffe3e24eefa5f5a4d949a325}
       \strng{authorfullhash}{53b1588d07395ebcfc1a61843c4b4c4a}
-      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -4120,19 +4019,19 @@
       \keyw{,big-data,bison,cattle,data-engineering,data-management,enteric-emissions,precision-livestock-farming}
     \endentry
     \entry{Audoin_et_al_2025}{report}{}
-      \name{author}{10}{}{%
+      \name{author}{10}{ul=2}{%
         {{un=0,uniquepart=base,hash=2ad085d00b8a688e65a471693db6b512}{%
            family={Audoin},
            familyi={A\bibinitperiod},
            given={Flavie},
            giveni={F\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=3b9977f743cec09600ca3df62d284f3c}{%
+        {{un=1,uniquepart=given,hash=3b9977f743cec09600ca3df62d284f3c}{%
            family={Antaya},
            familyi={A\bibinitperiod},
            given={Andrew},
            giveni={A\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=91d091814794d1eef6078ec2acbbb168}{%
            family={May},
            familyi={M\bibinitperiod},
@@ -4188,13 +4087,12 @@
       \list{location}{1}{%
         {Tucson, Arizona, USA}%
       }
-      \strng{namehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{namehash}{8f255ccc1aeb94db5239534cc7675752}
       \strng{fullhash}{48e89497d12e5e951d87a1b40fe35848}
       \strng{bibnamehash}{48e89497d12e5e951d87a1b40fe35848}
       \strng{authorbibnamehash}{48e89497d12e5e951d87a1b40fe35848}
-      \strng{authornamehash}{877d852e14fa7e7a689598001cfa9220}
+      \strng{authornamehash}{8f255ccc1aeb94db5239534cc7675752}
       \strng{authorfullhash}{48e89497d12e5e951d87a1b40fe35848}
-      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
