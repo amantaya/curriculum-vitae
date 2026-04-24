@@ -1,23 +1,19 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'cv.blg'
-[41] biber:340> INFO - === Mon Apr  6, 2026, 17:01:59
-[50] Biber.pm:419> INFO - Reading 'cv.bcf'
-[88] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[97] Biber.pm:4419> INFO - Processing section 0
-[103] Biber.pm:4610> INFO - Looking for bibtex file 'my-pubs.bib' for section 0
-[105] bibtex.pm:1713> INFO - LaTeX decoding ...
-[133] bibtex.pm:1519> INFO - Found BibTeX data source 'my-pubs.bib'
-[453] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[453] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[454] Biber.pm:4239> INFO - Sorting list 'ndymdt/apasortcite//global/global' of type 'entry' with template 'ndymdt' and locale 'en-US'
-[454] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[526] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[527] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[527] Biber.pm:4239> INFO - Sorting list 'ndymdt/global//global/global' of type 'entry' with template 'ndymdt' and locale 'en-US'
-[527] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[561] bbl.pm:660> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
-[604] bbl.pm:763> INFO - Output to cv.bbl
-[604] Biber.pm:131> WARN - legacy year field 'In Press' in entry 'Audoin_et_al_InPress' is not an integer - this will probably not sort properly.
-[604] Biber.pm:131> WARN - legacy year field 'In Press' in entry 'Fresno-Rueda_et_al_InPress' is not an integer - this will probably not sort properly.
-[604] Biber.pm:131> WARN - legacy year field 'In Prep' in entry 'Antaya_InPrep' is not an integer - this will probably not sort properly.
-[604] Biber.pm:133> INFO - WARNINGS: 3
+[38] biber:340> INFO - === Fri Apr 24, 2026, 12:44:19
+[46] Biber.pm:419> INFO - Reading 'cv.bcf'
+[81] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[90] Biber.pm:4419> INFO - Processing section 0
+[95] Biber.pm:4610> INFO - Looking for bibtex file 'my-pubs.bib' for section 0
+[97] bibtex.pm:1713> INFO - LaTeX decoding ...
+[123] bibtex.pm:1519> INFO - Found BibTeX data source 'my-pubs.bib'
+[419] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[419] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[419] Biber.pm:4239> INFO - Sorting list 'ndymdt/apasortcite//global/global' of type 'entry' with template 'ndymdt' and locale 'en-US'
+[419] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[485] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[485] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[485] Biber.pm:4239> INFO - Sorting list 'ndymdt/global//global/global' of type 'entry' with template 'ndymdt' and locale 'en-US'
+[485] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[516] bbl.pm:660> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
+[557] bbl.pm:763> INFO - Output to cv.bbl
